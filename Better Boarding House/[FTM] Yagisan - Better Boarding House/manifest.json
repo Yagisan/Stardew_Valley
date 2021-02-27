@@ -1,0 +1,23 @@
+{
+  "Name": "[FTM] Yagisan - Better Boarding House",
+  "Author": "Yagisan",
+  "Version": "1.0.0",
+  "Description": "Improves the Boarding House Forage.",
+  "UniqueID": "Yagisan.BetterBoardingHouse",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Esca.FarmTypeManager",
+    "MinimumVersion": "1.9.0"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "FTMBdHouse",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "ppja.fruitsandveggies",
+      "IsRequired": false
+   },
+   ]
+ }
