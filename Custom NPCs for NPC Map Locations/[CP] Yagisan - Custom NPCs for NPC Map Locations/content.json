@@ -319,16 +319,8 @@
         "LunnaWestForest": {
           "MapVectors": [
           {
-            "TileX": 0,
-            "TileY": 0,
             "MapX": 190,
             "MapY": 480
-          },
-          {
-            "TileX": 27,
-            "TileY": 21,
-            "MapX": 210,
-            "MapY": 500
           }
         ]
       },
@@ -403,7 +395,51 @@
         },
     },
 
+        // Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
+        
+        "RidgesideVillage": {
+          "MapVectors": [
+          {
+            "TileX": 0,
+            "TileY": 0,
+            "MapX": 1,
+            "MapY": 221
+          },
+          {
+            "TileX": 149,
+            "TileY": 129,
+            "MapX": 200,
+            "MapY": 480
+          }
+        ],
+        "MapTooltip": {
+          "X": 30,
+          "Y": 221,
+          "Width": 170,
+          "Height": 200,
+          "PrimaryText": "Ridgeside Village"
+          },
+      },
 
+      "BloomingHillsFarm": {
+        "MapTooltip": {
+          "X": 0,
+          "Y": 229,
+          "Width": 68,
+          "Height": 152,
+          "PrimaryText": "Blooming Hill Farm"
+        },
+      },
+
+      "NightingaleOrchard": {
+        "MapTooltip": {
+          "X": 0,
+          "Y": 381,
+          "Width": 124,
+          "Height": 98,
+          "PrimaryText": "Nightingale Orchard"
+        },
+      },
 
       },
     },
