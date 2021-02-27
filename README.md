@@ -7,3 +7,9 @@ In game it is established that Krobus and the Dwarf do understand each other, so
 Upon reaching 4 hearts with Krobus, he will have 1 dwarf scroll, selected randomly, each day.
 
 This mod requires [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005) to function.
+
+## Better Hilltop.
+This mod was created because the default Hilltop map quarry is useless in the base game.
+This increases the amount of stones, geodes, ore and gems produced by the Hiltop Quarry.
+
+This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
