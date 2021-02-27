@@ -30,3 +30,15 @@ You can find the following additional forage. Some forage items require [PPJA - 
 This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
 This mod requires [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) to function.
 This mod optionally requires [PPJA - Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598) for additional function.
+
+
+## Custom NPCs for NPC Map Locations
+This mod was created to show custom NPC's on the world map using [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239). **It does not include any maps.**
+
+This mod supports NPCs and Locations from:
+* [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120).
+* [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
+* [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
+* [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
+* [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+
