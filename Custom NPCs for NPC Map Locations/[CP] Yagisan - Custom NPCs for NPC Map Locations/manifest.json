@@ -1,7 +1,7 @@
 {
    "Name": "[CP] Yagisan - Custom NPCs for NPC Map Locations",
    "Author": "Yagisan",
-   "Version": "1.0.0",
+   "Version": "1.0.1",
    "Description": "Setup Custom NPCs for the NPC Map Location mod",
    "UniqueID": "Yagisan.NPCMapLocationsForNPCs",
    "MinimumApiVersion": "3.0.0",
@@ -20,19 +20,31 @@
        },
        {
          "UniqueID": "LemurKat.JulietHouse.NPC",
-         "IsRequired": true
+         "IsRequired": false
        },
        {
          "UniqueID": "Rafseazz.LunnaCP",
-         "IsRequired": true
+         "IsRequired": false
        },
        {
          "UniqueID": "FlashShifter.StardewValleyExpandedCP",
-         "IsRequired": true
+         "IsRequired": false
        },
        {
          "UniqueID": "Rafseazz.RSVCP",
-         "IsRequired": true
+         "IsRequired": false
        },
+       {
+        "UniqueID": "malic.cp.jadeNPC",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "attonbomb.Beatrice",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "LemurKat.Mr.Ginger.NPC",
+        "IsRequired": false
+      },
      ]
 }
