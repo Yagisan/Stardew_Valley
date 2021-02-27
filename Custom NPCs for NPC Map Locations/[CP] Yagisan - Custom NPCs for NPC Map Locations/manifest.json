@@ -1,0 +1,38 @@
+{
+   "Name": "[CP] Yagisan - Custom NPCs for NPC Map Locations",
+   "Author": "Yagisan",
+   "Version": "1.0.0",
+   "Description": "Setup Custom NPCs for the NPC Map Location mod",
+   "UniqueID": "Yagisan.NPCMapLocationsForNPCs",
+   "MinimumApiVersion": "3.0.0",
+   "UpdateKeys": [ ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   },
+   "Dependencies": [
+      {
+        "UniqueID": "Bouhm.NPCMapLocations",
+        "IsRequired": true
+      },
+      {
+         "UniqueID": "FTMBdHouse",
+         "IsRequired": false
+       },
+       {
+         "UniqueID": "LemurKat.JulietHouse.NPC",
+         "IsRequired": true
+       },
+       {
+         "UniqueID": "Rafseazz.LunnaCP",
+         "IsRequired": true
+       },
+       {
+         "UniqueID": "FlashShifter.StardewValleyExpandedCP",
+         "IsRequired": true
+       },
+       {
+         "UniqueID": "Rafseazz.RSVCP",
+         "IsRequired": true
+       },
+     ]
+}

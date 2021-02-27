@@ -1,0 +1,411 @@
+{
+  "Format": "1.20.0",
+    
+  "Changes": [
+
+    {   
+      "Action": "EditData",
+      "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+      "Entries": {
+
+        // Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
+
+      	"Alesia": {
+          "MarkerCropOffset": 2
+        },
+        "Andy": {
+          "MarkerCropOffset": 0
+        },
+        "Apples": {
+          "MarkerCropOffset": 16
+        },
+        "Camilla": {
+          "MarkerCropOffset": 2
+        },
+        "Claire_Joja": {
+          "MarkerCropOffset": 3
+        },
+        "Isaac": {
+          "MarkerCropOffset": 0
+        },
+        "MarlonFay": {
+          "MarkerCropOffset": 2
+        },
+        "Morgan": {
+          "MarkerCropOffset": 8
+        },
+        "Olivia": {
+          "MarkerCropOffset": 1
+        },
+        "Victor": {
+          "MarkerCropOffset": 0
+        },
+        "Scarlett": {
+          "MarkerCropOffset": 4
+        },
+        "Susan": {
+          "MarkerCropOffset": 1
+        },
+        "Sophia": {
+          "MarkerCropOffset": 3
+        },
+        "Martin": {
+          "MarkerCropOffset": 2
+        },
+        "GuntherSilvian": {
+          "MarkerCropOffset": 4
+        },
+
+        // Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
+
+        "Lunna": {
+          "MarkerCropOffset": 3
+        },
+
+        // Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
+
+        "Juliet": {
+          "MarkerCropOffset": 3
+        }
+
+      }
+    },
+    
+    {   
+      "Action": "EditData",
+      "Target": "Mods/Bouhm.NPCMapLocations/Locations",
+      "Entries": {
+
+        // Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
+
+        "BlueMoonVineyard": {
+          "MapVectors": [
+            {
+              "TileX": 0,
+              "TileY": 0,
+              "MapX": 547,
+              "MapY": 470
+            },
+            {
+              "TileX": 75,
+              "TileY": 55,
+              "MapX": 715,
+              "MapY": 604
+            }
+          ],
+          "MapTooltip": {
+            "X": 561,
+            "Y": 510,
+            "Width": 110,
+            "Height": 64,
+            "PrimaryText": "Blue Moon Vineyard"
+          }
+        },
+
+        "CrimsonBadlands": {
+          "MapVectors": [
+		      {
+		        "TileX": 0,
+		        "TileY": 0,
+		        "MapX": 4,
+		        "MapY": 4
+		      },
+		      {
+		        "TileX": 232,
+		        "TileY": 156,
+		        "MapX": 92,
+		        "MapY": 40
+		      }
+          ]
+        },
+
+        "Desert": {
+          "MapVectors": [
+            {
+              "TileX": 0,
+              "TileY": 0,
+              "MapX": 0,
+              "MapY": 26
+            },
+            {
+              "TileX": 170,
+              "TileY": 90,
+              "MapX": 355,
+              "MapY": 213
+            }
+          ]
+        },
+
+        "DesertRailway": {
+          "MapVectors": [
+            {
+	          "MapX": 104,
+	          "MapY": 34
+	        }
+          ]
+        },
+
+        "ForestWest": {
+          "MapVectors": [
+            {
+              "MapX": 21,
+              "MapY": 579
+            }
+          ],
+          "MapTooltip": {
+            "X": 6,
+            "Y": 567,
+            "Width": 107,
+            "Height": 64,
+            "PrimaryText": "Forest West"
+          },
+        },
+
+        "GrampletonFields": {
+          "MapVectors": [
+            {
+              "MapX": 1190,
+              "MapY": 393
+            }
+          ]
+        },
+
+		"IridiumQuarry": {
+          "MapVectors": [
+            {
+              "MapX": 4,
+              "MapY": 4
+            }
+          ]
+        },
+
+        "LostWoods": {
+          "MapVectors": [
+            {
+              "MapX": 156,
+              "MapY": 698
+            }
+          ]
+        },
+
+        "ShearwaterBridge": {
+          "MapVectors": [
+            {
+              "TileX": 0,
+              "TileY": 0,
+              "MapX": 1050,
+              "MapY": 363
+            },
+            {
+              "TileX": 80,
+              "TileY": 40,
+              "MapX": 1165,
+              "MapY": 414 
+            }
+          ]
+        },
+
+        "SpriteSpring": {
+          "MapVectors": [
+            {
+              "MapX": 21,
+              "MapY": 579
+            }
+          ]
+        },
+
+        "TownEast": {
+          "MapVectors": [
+            {
+              "TileX": 0,
+              "TileY": 0,
+              "MapX": 940,
+              "MapY": 400
+            },
+            {
+              "TileX": 40,
+              "TileY": 30,
+              "MapX": 1050,
+              "MapY": 490
+            }
+          ],
+        },
+
+        "TreasureCave": {
+          "MapVectors": [
+            {
+              "MapX": 10,
+              "MapY": 34
+            }
+          ]
+        },
+
+        "AndysHouse": {
+          "MapTooltip": {
+            "X": 386,
+            "Y": 542,
+            "Width": 21,
+            "Height": 21,
+            "PrimaryText": "Andy's House"
+          }
+        },
+
+        "EmeraldFarm": {
+          "MapTooltip": {
+            "X": 707,
+            "Y": 58,
+            "Width": 80,
+            "Height": 23,
+            "PrimaryText": "Emerald Farm"
+          }
+        },
+
+        "FairhavenFarm": {
+          "MapTooltip": {
+            "X": 429,
+            "Y": 550,
+            "Width": 35,
+            "Height": 36,
+            "PrimaryText": "Fairhaven Farm"
+          }
+        },
+
+        "JenkinsHouse": {
+          "MapTooltip": {
+            "X": 755,
+            "Y": 291,
+            "Width": 38,
+            "Height": 25,
+            "PrimaryText": "Jenkins' Residence"
+          }
+        },
+
+        "SophiaHouse": {
+          "MapTooltip": {
+            "X": 600,
+            "Y": 488,
+            "Width": 36,
+            "Height": 28,
+            "PrimaryText": "Sophia's House"
+          }
+        },
+
+        "Summit": {
+          "MapTooltip": {
+            "X": 795,
+            "Y": 21,
+            "Width": 46,
+            "Height": 36,
+            "PrimaryText": "Summit"
+          }
+        },
+
+        "SusansHouse": {
+          "MapTooltip": {
+            "X": 690,
+            "Y": 31,
+            "Width": 44,
+            "Height": 21,
+            "PrimaryText": "Susan's House"
+          }
+        },
+
+        "Claire_WarpRoom": {
+	      "Exclude": true
+	    },
+
+        // Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
+
+        "LunnaWestForest": {
+          "MapVectors": [
+          {
+            "TileX": 0,
+            "TileY": 0,
+            "MapX": 190,
+            "MapY": 480
+          },
+          {
+            "TileX": 27,
+            "TileY": 21,
+            "MapX": 210,
+            "MapY": 500
+          }
+        ]
+      },
+
+        // Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
+
+        "ClearingHouse": {
+          "MapVectors": [
+          {
+            "TileX": 0,
+            "TileY": 0,
+            "MapX": 700,
+            "MapY": 160
+          },
+          {
+            "TileX": 60,
+            "TileY": 30,
+            "MapX": 740,
+            "MapY": 185
+          }
+        ]
+      },
+
+        // Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
+
+      "BackwoodsPlateau": {
+        "MapVectors": [
+        {
+          "TileX": 0,
+          "TileY": 0,
+          "MapX": 419,
+          "MapY": 82
+        },
+        {
+          "TileX": 60,
+          "TileY": 27,
+          "MapX": 581,
+          "MapY": 144
+        }
+      ]
+    },
+
+    "BuffaloRanch": {
+      "MapVectors": [
+        {
+        "MapX": 438,
+        "MapY": 93
+        },
+      ],
+      "MapTooltip": {
+        "X": 438,
+        "Y": 93,
+        "Width": 38,
+        "Height": 22,
+        "PrimaryText": "Buffalo Ranch"
+        },
+    },
+
+    "BoardingHouse": {
+      "MapVectors": [
+        {
+        "MapX": 525,
+        "MapY": 93
+        },
+      ],
+      "MapTooltip": {
+        "X": 525,
+        "Y": 93,
+        "Width": 18,
+        "Height": 13,
+        "PrimaryText": "Boarding House"
+        },
+    },
+
+
+
+      },
+    },
+  ],
+}
