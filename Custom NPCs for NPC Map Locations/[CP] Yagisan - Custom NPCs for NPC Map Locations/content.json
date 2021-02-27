@@ -66,7 +66,82 @@
 
         "Juliet": {
           "MarkerCropOffset": 3
-        }
+        },
+
+        // Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
+
+      	"Aguar": {
+          "MarkerCropOffset": 1
+        },
+      	"Alissa": {
+          "MarkerCropOffset": 4
+        },
+      	"Bert": {
+          "MarkerCropOffset": -1
+        },
+      	"Corine": {
+          "MarkerCropOffset": 2
+        },
+      	"Ezekiel": {
+          "MarkerCropOffset": 0
+        },
+      	"Flor": {
+          "MarkerCropOffset": 3
+        },
+      	"Freddie": {
+          "MarkerCropOffset": 2
+        },
+      	"Ian": {
+          "MarkerCropOffset": -1
+        },
+      	"Jeric": {
+          "MarkerCropOffset": -1
+        },
+      	"Jio": {
+          "MarkerCropOffset": 0
+        },
+      	"Keahi": {
+          "MarkerCropOffset": 6
+        },
+      	"Kenneth": {
+          "MarkerCropOffset": -1
+        },
+      	"Kiwi": {
+          "MarkerCropOffset": 10
+        },
+      	"Lenny": {
+          "MarkerCropOffset": 3
+        },
+      	"Lola": {
+          "MarkerCropOffset": 3
+        },
+      	"Maddie": {
+          "MarkerCropOffset": 3
+        },
+      	"Olga": {
+          "MarkerCropOffset": 3
+        },
+      	"Philip": {
+          "MarkerCropOffset": -1
+        },
+      	"Pika": {
+          "MarkerCropOffset": -1
+        },
+      	"Richard": {
+          "MarkerCropOffset": 1
+        },
+      	"Shiro": {
+          "MarkerCropOffset": -1
+        },
+      	"Trinnie": {
+          "MarkerCropOffset": 8
+        },
+      	"Ysabelle": {
+          "MarkerCropOffset": 3
+        },
+      	"Yuuma": {
+          "MarkerCropOffset": 6
+        },
 
       }
     },
