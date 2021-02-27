@@ -62,10 +62,22 @@
           "MarkerCropOffset": 3
         },
 
+        "Raphael": {
+          "MarkerCropOffset": 0
+        },
+
+        "Bianka": {
+          "MarkerCropOffset": 0
+        },
+
         // Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
 
         "Juliet": {
           "MarkerCropOffset": 3
+        },
+
+        "Jessie": {
+          "MarkerCropOffset": 0
         },
 
         // Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
@@ -142,6 +154,25 @@
       	"Yuuma": {
           "MarkerCropOffset": 6
         },
+
+        // Mister Ginger (cat NPC) - https://www.nexusmods.com/stardewvalley/mods/5295
+
+      	"Mister Ginger": {
+          "MarkerCropOffset": 16
+        },
+
+        // Jade NPC - https://www.nexusmods.com/stardewvalley/mods/5559
+
+      	"Jade": {
+          "MarkerCropOffset": 3
+        },
+
+        // Beatrice NPC - https://www.nexusmods.com/stardewvalley/mods/7042
+
+      	"Mister Ginger": {
+          "MarkerCropOffset": 3
+        },
+
 
       }
     },
