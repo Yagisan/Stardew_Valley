@@ -59,19 +59,19 @@
 			"MarkerCropOffset": 3
 		},
 
-
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 
+		"Bianka": {
+			"MarkerCropOffset": 5
+		},
+		"Dianna": {
+			"MarkerCropOffset": 14
+		},
 		"Lunna": {
 			"MarkerCropOffset": 3
 		},
-
 		"Raphael": {
-			"MarkerCropOffset": 0
-		},
-
-		"Bianka": {
-			"MarkerCropOffset": 0
+			"MarkerCropOffset": -1
 		},
 
 		// Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
