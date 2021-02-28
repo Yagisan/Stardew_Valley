@@ -620,6 +620,24 @@
 			},
 		},
 
+		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
+
+		"EastScarpe": {
+			"MapVectors": [
+			{
+				"MapX": 1150,
+				"MapY": 393
+			}
+			],
+			"MapTooltip": {
+				"X": 1150,
+				"Y": 393,
+				"Width": 170,
+				"Height": 200,
+				"PrimaryText": "East Scarpe"
+			},
+	  	},
+
 	},
 	},
 ],
