@@ -206,6 +206,19 @@
 			"MarkerCropOffset": 0
 		},
 
+		// Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
+
+		"Gregory": {
+			"MarkerCropOffset": -1
+		},
+		"Joel": {
+			"MarkerCropOffset": 0
+		},
+		"Sheila": {
+			"MarkerCropOffset": -1
+		},
+
+
 		}
 	},
 
@@ -517,6 +530,22 @@
 			}
 	  		]
 		},
+
+		"TheLostValley": {
+			"MapVectors": [
+			{
+				"MapX": 506,
+				"MapY": 90
+			}
+			],
+			"MapTooltip": {
+				"X": 506,
+				"Y": 90,
+				"Width": 18,
+				"Height": 13,
+				"PrimaryText": "The Lost Valley"
+			},
+	  	},
 
 		"BuffaloRanch": {
 			"MapVectors": [
