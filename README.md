@@ -35,6 +35,8 @@ This mod optionally requires [PPJA - Fruits and Veggies](https://www.nexusmods.c
 ## [Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)
 This mod was created to show custom NPC's on the world map using [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239). **It does not include any maps.**
 
+**These mods are optional, and they will be skipped if they are missing.**
+
 This mod supports NPCs and Locations from:
 * [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120).
 * [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
@@ -44,3 +46,5 @@ This mod supports NPCs and Locations from:
 * [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295)
 * [Beatrice NPC](https://www.nexusmods.com/stardewvalley/mods/7042)
 * [Jade NPC](https://www.nexusmods.com/stardewvalley/mods/5559)
+* [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
+* [East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787)
