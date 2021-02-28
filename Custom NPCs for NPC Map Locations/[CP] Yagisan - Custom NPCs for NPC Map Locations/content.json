@@ -11,10 +11,10 @@
 		// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
 
 		"Alesia": {
-			"MarkerCropOffset": 2
+			"MarkerCropOffset": 6
 		},
 		"Andy": {
-			"MarkerCropOffset": 0
+			"MarkerCropOffset": -1
 		},
 		"Apples": {
 			"MarkerCropOffset": 16
@@ -22,14 +22,23 @@
 		"Camilla": {
 			"MarkerCropOffset": 2
 		},
+		"Claire": {
+			"MarkerCropOffset": 3
+		},
 		"Claire_Joja": {
+			"MarkerCropOffset": 3
+		},
+		"GuntherSilvian": {
 			"MarkerCropOffset": 3
 		},
 		"Isaac": {
 			"MarkerCropOffset": 0
 		},
 		"MarlonFay": {
-			"MarkerCropOffset": 2
+			"MarkerCropOffset": 1
+		},
+		"Martin": {
+			"MarkerCropOffset": 1
 		},
 		"Morgan": {
 			"MarkerCropOffset": 8
@@ -49,12 +58,7 @@
 		"Sophia": {
 			"MarkerCropOffset": 3
 		},
-		"Martin": {
-			"MarkerCropOffset": 2
-		},
-		"GuntherSilvian": {
-			"MarkerCropOffset": 4
-		},
+
 
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 
