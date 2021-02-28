@@ -198,6 +198,12 @@
 			"Exclude": true
 		},
 
+		// Professor Jasper Thomas - https://www.nexusmods.com/stardewvalley/mods/5599
+
+		"Jasper": {
+			"MarkerCropOffset": 0
+		},
+
 		}
 	},
 
