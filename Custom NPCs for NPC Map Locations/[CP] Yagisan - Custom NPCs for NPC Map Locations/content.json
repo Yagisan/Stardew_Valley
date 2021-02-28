@@ -179,6 +179,20 @@
 			"MarkerCropOffset": 3
 		},
 
+		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
+
+		"Jacob": {
+			"MarkerCropOffset": -1
+		},
+		"Eloise": {
+			"MarkerCropOffset": 7
+		},
+		"Lexi": {
+			"Exclude": true
+		},
+		"The Emperor": {
+			"Exclude": true
+		},
 
 		}
 	},
