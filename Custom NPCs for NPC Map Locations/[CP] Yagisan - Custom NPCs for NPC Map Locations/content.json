@@ -1,6 +1,6 @@
 {
   "Format": "1.20.0",
-    
+
   "Changes": [
 
     {   
@@ -337,6 +337,23 @@
           ],
         },
 
+        "AdventurerSummit": {
+          "MapVectors": [
+            {
+              "TileX": 0,
+              "TileY": 0,
+              "MapX": 900,
+              "MapY": 70
+            },
+            {
+              "TileX": 65,
+              "TileY": 43,
+              "MapX": 960,
+              "MapY": 110
+            }
+          ],
+        },
+  
         "TreasureCave": {
           "MapVectors": [
             {
@@ -526,6 +543,56 @@
           "PrimaryText": "Ridgeside Village"
           },
       },
+
+      "RSVCableCar": {
+        "MapVectors": [
+        {
+          "MapX": 590,
+          "MapY": 184
+        }
+      ],
+      "MapTooltip": {
+        "X": 590,
+        "Y": 184,
+        "Width": 170,
+        "Height": 200,
+        "PrimaryText": "Cable Car - Pelican Town"
+        },
+    },
+
+    "RSVCliff": {
+      "MapVectors": [
+      {
+        "MapX": 230,
+        "MapY": 270
+      }
+    ],
+    "MapTooltip": {
+      "X": 230,
+      "Y": 70,
+      "Width": 170,
+      "Height": 200,
+      "PrimaryText": "Cable Car - Ridgeside"
+      },
+  },
+
+    "RSVTheHike": {
+     "MapVectors": [
+       {
+         "MapX": 230,
+         "MapY": 320
+       }
+     ]
+  },
+
+  "Ridge": {
+    "MapVectors": [
+      {
+        "MapX": 121,
+        "MapY": 220
+      }
+    ]
+ },
 
       "BloomingHillsFarm": {
         "MapTooltip": {
