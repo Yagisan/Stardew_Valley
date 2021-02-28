@@ -154,6 +154,12 @@
       	"Yuuma": {
           "MarkerCropOffset": 6
         },
+        "Helen": {
+          "Exclude": true
+        },
+        "Undreya": {
+          "Exclude": true
+        },
 
         // Mister Ginger (cat NPC) - https://www.nexusmods.com/stardewvalley/mods/5295
 
