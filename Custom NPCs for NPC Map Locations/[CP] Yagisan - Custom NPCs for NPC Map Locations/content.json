@@ -83,7 +83,7 @@
 			"MarkerCropOffset": 2
 		},
 		"Gremlin": {
-			"MarkerCropOffset": 16
+			"MarkerCropOffset": 8
 		},
 
 		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
@@ -193,10 +193,10 @@
 		"Eloise": {
 			"MarkerCropOffset": 7
 		},
-		"Lexi": {
+		"Leximonster": {
 			"Exclude": true
 		},
-		"The Emperor": {
+		"DuckNPC": {
 			"Exclude": true
 		},
 
@@ -545,6 +545,15 @@
 				"Height": 13,
 				"PrimaryText": "The Lost Valley"
 			},
+	  	},
+
+		  "GregoryTent": {
+			"MapVectors": [
+			{
+				"MapX": 506,
+				"MapY": 90
+			}
+			]
 	  	},
 
 		"BuffaloRanch": {
