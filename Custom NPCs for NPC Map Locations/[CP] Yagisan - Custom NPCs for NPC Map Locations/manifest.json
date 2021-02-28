@@ -1,7 +1,7 @@
 {
    "Name": "[CP] Yagisan - Custom NPCs for NPC Map Locations",
    "Author": "Yagisan",
-   "Version": "1.0.3",
+   "Version": "1.0.4",
    "Description": "Setup Custom NPCs for the NPC Map Location mod",
    "UniqueID": "Yagisan.NPCMapLocationsForNPCs",
    "MinimumApiVersion": "3.0.0",
@@ -44,6 +44,18 @@
       },
       {
         "UniqueID": "LemurKat.Mr.Ginger.NPC",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "Lemurkat.JacobEloise.CP",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "LemurKat.EastScarpe.CP",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "Lemurkat.NPCJasper",
         "IsRequired": false
       },
      ]
