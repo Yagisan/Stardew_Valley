@@ -79,9 +79,11 @@
 		"Juliet": {
 			"MarkerCropOffset": 2
 		},
-
 		"Jessie": {
 			"MarkerCropOffset": 2
+		},
+		"Gremlin": {
+			"MarkerCropOffset": 16
 		},
 
 		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
