@@ -4,6 +4,7 @@
 	"Changes": [
 
 	{
+	  "LogName": "NPC Sprite Offsets", 
 	  "Action": "EditData",
 	  "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 	  "Entries": {
@@ -223,6 +224,7 @@
 	},
 
 	{
+	"LogName": "Stardew Valley Expanded - Location Support", 
 	"Action": "EditData",
 	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 	"Entries": {
@@ -498,6 +500,7 @@
 	},
 	
 	{
+	"LogName": "Lunna - Astray in Stardew Valley - Location Support", 
 	"Action": "EditData",
 	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 	"Entries": {
@@ -518,6 +521,7 @@
 	},
 
 	{
+		"LogName": "Juliet and Jessie the Joja Clerks - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"Entries": {
@@ -546,6 +550,7 @@
 	},
 
 	{
+		"LogName": "Boarding House and Bus Stop Extension - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"Entries": {
@@ -631,6 +636,7 @@
 	},
 
 	{
+		"LogName": "Ridgeside Village - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"Entries": {
@@ -751,6 +757,7 @@
 	},
 
 	{
+		"LogName": "East Scarpe - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"Entries": {
@@ -777,6 +784,7 @@
 	},
 
 	{
+		"LogName": "Stardew Valley - Vanilla Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"Entries": {
