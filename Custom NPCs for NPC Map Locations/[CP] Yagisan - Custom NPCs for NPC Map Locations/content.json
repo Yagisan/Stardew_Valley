@@ -226,7 +226,6 @@
 	"Action": "EditData",
 	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 	"Entries": {
-
 		// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
 
 		"BlueMoonVineyard": {
@@ -482,6 +481,16 @@
 			"Exclude": true
 		},
 
+		"When": {
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+		},
+	},
+	},
+	
+	{
+	"Action": "EditData",
+	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+	"Entries": {
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 
 		"LunnaWestForest": {
@@ -492,7 +501,16 @@
 			}
 			]
 	  	},
+		"When": {
+			"HasMod: |contains=Rafseazz.LunnaCP": true,
+		},
+	},
+	},
 
+	{
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
 		// Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
 
 		"ClearingHouse": {
@@ -511,7 +529,16 @@
 			}
 			]
 		  },
+		  "When": {
+			"HasMod: |contains=LemurKat.JulietHouse.NPC": true,
+		},
+	},
+	},
 
+	{
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
 		// Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
 
 		"BackwoodsPlateau": {
@@ -587,9 +614,17 @@
 				"PrimaryText": "Boarding House"
 			},
 		},
+		"When": {
+			"HasMod: |contains=FTMBdHouse": true,
+		},
+	},
+	},
 
+	{
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
 		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
-
 		"RidgesideVillage": {
 			"MapVectors": [
 			{
@@ -683,9 +718,17 @@
 				"PrimaryText": "Nightingale Orchard"
 			},
 		},
+		"When": {
+			"HasMod: |contains=Rafseazz.RSVCP": true,
+		},
+	},
+	},
 
+	{
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
 		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
-
 		"EastScarpe": {
 			"MapVectors": [
 			{
@@ -701,6 +744,9 @@
 				"PrimaryText": "East Scarpe"
 			},
 	  	},
+		  "When": {
+			"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+		},
 
 	},
 	},
