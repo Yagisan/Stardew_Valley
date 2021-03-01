@@ -48,3 +48,8 @@ This mod supports NPCs and Locations from:
 * [Jade NPC](https://www.nexusmods.com/stardewvalley/mods/5559)
 * [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
 * [East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787)
+
+### Known Issues.
+
+[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) hardcodes several locations, such as the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods).
+I provide alternate locations, however they appear to be ignored as of NPC Map Locations 2.6.2
