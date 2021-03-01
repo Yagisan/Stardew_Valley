@@ -506,8 +506,8 @@
 		"LunnaWestForest": {
 			"MapVectors": [
 			{
-				"MapX": 190,
-				"MapY": 480
+				"MapX": 230,
+				"MapY": 500
 			}
 			]
 	  	},
@@ -804,6 +804,24 @@
 					"PrimaryText": "Secret Woods"
 				},
 			},
+
+		"DeepWoods": {
+			"MapVectors": [
+				{
+					"TileX": 0,
+					"TileY": 0,
+					"MapX": 210,
+					"MapY": 400
+				},
+				{
+					"TileX": 59,
+					"TileY": 31,
+					"MapX": 240,
+					"MapY": 450
+				}
+				],
+			},
+
 	},
 	},
 
