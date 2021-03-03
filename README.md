@@ -49,8 +49,9 @@ This mod supports NPCs and Locations from:
 * [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
 * [East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787)
 * [Life Cycle - Rival Heart Events](https://www.nexusmods.com/stardewvalley/mods/6200)
-* [Delores - A New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/5510)
-* [Custom NPC - Riley](https://www.nexusmods.com/stardewvalley/mods/5811)
+* [Delores - A New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/5510) Contributed by Chisato on the SDV East Scarpe Community Discord.
+* [Custom NPC - Riley](https://www.nexusmods.com/stardewvalley/mods/5811) Contributed by Chisato on the SDV East Scarpe Community Discord.
+* [Garden Village Shops - Expansion Mod](https://www.nexusmods.com/stardewvalley/mods/6113) Contributed by Chisato on the SDV East Scarpe Community Discord.
 
 ### Known Issues.
 
