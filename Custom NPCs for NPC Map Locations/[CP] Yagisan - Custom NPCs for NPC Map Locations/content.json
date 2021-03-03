@@ -772,8 +772,8 @@
 			"MapTooltip": {
 				"X": 1150,
 				"Y": 393,
-				"Width": 170,
-				"Height": 200,
+				"Width": 20,
+				"Height": 20,
 				"PrimaryText": "East Scarpe"
 			},
 	  	},
