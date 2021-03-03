@@ -49,6 +49,8 @@ This mod supports NPCs and Locations from:
 * [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
 * [East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787)
 * [Life Cycle - Rival Heart Events](https://www.nexusmods.com/stardewvalley/mods/6200)
+* [Delores - A New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/5510)
+* [Custom NPC - Riley](https://www.nexusmods.com/stardewvalley/mods/5811)
 
 ### Known Issues.
 
