@@ -717,7 +717,7 @@
 			],
 			"MapTooltip": {
 				"X": 230,
-				"Y": 70,
+				"Y": 270,
 				"Width": 20,
 				"Height": 20,
 				"PrimaryText": "Cable Car - Ridgeside"
