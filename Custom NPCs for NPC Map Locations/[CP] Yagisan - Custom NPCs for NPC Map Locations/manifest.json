@@ -62,5 +62,17 @@
         "UniqueID": "nraittanna.LifeCycleAthanaeriCP",
         "IsRequired": false
       },
+      {
+        "UniqueID": "blaaze6.Delores",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "SG.Riley",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "Tarniyar.CP.GardenVillage",
+        "IsRequired": false
+      },
      ]
 }
