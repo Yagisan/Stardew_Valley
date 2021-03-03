@@ -784,6 +784,33 @@
 	},
 
 	{
+		"LogName": "Life Cycle - Athanaeri Corner - Location Support", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
+		// Life Cycle - Rival Heart Events - https://www.nexusmods.com/stardewvalley/mods/6200
+		"Athanaeri": {
+			"MapVectors": [
+			{
+				"MapX": 617,
+				"MapY": 183
+			}
+			],
+			"MapTooltip": {
+				"X": 617,
+				"Y": 183,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "Athanaeri Corner"
+			},
+	  	},
+		  "When": {
+			"HasMod: |contains=nraittanna.LifeCycleAthanaeriCP": true,
+		},
+	},
+	},
+
+	{
 		"LogName": "Stardew Valley - Vanilla Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
