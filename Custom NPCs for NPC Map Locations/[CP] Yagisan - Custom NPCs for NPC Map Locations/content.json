@@ -730,7 +730,14 @@
 				"MapX": 230,
 				"MapY": 320
 			}
-			]
+		],
+		"MapTooltip": {
+			"X": 230,
+			"Y": 320,
+			"Width": 20,
+			"Height": 20,
+			"PrimaryText": "The Hike"
+		  },
 		},
 
 		"Ridge": {
