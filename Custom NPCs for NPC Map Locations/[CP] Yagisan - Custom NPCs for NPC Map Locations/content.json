@@ -395,8 +395,8 @@
 		"MapTooltip": {
 			"X": 940,
 			"Y": 400,
-			"Width": 20,
-			"Height": 20,
+			"Width": 110,
+			"Height": 90,
 			"PrimaryText": "Town East"
 		  },
 		},
