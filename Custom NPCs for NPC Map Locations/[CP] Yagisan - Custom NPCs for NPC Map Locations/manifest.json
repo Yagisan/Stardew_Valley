@@ -74,5 +74,9 @@
         "UniqueID": "Tarniyar.CP.GardenVillage",
         "IsRequired": false
       },
+      {
+        "UniqueID": "Tarniyar.CP.WalkToDesert",
+        "IsRequired": false
+      },
      ]
 }
