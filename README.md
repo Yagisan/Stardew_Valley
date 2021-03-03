@@ -52,6 +52,7 @@ This mod supports NPCs and Locations from:
 * [Delores - A New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/5510) Contributed by Chisato on the SDV East Scarpe Community Discord.
 * [Custom NPC - Riley](https://www.nexusmods.com/stardewvalley/mods/5811) Contributed by Chisato on the SDV East Scarpe Community Discord.
 * [Garden Village Shops - Expansion Mod](https://www.nexusmods.com/stardewvalley/mods/6113) Contributed by Chisato on the SDV East Scarpe Community Discord.
+* [Walk to the Desert - Expansion Mod](https://www.nexusmods.com/stardewvalley/mods/6234/) Contributed by Chisato on the SDV East Scarpe Community Discord.
 
 ### Known Issues.
 
