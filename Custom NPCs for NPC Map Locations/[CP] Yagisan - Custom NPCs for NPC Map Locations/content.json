@@ -391,7 +391,14 @@
 				"MapX": 1050,
 				"MapY": 490
 			}
-			],
+		],
+		"MapTooltip": {
+			"X": 940,
+			"Y": 400,
+			"Width": 20,
+			"Height": 20,
+			"PrimaryText": "Town East"
+		  },
 		},
 
 		"AdventurerSummit": {
