@@ -219,6 +219,17 @@
 			"MarkerCropOffset": -1
 		},
 
+    	// Delores - A New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/5510
+
+		"Delores": {
+			"MarkerCropOffset": 3
+		},
+
+		// Custom NPC - Riley - https://www.nexusmods.com/stardewvalley/mods/5811
+
+		"Riley": {
+			"MarkerCropOffset": 0
+		},
 
 		}
 	},
