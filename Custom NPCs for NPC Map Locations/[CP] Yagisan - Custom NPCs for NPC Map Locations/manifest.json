@@ -86,5 +86,17 @@
         "UniqueID": "Fellowclown.Nikolai",
         "IsRequired": false
       },
+      {
+        "UniqueID": "annachibi.SorrenNPC",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "SYS.mike",
+        "IsRequired": false
+      },
+      {
+        "UniqueID": "balverines.Denver",
+        "IsRequired": false
+      },
      ]
 }
