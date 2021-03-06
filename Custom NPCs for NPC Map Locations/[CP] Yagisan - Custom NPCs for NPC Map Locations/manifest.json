@@ -82,5 +82,9 @@
         "UniqueID": "Fellowclown.Lyell",
         "IsRequired": false
       },
+      {
+        "UniqueID": "Fellowclown.Nikolai",
+        "IsRequired": false
+      },
      ]
 }
