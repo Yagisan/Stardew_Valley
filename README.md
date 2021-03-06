@@ -55,8 +55,12 @@ This mod supports NPCs and Locations from:
 * [Walk to the Desert - Expansion Mod](https://www.nexusmods.com/stardewvalley/mods/6234/) Contributed by Chisato on the SDV East Scarpe Community Discord.
 * [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499)
 * [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882)
+* [Sorren - Original NPC](https://www.nexusmods.com/stardewvalley/mods/4040)
+* [College Boy Mike - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6288)
+* [Custom NPC - Denver](https://www.nexusmods.com/stardewvalley/mods/4594)
 
 ### Known Issues.
 
 [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) hardcodes several locations, such as the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods).
 I provide alternate locations, however they appear to be ignored as of NPC Map Locations 2.6.2
+[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) displays tooltips of locations not enabled, such as [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) or [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) location, when those mods are not installed.
