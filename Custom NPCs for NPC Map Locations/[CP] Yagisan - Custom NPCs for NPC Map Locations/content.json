@@ -551,7 +551,7 @@
 		},
 
 		"When": {
-			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
 		},
 	},
 	},
@@ -571,9 +571,6 @@
 			}
 			]
 	  	},
-		"When": {
-			"HasMod: |contains=Rafseazz.LunnaCP": true,
-		},
 
 		"LunnaLake": {
 			"MapVectors": [
@@ -584,7 +581,7 @@
 			]
 	  	},
 		"When": {
-			"HasMod: |contains=Rafseazz.LunnaCP": true,
+			"HasMod: |contains=Rafseazz.LunnaCP": true
 		},
 	},
 	},
@@ -613,7 +610,7 @@
 			]
 		  },
 		  "When": {
-			"HasMod: |contains=LemurKat.JulietHouse.NPC": true,
+			"HasMod: |contains=LemurKat.JulietHouse.NPC": true
 		},
 	},
 	},
@@ -699,7 +696,7 @@
 			},
 		},
 		"When": {
-			"HasMod: |contains=FTMBdHouse": true,
+			"HasMod: |contains=FTMBdHouse": true
 		},
 	},
 	},
@@ -827,7 +824,7 @@
 			},
 		},
 		"When": {
-			"HasMod: |contains=Rafseazz.RSVCP": true,
+			"HasMod: |contains=Rafseazz.RSVCP": true
 		},
 	},
 	},
@@ -854,7 +851,7 @@
 			},
 	  	},
 		  "When": {
-			"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+			"HasMod: |contains=LemurKat.EastScarpe.CP": true
 		},
 	},
 	},
@@ -881,7 +878,7 @@
 			},
 	  	},
 		  "When": {
-			"HasMod: |contains=nraittanna.LifeCycleAthanaeriCP": true,
+			"HasMod: |contains=nraittanna.LifeCycleAthanaeriCP": true
 		},
 	},
 	},
@@ -910,7 +907,7 @@
             ],
         },
           "When": {
-            "HasMod: |contains=Tarniyar.CP.GardenVillage": true,
+            "HasMod: |contains=Tarniyar.CP.GardenVillage": true
         },
     },
     },
@@ -991,7 +988,7 @@
 		},
 
 		  "When": {
-			"HasMod: |contains=Tarniyar.CP.WalkToDesert": true,
+			"HasMod: |contains=Tarniyar.CP.WalkToDesert": true
 		},
 	},
 	},
@@ -1011,7 +1008,7 @@
 				]
 			  },
 			"When": {
-				"HasMod: |contains=Fellowclown.Lyell": true,
+				"HasMod: |contains=Fellowclown.Lyell": true
 			},
 		},
 		},
@@ -1031,7 +1028,7 @@
 				]
 			  },
 			"When": {
-				"HasMod: |contains=Fellowclown.Nikolai": true,
+				"HasMod: |contains=Fellowclown.Nikolai": true
 			},
 		},
 		},
@@ -1046,13 +1043,13 @@
 				"MapVectors": [
 				{
 					"MapX": 715,
-					"MapY": 752
+					"MapY": 650
 				}
 				]
 			  },
 			"When": {
 				"zoroHouse": "boathouse",
-				"HasMod: |contains=EmpressKimi.Zoro": true,
+				"HasMod: |contains=EmpressKimi.Zoro": true
 			},
 		},
 		},
