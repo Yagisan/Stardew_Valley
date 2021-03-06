@@ -47,9 +47,6 @@
 		"Olivia": {
 			"MarkerCropOffset": 1
 		},
-		"Victor": {
-			"MarkerCropOffset": 0
-		},
 		"Scarlett": {
 			"MarkerCropOffset": 4
 		},
@@ -58,6 +55,9 @@
 		},
 		"Sophia": {
 			"MarkerCropOffset": 3
+		},
+		"Victor": {
+			"MarkerCropOffset": 0
 		},
 
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
