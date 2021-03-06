@@ -535,6 +535,18 @@
 		"When": {
 			"HasMod: |contains=Rafseazz.LunnaCP": true,
 		},
+
+		"LunnaLake": {
+			"MapVectors": [
+			{
+				"MapX": 244,
+				"MapY": 380
+			}
+			]
+	  	},
+		"When": {
+			"HasMod: |contains=Rafseazz.LunnaCP": true,
+		},
 	},
 	},
 
