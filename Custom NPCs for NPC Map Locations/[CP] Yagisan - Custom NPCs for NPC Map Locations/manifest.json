@@ -98,5 +98,9 @@
         "UniqueID": "balverines.Denver",
         "IsRequired": false
       },
+      {
+        "UniqueID": "EmpressKimi.Zoro",
+        "IsRequired": false
+      },
      ]
 }
