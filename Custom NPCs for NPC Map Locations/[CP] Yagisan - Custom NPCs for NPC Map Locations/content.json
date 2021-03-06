@@ -246,6 +246,24 @@
 			"MarkerCropOffset": 16
 		},
 
+		// Sorren - Original NPC - https://www.nexusmods.com/stardewvalley/mods/4040
+
+		"Sorren": {
+			"MarkerCropOffset": -3
+		},
+
+		// College Boy Mike - Custom NPC - https://www.nexusmods.com/stardewvalley/mods/6288
+
+		"Mike": {
+			"MarkerCropOffset": -1
+		},
+
+		// Custom NPC - Denver - https://www.nexusmods.com/stardewvalley/mods/4594
+
+		"Denver": {
+			"MarkerCropOffset": -1
+		},
+
 		}
 	},
 
