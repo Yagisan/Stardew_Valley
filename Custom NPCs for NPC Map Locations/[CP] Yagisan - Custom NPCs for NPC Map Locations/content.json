@@ -237,6 +237,15 @@
 			"MarkerCropOffset": 0
 		},
 
+		// Custom Npc Nikolai - https://www.nexusmods.com/stardewvalley/mods/4882
+
+		"Nikolai": {
+			"MarkerCropOffset": 0
+		},
+		"Boxy": {
+			"MarkerCropOffset": 0
+		},
+
 		}
 	},
 
@@ -983,25 +992,25 @@
 		},
 		},
 
-		{
-			"LogName": "Custom Npc Nikolai - Location Support", 
-			"Action": "EditData",
-			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
-			"Entries": {
-			// Custom Npc Nikolai - https://www.nexusmods.com/stardewvalley/mods/4882
-			"NikolaisProperty": {
-					"MapVectors": [
-					{
-						"MapX": 800,
-						"MapY": 500
-					}
-					]
-				  },
-				"When": {
-					"HasMod: |contains=Fellowclown.Nikolai": true,
-				},
+	{
+		"LogName": "Custom Npc Nikolai - Location Support", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
+		// Custom Npc Nikolai - https://www.nexusmods.com/stardewvalley/mods/4882
+		"NikolaisProperty": {
+				"MapVectors": [
+				{
+					"MapX": 800,
+					"MapY": 500
+				}
+				]
+			  },
+			"When": {
+				"HasMod: |contains=Fellowclown.Nikolai": true,
 			},
-			},
+		},
+		},
 
 	{
 		"LogName": "Stardew Valley - Vanilla Location Support", 
