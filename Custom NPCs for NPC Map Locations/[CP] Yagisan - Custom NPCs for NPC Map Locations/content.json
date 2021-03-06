@@ -234,7 +234,7 @@
 		// Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
 
 		"Lyell": {
-			"MarkerCropOffset": 0
+			"MarkerCropOffset": -2
 		},
 
 		// Custom Npc Nikolai - https://www.nexusmods.com/stardewvalley/mods/4882
@@ -243,7 +243,7 @@
 			"MarkerCropOffset": 0
 		},
 		"Boxy": {
-			"MarkerCropOffset": 0
+			"MarkerCropOffset": 16
 		},
 
 		}
