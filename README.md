@@ -53,6 +53,8 @@ This mod supports NPCs and Locations from:
 * [Custom NPC - Riley](https://www.nexusmods.com/stardewvalley/mods/5811) Contributed by Chisato on the SDV East Scarpe Community Discord.
 * [Garden Village Shops - Expansion Mod](https://www.nexusmods.com/stardewvalley/mods/6113) Contributed by Chisato on the SDV East Scarpe Community Discord.
 * [Walk to the Desert - Expansion Mod](https://www.nexusmods.com/stardewvalley/mods/6234/) Contributed by Chisato on the SDV East Scarpe Community Discord.
+* [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499)
+* [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882)
 
 ### Known Issues.
 
