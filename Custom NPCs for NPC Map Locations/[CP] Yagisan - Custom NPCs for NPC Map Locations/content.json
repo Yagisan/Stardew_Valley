@@ -958,6 +958,27 @@
 	},
 
 	{
+		"LogName": "Custom npc Lyell - Location Support", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
+			// Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
+	
+		"LyellsWoods": {
+				"MapVectors": [
+				{
+					"MapX": 264,
+					"MapY": 380
+				}
+				]
+			  },
+			"When": {
+				"HasMod: |contains=Fellowclown.Lyell": true,
+			},
+		},
+		},
+
+	{
 		"LogName": "Stardew Valley - Vanilla Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
