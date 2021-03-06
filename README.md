@@ -58,6 +58,7 @@ This mod supports NPCs and Locations from:
 * [Sorren - Original NPC](https://www.nexusmods.com/stardewvalley/mods/4040)
 * [College Boy Mike - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6288)
 * [Custom NPC - Denver](https://www.nexusmods.com/stardewvalley/mods/4594)
+* [Custom NPC - Roronoa Zoro](https://www.nexusmods.com/stardewvalley/mods/6316)
 
 ### Known Issues.
 
