@@ -231,6 +231,12 @@
 			"MarkerCropOffset": 0
 		},
 
+		// Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
+
+		"Lyell": {
+			"MarkerCropOffset": 0
+		},
+
 		}
 	},
 
@@ -962,8 +968,7 @@
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"Entries": {
-			// Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
-	
+		// Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
 		"LyellsWoods": {
 				"MapVectors": [
 				{
