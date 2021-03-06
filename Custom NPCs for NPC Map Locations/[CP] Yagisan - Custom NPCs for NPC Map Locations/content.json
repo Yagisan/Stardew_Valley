@@ -264,6 +264,12 @@
 			"MarkerCropOffset": -1
 		},
 
+		// Custom NPC - Roronoa Zoro - https://www.nexusmods.com/stardewvalley/mods/6316
+
+		"Zoro": {
+			"MarkerCropOffset": 0
+		},
+
 		}
 	},
 
@@ -1026,6 +1032,27 @@
 			  },
 			"When": {
 				"HasMod: |contains=Fellowclown.Nikolai": true,
+			},
+		},
+		},
+
+	{
+		"LogName": "Custom NPC - Roronoa Zoro - Location Support", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"Entries": {
+		// Custom NPC - Roronoa Zoro - https://www.nexusmods.com/stardewvalley/mods/6316
+		"ZoroDock": {
+				"MapVectors": [
+				{
+					"MapX": 715,
+					"MapY": 752
+				}
+				]
+			  },
+			"When": {
+				"zoroHouse": "boathouse",
+				"HasMod: |contains=EmpressKimi.Zoro": true,
 			},
 		},
 		},
