@@ -110,5 +110,9 @@
         "UniqueID": "TheLimeyDragon.Ayeisha",
         "IsRequired": false
       },
+      {
+        "UniqueID": "Papaya.ShikoTakahashi",
+        "IsRequired": false
+      },
      ]
 }
