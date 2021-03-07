@@ -61,6 +61,7 @@ This mod supports NPCs and Locations from:
 * [Custom NPC - Roronoa Zoro](https://www.nexusmods.com/stardewvalley/mods/6316)
 * [Blanche - The librarian Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6469)
 * [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
+* [Shiko - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/3732)
 
 ### Known Issues.
 
