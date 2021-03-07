@@ -62,6 +62,7 @@ This mod supports NPCs and Locations from:
 * [Blanche - The librarian Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6469)
 * [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
 * [Shiko - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/3732)
+* [New NPC - Cecilia](https://www.nexusmods.com/stardewvalley/mods/6246)
 
 ### Known Issues.
 
