@@ -273,7 +273,7 @@
 		// Blanche - The librarian Custom NPC - https://www.nexusmods.com/stardewvalley/mods/6469
 
 		"Blanche": {
-			"MarkerCropOffset": 1
+			"MarkerCropOffset": 2
 		},
 
 		// Ayeisha - The Postal Worker (Custom NPC) - https://www.nexusmods.com/stardewvalley/mods/6427
@@ -291,7 +291,7 @@
 		// New NPC - Cecilia - https://www.nexusmods.com/stardewvalley/mods/6246
 
 		"Cecilia": {
-			"MarkerCropOffset": 1
+			"MarkerCropOffset": 2
 		},
 
 		}
