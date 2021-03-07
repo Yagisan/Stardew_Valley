@@ -60,6 +60,7 @@ This mod supports NPCs and Locations from:
 * [Custom NPC - Denver](https://www.nexusmods.com/stardewvalley/mods/4594)
 * [Custom NPC - Roronoa Zoro](https://www.nexusmods.com/stardewvalley/mods/6316)
 * [Blanche - The librarian Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6469)
+* [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
 
 ### Known Issues.
 
