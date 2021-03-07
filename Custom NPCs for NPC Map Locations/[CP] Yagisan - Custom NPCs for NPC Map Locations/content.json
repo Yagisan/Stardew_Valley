@@ -282,6 +282,12 @@
 			"MarkerCropOffset": 1
 		},
 
+		// Shiko - New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/3732
+
+		"Shiko": {
+			"MarkerCropOffset": 1
+		},
+
 		}
 	},
 
