@@ -270,6 +270,12 @@
 			"MarkerCropOffset": 0
 		},
 
+		// Blanche - The librarian Custom NPC - https://www.nexusmods.com/stardewvalley/mods/6469
+
+		"Blanche": {
+			"MarkerCropOffset": 1
+		},
+
 		}
 	},
 
