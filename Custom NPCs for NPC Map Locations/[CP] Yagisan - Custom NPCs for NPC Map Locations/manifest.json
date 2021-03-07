@@ -106,5 +106,9 @@
         "UniqueID": "MIDI.Blanche",
         "IsRequired": false
       },
+      {
+        "UniqueID": "TheLimeyDragon.Ayeisha",
+        "IsRequired": false
+      },
      ]
 }
