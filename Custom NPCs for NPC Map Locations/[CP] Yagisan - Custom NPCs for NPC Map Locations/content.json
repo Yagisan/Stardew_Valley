@@ -293,7 +293,7 @@
 
 		"Cecilia": {
 			"MarkerCropOffset": 2
-		},
+		}
 
 		}
 	},
@@ -385,7 +385,7 @@
 			"Width": 107,
 			"Height": 64,
 			"PrimaryText": "Forest West"
-			},
+			}
 		},
 
 		"GrampletonFields": {
@@ -462,7 +462,7 @@
 			"Width": 110,
 			"Height": 90,
 			"PrimaryText": "Town East"
-		  },
+		  }
 		},
 
 		"AdventurerSummit": {
@@ -479,7 +479,7 @@
 				"MapX": 960,
 				"MapY": 110
 			}
-			],
+			]
 		},
 
 		// Vanilla location, but is moved by SVE
@@ -489,7 +489,7 @@
 				"MapX": 930,
 				"MapY": 90
 			}
-			],
+			]
 		},
 
 		"TreasureCave": {
@@ -577,8 +577,8 @@
 
 		"When": {
 			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
-		},
-	},
+		}
+	}
 	},
 	
 	{
@@ -607,8 +607,8 @@
 	  	},
 		"When": {
 			"HasMod: |contains=Rafseazz.LunnaCP": true
-		},
-	},
+		}
+	}
 	},
 
 	{
@@ -636,8 +636,8 @@
 		  },
 		  "When": {
 			"HasMod: |contains=LemurKat.JulietHouse.NPC": true
-		},
-	},
+		}
+	}
 	},
 
 	{
@@ -677,7 +677,7 @@
 				"Width": 18,
 				"Height": 13,
 				"PrimaryText": "Lost Valley"
-			},
+			}
 	  	},
 
 		  "GregoryTent": {
@@ -694,7 +694,7 @@
 			{
 				"MapX": 438,
 				"MapY": 93
-			},
+			}
 	  		],
 	  		"MapTooltip": {
 				"X": 438,
@@ -702,7 +702,7 @@
 				"Width": 38,
 				"Height": 22,
 				"PrimaryText": "Buffalo Ranch"
-			},
+			}
 		},
 
 		"BoardingHouse": {
@@ -710,7 +710,7 @@
 			{
 				"MapX": 525,
 				"MapY": 93
-			},
+			}
 	  		],
 			"MapTooltip": {
 				"X": 525,
@@ -718,12 +718,12 @@
 				"Width": 18,
 				"Height": 13,
 				"PrimaryText": "Boarding House"
-			},
+			}
 		},
 		"When": {
 			"HasMod: |contains=FTMBdHouse": true
-		},
-	},
+		}
+	}
 	},
 
 	{
@@ -753,7 +753,7 @@
 				"Width": 148,
 				"Height": 259,
 				"PrimaryText": "Ridgeside Village"
-			},
+			}
 	  	},
 
 		"RSVCableCar": {
@@ -777,7 +777,7 @@
 				"Width": 20,
 				"Height": 20,
 				"PrimaryText": "Cable Car - Pelican Town"
-			},
+			}
 		},
 
 		"RSVCliff": {
@@ -801,7 +801,7 @@
 				"Width": 20,
 				"Height": 20,
 				"PrimaryText": "Cable Car - Ridgeside"
-	  		},
+	  		}
 		},
 
 		"RSVTheHike": {
@@ -817,7 +817,7 @@
 			"Width": 20,
 			"Height": 20,
 			"PrimaryText": "The Hike"
-		  },
+		  }
 		},
 
 		"Ridge": {
@@ -836,7 +836,7 @@
 				"Width": 68,
 				"Height": 152,
 				"PrimaryText": "Blooming Hill Farm"
-			},
+			}
 	  	},
 
 		"NightingaleOrchard": {
@@ -846,12 +846,12 @@
 				"Width": 124,
 				"Height": 98,
 				"PrimaryText": "Nightingale Orchard"
-			},
+			}
 		},
 		"When": {
 			"HasMod: |contains=Rafseazz.RSVCP": true
-		},
-	},
+		}
+	}
 	},
 
 	{
@@ -873,12 +873,12 @@
 				"Width": 20,
 				"Height": 20,
 				"PrimaryText": "East Scarpe"
-			},
+			}
 	  	},
 		  "When": {
 			"HasMod: |contains=LemurKat.EastScarpe.CP": true
-		},
-	},
+		}
+	}
 	},
 
 	{
@@ -900,12 +900,12 @@
 				"Width": 20,
 				"Height": 20,
 				"PrimaryText": "Athanaeri Corner"
-			},
+			}
 	  	},
 		  "When": {
 			"HasMod: |contains=nraittanna.LifeCycleAthanaeriCP": true
-		},
-	},
+		}
+	}
 	},
 
 	{
@@ -929,12 +929,12 @@
                 "MapX": 338,
                 "MapY": 222
             }
-            ],
+            ]
         },
           "When": {
             "HasMod: |contains=Tarniyar.CP.GardenVillage": true
-        },
-    },
+        }
+    }
     },
 
 	{
@@ -958,7 +958,7 @@
 				"MapX": 290,
 				"MapY": 95
 			}
-			],
+			]
 		},
 
 		"Interchange": {
@@ -975,7 +975,7 @@
 				"MapX": 353,
 				"MapY": 115
 			}
-			],
+			]
 		},
 
 		"WindingRoad": {
@@ -992,7 +992,7 @@
 				"MapX": 338,
 				"MapY": 222
 			}
-			],
+			]
 		},	
 
 		"ForestRoad": {
@@ -1009,13 +1009,13 @@
 				"MapX": 385,
 				"MapY": 228
 			}
-			],
+			]
 		},
 
 		  "When": {
 			"HasMod: |contains=Tarniyar.CP.WalkToDesert": true
-		},
-	},
+		}
+	}
 	},
 
 	{
@@ -1034,8 +1034,8 @@
 			  },
 			"When": {
 				"HasMod: |contains=Fellowclown.Lyell": true
-			},
-		},
+			}
+		}
 		},
 
 	{
@@ -1054,8 +1054,8 @@
 			  },
 			"When": {
 				"HasMod: |contains=Fellowclown.Nikolai": true
-			},
-		},
+			}
+		}
 		},
 
 	{
@@ -1075,8 +1075,8 @@
 			"When": {
 				"zoroHouse": "boathouse",
 				"HasMod: |contains=EmpressKimi.Zoro": true
-			},
-		},
+			}
+		}
 		},
 
 	{
@@ -1106,7 +1106,7 @@
 					"Width": 30,
 					"Height": 50,
 					"PrimaryText": "Secret Woods"
-				},
+				}
 			},
 
 		"DeepWoods": {
@@ -1123,11 +1123,11 @@
 					"MapX": 240,
 					"MapY": 450
 				}
-				],
-			},
+				]
+			}
 
-	},
-	},
+	}
+	}
 
-],
+]
 }
