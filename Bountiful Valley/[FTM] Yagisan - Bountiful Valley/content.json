@@ -1,0 +1,386 @@
+{
+  "ForageSpawnEnabled": true,
+  "LargeObjectSpawnEnabled": false,
+  "OreSpawnEnabled": false,
+  "MonsterSpawnEnabled": false,
+  "Forage_Spawn_Settings": {
+    "Areas": [
+      {
+        "SpringItemIndex": [
+          "Wild Horseradish",
+          "Leek",
+          "Dandelion",
+          "Tulip",
+          "Daffodil",
+          "Blue Jazz"
+        ],
+        "SummerItemIndex": [
+          "Spice Berry",
+          "Grape",
+          "Sunflower",
+          "Sweet Pea",
+          "Poppy",
+          "Summer Spangle"
+        ],
+        "FallItemIndex": [
+          "Chanterelle",
+          "Wild Plum",
+          "Red Mushroom",
+          "Sunflower",
+          "Hazelnut",
+          "Fairy Rose"
+        ],
+        "WinterItemIndex": [
+          "Holly",
+          "Crystal Fruit",
+          "Mint",
+          "Juniper Berry",
+          "Snow Yam",
+          "Crocus"
+        ],
+        "UniqueAreaID": "Yagi - Backwoods Pathway Spawn",
+        "MapName": "BackWoods",
+        "MinimumSpawnsPerDay": 3,
+        "MaximumSpawnsPerDay": 10,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [
+          "Dirt",
+          "Stone",
+          "Wood",
+          "Quarry"
+        ],
+        // Backwoods is 50x40
+        "IncludeCoordinates": [
+          "16,8/49,17",
+          "11,13/21,21",
+          "11,22/15,29"
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": null
+      },
+      {
+        "SpringItemIndex": [
+          "Wild Horseradish",
+          "Leek",
+          "Dandelion",
+          "Tulip",
+          "Daffodil",
+          "Blue Jazz"
+        ],
+        "SummerItemIndex": [
+          "Spice Berry",
+          "Grape",
+          "Sunflower",
+          "Sweet Pea",
+          "Poppy",
+          "Summer Spangle"
+        ],
+        "FallItemIndex": [
+          "Chanterelle",
+          "Wild Plum",
+          "Red Mushroom",
+          "Sunflower",
+          "Hazelnut",
+          "Fairy Rose"
+        ],
+        "WinterItemIndex": [
+          "Holly",
+          "Crystal Fruit",
+          "Mint",
+          "Juniper Berry",
+          "Snow Yam",
+          "Crocus"
+        ],
+        "UniqueAreaID": "Yagi - Mountain Spawn",
+        "MapName": "Mountain",
+        "MinimumSpawnsPerDay": 3,
+        "MaximumSpawnsPerDay": 5,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [
+          "Dirt",
+          "Stone",
+          "Wood",
+          "Quarry"
+        ],
+        // Mountain is 135x41
+        "IncludeCoordinates": [
+          
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": null
+      },
+      {
+        "SpringItemIndex": [
+          "Wild Horseradish",
+          "Leek",
+          "Dandelion",
+          "Tulip",
+          "Daffodil",
+          "Blue Jazz"
+        ],
+        "SummerItemIndex": [
+          "Spice Berry",
+          "Grape",
+          "Sunflower",
+          "Sweet Pea",
+          "Poppy",
+          "Summer Spangle"
+        ],
+        "FallItemIndex": [
+          "Chanterelle",
+          "Wild Plum",
+          "Red Mushroom",
+          "Sunflower",
+          "Hazelnut",
+          "Fairy Rose"
+        ],
+        "WinterItemIndex": [
+          "Holly",
+          "Crystal Fruit",
+          "Mint",
+          "Juniper Berry",
+          "Snow Yam",
+          "Crocus"
+        ],
+        "UniqueAreaID": "Yagi - Town Spawn",
+        "MapName": "Town",
+        "MinimumSpawnsPerDay": 3,
+        "MaximumSpawnsPerDay": 15,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [
+          "Dirt",
+          "Stone",
+          "Wood",
+          "Quarry"
+        ],
+        // Town is 120x110
+        "IncludeCoordinates": [
+          
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": null
+      },
+      {
+        "SpringItemIndex": [
+          "Tulip",
+          "Daffodil",
+          "Blue Jazz"
+        ],
+        "SummerItemIndex": [
+          "Sunflower",
+          "Poppy",
+          "Summer Spangle"
+        ],
+        "FallItemIndex": [
+          "Sunflower",
+          "Fairy Rose"
+        ],
+        "WinterItemIndex": [
+          "Holly",
+          "Crystal Fruit",
+          "Mint",
+          "Juniper Berry",
+          "Snow Yam",
+          "Crocus"
+        ],
+        "UniqueAreaID": "Yagi - BusStop Spawn",
+        "MapName": "BusStop",
+        "MinimumSpawnsPerDay": 3,
+        "MaximumSpawnsPerDay": 10,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [
+          "Dirt",
+          "Stone",
+          "Wood",
+          "Quarry"
+        ],
+        // BusStop is 35x30
+        "IncludeCoordinates": [
+          
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": null
+      },
+      {
+        "SpringItemIndex": [
+          "Wild Horseradish",
+          "Leek",
+          "Dandelion",
+          "Tulip",
+          "Daffodil",
+          "Blue Jazz"
+        ],
+        "SummerItemIndex": [
+          "Spice Berry",
+          "Grape",
+          "Sunflower",
+          "Sweet Pea",
+          "Poppy",
+          "Summer Spangle"
+        ],
+        "FallItemIndex": [
+          "Chanterelle",
+          "Wild Plum",
+          "Red Mushroom",
+          "Sunflower",
+          "Hazelnut",
+          "Fairy Rose"
+        ],
+        "WinterItemIndex": [
+          "Holly",
+          "Crystal Fruit",
+          "Mint",
+          "Juniper Berry",
+          "Snow Yam",
+          "Crocus"
+        ],
+        "UniqueAreaID": "Yagi - Forest Spawn",
+        "MapName": "Forest",
+        "MinimumSpawnsPerDay": 3,
+        "MaximumSpawnsPerDay": 25,
+        "IncludeTerrainTypes": [
+          "Grass"
+        ],
+        "ExcludeTerrainTypes": [
+          "Dirt",
+          "Stone",
+          "Wood",
+          "Quarry"
+        ],
+        // Forest is 120x120
+        "IncludeCoordinates": [
+          
+        ],
+        "ExcludeCoordinates": [],
+        "StrictTileChecking": "Maximum",
+        "SpawnTiming": {
+          "StartTime": 600,
+          "EndTime": 600,
+          "MinimumTimeBetweenSpawns": 10,
+          "MaximumSimultaneousSpawns": null,
+          "OnlySpawnIfAPlayerIsPresent": false,
+          "SpawnSound": ""
+        },
+        "ExtraConditions": {
+          "Years": [],
+          "Seasons": [],
+          "Days": [],
+          "WeatherYesterday": [],
+          "WeatherToday": [],
+          "WeatherTomorrow": [],
+          "EPUPreconditions": [],
+          "LimitedNumberOfSpawns": null
+        },
+        "DaysUntilSpawnsExpire": null
+      }
+
+    ],
+
+    "PercentExtraSpawnsPerForagingLevel": 0,
+    "SpringItemIndex": [
+      "Wild Horseradish",
+      "Leek",
+      "Dandelion",
+      "Morel"
+    ],
+    "SummerItemIndex": [
+      "Spice Berry",
+      "Grape",
+      "Sweet Pea",
+      "Common Mushroom"
+    ],
+    "FallItemIndex": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Red Mushroom",
+      "Purple Mushroom"
+    ],
+    "WinterItemIndex": [],
+    "CustomTileIndex": []
+  }
+}
+ 
