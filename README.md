@@ -61,7 +61,7 @@ This mod supports NPCs and Locations from:
 * [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120).
 * [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
 * [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
-* [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
+* [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) NPC offsets only from Stardew Valley Expanded 1.12.14 - SVE now has it's own location data.
 * [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
 * [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295)
 * [Beatrice NPC](https://www.nexusmods.com/stardewvalley/mods/7042)
