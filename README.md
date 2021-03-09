@@ -73,5 +73,3 @@ This mod supports NPCs and Locations from:
 
 [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) hardcodes several locations, such as the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods).
 I provide alternate locations, however they appear to be ignored as of NPC Map Locations 2.6.2
-
-[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) displays tooltips of locations such as [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) or [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) location, when those mods are not installed or enabled.

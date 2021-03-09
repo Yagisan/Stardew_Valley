@@ -302,6 +302,9 @@
 	"LogName": "Stardew Valley Expanded - Location Support", 
 	"Action": "EditData",
 	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+	"When": {
+		"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
+	},
 	"Entries": {
 		// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
 
@@ -573,10 +576,6 @@
 
 		"Claire_WarpRoom": {
 			"Exclude": true
-		},
-
-		"When": {
-			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
 		}
 	}
 	},
@@ -585,6 +584,9 @@
 	"LogName": "Lunna - Astray in Stardew Valley - Location Support", 
 	"Action": "EditData",
 	"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+	"When": {
+		"HasMod: |contains=Rafseazz.LunnaCP": true
+	},
 	"Entries": {
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 
@@ -604,10 +606,7 @@
 				"MapY": 380
 			}
 			]
-	  	},
-		"When": {
-			"HasMod: |contains=Rafseazz.LunnaCP": true
-		}
+	  	}
 	}
 	},
 
@@ -615,6 +614,9 @@
 		"LogName": "Juliet and Jessie the Joja Clerks - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=LemurKat.JulietHouse.NPC": true
+		},
 		"Entries": {
 		// Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
 
@@ -633,10 +635,7 @@
 				"MapY": 185
 			}
 			]
-		  },
-		  "When": {
-			"HasMod: |contains=LemurKat.JulietHouse.NPC": true
-		}
+		  }
 	}
 	},
 
@@ -644,6 +643,9 @@
 		"LogName": "Boarding House and Bus Stop Extension - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=FTMBdHouse": true
+		},
 		"Entries": {
 		// Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
 
@@ -719,9 +721,6 @@
 				"Height": 13,
 				"PrimaryText": "Boarding House"
 			}
-		},
-		"When": {
-			"HasMod: |contains=FTMBdHouse": true
 		}
 	}
 	},
@@ -730,6 +729,9 @@
 		"LogName": "Ridgeside Village - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=Rafseazz.RSVCP": true
+		},
 		"Entries": {
 		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
 		"RidgesideVillage": {
@@ -847,9 +849,6 @@
 				"Height": 98,
 				"PrimaryText": "Nightingale Orchard"
 			}
-		},
-		"When": {
-			"HasMod: |contains=Rafseazz.RSVCP": true
 		}
 	}
 	},
@@ -858,6 +857,9 @@
 		"LogName": "East Scarpe - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=LemurKat.EastScarpe.CP": true
+		},
 		"Entries": {
 		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
 		"EastScarpe": {
@@ -874,10 +876,7 @@
 				"Height": 20,
 				"PrimaryText": "East Scarpe"
 			}
-	  	},
-		  "When": {
-			"HasMod: |contains=LemurKat.EastScarpe.CP": true
-		}
+	  	}
 	}
 	},
 
@@ -885,6 +884,9 @@
 		"LogName": "Life Cycle - Athanaeri Corner - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=nraittanna.LifeCycleAthanaeriCP": true
+		},
 		"Entries": {
 		// Life Cycle - Rival Heart Events - https://www.nexusmods.com/stardewvalley/mods/6200
 		"Athanaeri": {
@@ -901,10 +903,7 @@
 				"Height": 20,
 				"PrimaryText": "Athanaeri Corner"
 			}
-	  	},
-		  "When": {
-			"HasMod: |contains=nraittanna.LifeCycleAthanaeriCP": true
-		}
+	  	}
 	}
 	},
 
@@ -912,6 +911,9 @@
         "LogName": "Garden Village Shops - Expansion Mod - Location Support", 
         "Action": "EditData",
         "Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+            "HasMod: |contains=Tarniyar.CP.GardenVillage": true
+        },
         "Entries": {
         // Garden Village Shops - Expansion Mod - https://www.nexusmods.com/stardewvalley/mods/6113
         
@@ -930,9 +932,6 @@
                 "MapY": 222
             }
             ]
-        },
-          "When": {
-            "HasMod: |contains=Tarniyar.CP.GardenVillage": true
         }
     }
     },
@@ -941,6 +940,9 @@
 		"LogName": "Walk to the Desert - Expansion Mod - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=Tarniyar.CP.WalkToDesert": true
+		},
 		"Entries": {
 		// Walk to the Desert - Expansion Mod - https://www.nexusmods.com/stardewvalley/mods/6234
 
@@ -1010,10 +1012,6 @@
 				"MapY": 228
 			}
 			]
-		},
-
-		  "When": {
-			"HasMod: |contains=Tarniyar.CP.WalkToDesert": true
 		}
 	}
 	},
@@ -1022,6 +1020,9 @@
 		"LogName": "Custom npc Lyell - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=Fellowclown.Lyell": true
+		},
 		"Entries": {
 		// Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
 		"LyellsWoods": {
@@ -1031,10 +1032,7 @@
 					"MapY": 380
 				}
 				]
-			  },
-			"When": {
-				"HasMod: |contains=Fellowclown.Lyell": true
-			}
+			  }
 		}
 		},
 
@@ -1042,6 +1040,9 @@
 		"LogName": "Custom Npc Nikolai - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=Fellowclown.Nikolai": true
+		},
 		"Entries": {
 		// Custom Npc Nikolai - https://www.nexusmods.com/stardewvalley/mods/4882
 		"NikolaisProperty": {
@@ -1051,10 +1052,7 @@
 					"MapY": 500
 				}
 				]
-			  },
-			"When": {
-				"HasMod: |contains=Fellowclown.Nikolai": true
-			}
+			  }
 		}
 		},
 
@@ -1062,6 +1060,9 @@
 		"LogName": "Custom NPC - Roronoa Zoro - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=EmpressKimi.Zoro": true
+		},
 		"Entries": {
 		// Custom NPC - Roronoa Zoro - https://www.nexusmods.com/stardewvalley/mods/6316
 		"ZoroDock": {
@@ -1071,11 +1072,7 @@
 					"MapY": 650
 				}
 				]
-			  },
-			"When": {
-				"zoroHouse": "boathouse",
-				"HasMod: |contains=EmpressKimi.Zoro": true
-			}
+			  }
 		}
 		},
 
