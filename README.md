@@ -39,7 +39,22 @@ This mod optionally requires [PPJA - Fruits and Veggies](https://www.nexusmods.c
 
 This mod was created to show custom NPC's on the world map using [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239). **It does not include any maps.**
 
+### Install
+
+1. Install the latest version of [SMAPI](https://smapi.io/).
+2. Install the latest version of [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915).
+3. Install the latest version of [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239).
+4. Unzip the mod folder into `Stardew Valley/Mods`.
+5. Install any custom NPCs you want to use, following the instruction on their mod pages.
+6. Run the game using SMAPI.
+
+### Compatibility
+
 **These mods are optional, and they will be skipped if they are missing.**
+
+Locations and tooltips are dynamically enabled for each support mod. For example, if you don't use Stardew Valley Expanded, you won't get those locations and tooltip on your map.
+
+If a mod supports an NPC with a selectable gender, only the default gender will be supported, if they share the same unique ID.
 
 This mod supports NPCs and Locations from:
 
@@ -62,7 +77,7 @@ This mod supports NPCs and Locations from:
 * [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882)
 * [Sorren - Original NPC](https://www.nexusmods.com/stardewvalley/mods/4040)
 * [College Boy Mike - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6288)
-* [Custom NPC - Denver](https://www.nexusmods.com/stardewvalley/mods/4594)
+* [Custom NPC - Denver](https://www.nexusmods.com/stardewvalley/mods/4594) Default gender only supported.
 * [Custom NPC - Roronoa Zoro](https://www.nexusmods.com/stardewvalley/mods/6316)
 * [Blanche - The librarian Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6469)
 * [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
@@ -73,3 +88,7 @@ This mod supports NPCs and Locations from:
 
 [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) hardcodes several locations, such as the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods).
 I provide alternate locations, however they appear to be ignored as of NPC Map Locations 2.6.2
+
+### See Also
+
+* [My other mods](https://www.nexusmods.com/users/3868981?tab=user+files)
