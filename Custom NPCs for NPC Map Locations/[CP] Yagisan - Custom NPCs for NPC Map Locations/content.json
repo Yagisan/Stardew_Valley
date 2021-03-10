@@ -743,7 +743,7 @@
 		},
 		"Entries": {
 		// Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
-		"LyellsWoods": {
+		"Custom_Fellowclown.Lyell_LyellsWoods": {
 				"MapVectors": [
 				{
 					"MapX": 264,
