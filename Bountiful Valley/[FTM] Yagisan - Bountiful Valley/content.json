@@ -40,8 +40,8 @@
         ],
         "UniqueAreaID": "Yagi - Backwoods Pathway Spawn",
         "MapName": "BackWoods",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 10,
+        "MinimumSpawnsPerDay": 2,
+        "MaximumSpawnsPerDay": 5,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -114,8 +114,8 @@
         ],
         "UniqueAreaID": "Yagi - Mountain Spawn",
         "MapName": "Mountain",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": 5,
+        "MaximumSpawnsPerDay": 15,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -186,8 +186,8 @@
         ],
         "UniqueAreaID": "Yagi - Town Spawn",
         "MapName": "Town",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 15,
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 5,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -248,8 +248,8 @@
         ],
         "UniqueAreaID": "Yagi - BusStop Spawn",
         "MapName": "BusStop",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 10,
+        "MinimumSpawnsPerDay": 1,
+        "MaximumSpawnsPerDay": 5,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -320,7 +320,7 @@
         ],
         "UniqueAreaID": "Yagi - Forest Spawn",
         "MapName": "Forest",
-        "MinimumSpawnsPerDay": 3,
+        "MinimumSpawnsPerDay": 7,
         "MaximumSpawnsPerDay": 25,
         "IncludeTerrainTypes": [
           "Grass"
