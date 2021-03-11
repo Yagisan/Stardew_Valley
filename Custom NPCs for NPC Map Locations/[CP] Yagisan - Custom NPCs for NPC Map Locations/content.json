@@ -452,7 +452,7 @@
 		},
 		"Entries": {
 		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
-		"RidgesideVillage": {
+		"Custom_Ridgeside_RidgesideVillage": {
 			"MapVectors": [
 			{
 				"TileX": 0,
@@ -476,7 +476,7 @@
 			}
 	  	},
 
-		"RSVCableCar": {
+		"Custom_Ridgeside_RSVCableCar": {
 			"MapVectors": [
 			{
 				"TileX": 0,
@@ -500,7 +500,7 @@
 			}
 		},
 
-		"RSVCliff": {
+		"Custom_Ridgeside_RSVCliff": {
 			"MapVectors": [
 			{
 				"TileX": 0,
@@ -524,7 +524,7 @@
 	  		}
 		},
 
-		"RSVTheHike": {
+		"Custom_Ridgeside_RSVTheHike": {
 			"MapVectors": [
 			{
 				"MapX": 230,
@@ -540,7 +540,7 @@
 		  }
 		},
 
-		"Ridge": {
+		"Custom_Ridgeside_Ridge": {
 			"MapVectors": [
 			{
 				"MapX": 121,
