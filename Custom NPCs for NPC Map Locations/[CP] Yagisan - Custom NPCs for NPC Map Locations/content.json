@@ -530,14 +530,14 @@
 				"MapX": 230,
 				"MapY": 320
 			}
-		],
-		"MapTooltip": {
-			"X": 230,
-			"Y": 320,
-			"Width": 20,
-			"Height": 20,
-			"PrimaryText": "The Hike"
-		  }
+			],
+			"MapTooltip": {
+				"X": 230,
+				"Y": 320,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "The Hike"
+			}
 		},
 
 		"Custom_Ridgeside_Ridge": {
@@ -547,6 +547,41 @@
 				"MapY": 220
 			}
 			]
+		},
+
+		"Custom_Ridgeside_LogCabinHotelLobby": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"Custom_Ridgeside_LogCabinHotel2ndFloor": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"Custom_Ridgeside_LogCabinHotel3rdFloor": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"Custom_Ridgeside_RSVHiddenWarp": {
+			"Exclude": true
+		},
+
+		"Custom_Ridgeside_RSVHiddenWarp2": {
+			"Exclude": true
 		},
 
 		"BloomingHillsFarm": {
