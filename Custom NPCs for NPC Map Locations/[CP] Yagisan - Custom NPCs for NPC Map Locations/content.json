@@ -567,6 +567,8 @@
 			]
 		},
 
+		// FIXME. This map name is correct - but the NPCs do not show up here.  They appear in the top left area of Custom_Ridgeside_RidgesideVillage.
+		// NPCs in Custom_Ridgeside_LogCabinHotelLobby and Custom_Ridgeside_LogCabinHotel2ndFloor appear correctly.
 		"Custom_Ridgeside_LogCabinHotel3rdFloor": {
 			"MapVectors": [
 			{
