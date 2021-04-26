@@ -195,10 +195,22 @@
 		"Eloise": {
 			"MarkerCropOffset": 7
 		},
+		"Aideen": {
+			"MarkerCropOffset": 2
+		},
 		"Leximonster": {
 			"Exclude": true
 		},
 		"DuckNPC": {
+			"Exclude": true
+		},
+		"Duck2NPC": {
+			"Exclude": true
+		},
+		"OliverK": {
+			"Exclude": true
+		},
+		"JosephineK": {
 			"Exclude": true
 		},
 
