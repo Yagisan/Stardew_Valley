@@ -1,6 +1,6 @@
 {
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
-	"Format": "1.20.0",
+	"Format": "1.22.0",
 
 	"Changes": [
 
@@ -320,19 +320,6 @@
 	"Entries": {
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 
-		// NPC Map Locations complains if any maps don't have a location.  Put a fake entry in to hide these for now.
-		"FallsCave": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"DiannaHouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"GabbiHouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"ReenusHouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"LaarniHouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"BiankaHouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"RaphaelShop": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"OddiHouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"Umuwi": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"DiannaGreenhouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-		"BiankaDate": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
-
 		"LunnaWestForest": {
 			"MapVectors": [
 			{
@@ -349,7 +336,63 @@
 				"MapY": 380
 			}
 			]
-	  	}
+		},
+/* 		This should be enough to disable this map location according to the documenation. Unfortunately it just breaks NPC Map Locations with:
+
+This mod failed in the GameLoop.DayStarted event. Technical details: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NPCMapLocations.ModMain.LocationToMap(String locationName, Int32 tileX, Int32 tileY, Dictionary`2 CustomMapVectors, HashSet`1 LocationExclusions, Boolean isPlayer) in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 1044
+   at NPCMapLocations.ModMain.UpdateNpcs() in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 903
+   at NPCMapLocations.ModMain.UpdateMarkers(Boolean forceUpdate) in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 778
+   at NPCMapLocations.ModMain.GameLoop_DayStarted(Object sender, DayStartedEventArgs e) in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 444
+   at StardewModdingAPI.Framework.Events.ManagedEvent`1.Raise(TEventArgs args, Func`2 match) in C:\source\_Stardew\SMAPI\src\SMAPI\Framework\Events\ManagedEvent.cs:line 125
+
+We can't use the fake location trick either, as everyone ends up in the top left corner of the map.
+
+		"Umuwi": {
+			"Exclude": true
+		},
+
+		"DiannaGreenhouse": {
+			"Exclude": true
+		},
+
+		"BiankaDate": {
+			"Exclude": true
+		},
+
+		"OddiHouse": {
+			"Exclude": true
+		},
+
+		"RaphaelShop": {
+			"Exclude": true
+		},
+
+		"BiankaHouse": {
+			"Exclude": true
+		},
+
+		"LaarniHouse": {
+			"Exclude": true
+		},
+
+		"ReenusHouse": {
+			"Exclude": true
+		},
+
+		"GabbiHouse": {
+			"Exclude": true
+		},
+
+		"DiannaHouse": {
+			"Exclude": true
+		},
+
+		"FallsCave": {
+			"Exclude": true
+		}
+*/
 	}
 	},
 
