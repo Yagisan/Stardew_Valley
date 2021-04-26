@@ -657,6 +657,168 @@
 	},
 
 	{
+		"LogName": "Ridgeside Village 1.2.7 - Location Support", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=Rafseazz.RSVCP": true
+		},
+		"Entries": {
+		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
+		// Delete this once the content patcher map version is released.
+
+		// NPC Map Locations complains if any maps don't have a location.  Put a fake entry in to hide these for now.
+		"EmberNight": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"EzekielPic": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"MysticFalls1": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"MysticFalls2": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"MysticFalls3": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RidgeFalls": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RidgeForestQ1": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RidgeForestQ2": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},	
+		"RidgeForestQ3": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RidgeForestQ4": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"PrincessVilleDate": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RSVCliffNight": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RSVGathering": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RSVPikaOpen": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"RSVTheRide": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+
+		"RidgesideVillage": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 1,
+				"MapY": 221
+			},
+			{
+				"TileX": 149,
+				"TileY": 129,
+				"MapX": 200,
+				"MapY": 480
+			}
+			],
+			"MapTooltip": {
+				"X": 1,
+				"Y": 221,
+				"Width": 148,
+				"Height": 259,
+				"PrimaryText": "Ridgeside Village"
+			}
+	  	},
+
+		"RSVCableCar": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 570,
+				"MapY": 184
+			},
+			{
+				"TileX": 34,
+				"TileY": 29,
+				"MapX": 590,
+				"MapY": 204
+			}
+			],
+			"MapTooltip": {
+				"X": 570,
+				"Y": 184,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "Cable Car - Pelican Town"
+			}
+		},
+
+		"RSVCliff": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 230,
+				"MapY": 270
+			},
+			{
+				"TileX": 34,
+				"TileY": 29,
+				"MapX": 250,
+				"MapY": 290
+			}
+			],
+			"MapTooltip": {
+				"X": 230,
+				"Y": 270,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "Cable Car - Ridgeside"
+	  		}
+		},
+
+		"RSVTheHike": {
+			"MapVectors": [
+			{
+				"MapX": 230,
+				"MapY": 320
+			}
+			],
+			"MapTooltip": {
+				"X": 230,
+				"Y": 320,
+				"Width": 20,
+				"Height": 20,
+				"PrimaryText": "The Hike"
+			}
+		},
+
+		"Ridge": {
+			"MapVectors": [
+			{
+				"MapX": 121,
+				"MapY": 220
+			}
+			]
+		},
+
+		"LogCabinHotelLobby": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"LogCabinHotel2ndFloor": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"LogCabinHotel3rdFloor": {
+			"MapVectors": [
+			{
+				"MapX": 150,
+				"MapY": 250
+			}
+			]
+		},
+
+		"RSVHiddenWarp": {
+			"Exclude": true
+		},
+
+		"RSVHiddenWarp2": {
+			"Exclude": true
+		}
+	}
+	},
+
+	{
 		"LogName": "East Scarpe - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
