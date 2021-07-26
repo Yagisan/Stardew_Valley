@@ -396,6 +396,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 	}
 	},
 
+	// TODO: In East Scarpe 2.0, if SVE is not installed, they will move to East Scarpe.
 	{
 		"LogName": "Juliet and Jessie the Joja Clerks - Location Support", 
 		"Action": "EditData",
