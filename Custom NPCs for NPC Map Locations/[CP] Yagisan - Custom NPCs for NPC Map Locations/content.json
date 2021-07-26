@@ -198,6 +198,12 @@
 		"Aideen": {
 			"MarkerCropOffset": 2
 		},
+		"Dao": {
+			"MarkerCropOffset": 1
+		},
+		"Rosa": {
+			"MarkerCropOffset": 2
+		},
 		"Leximonster": {
 			"Exclude": true
 		},
@@ -1062,24 +1068,56 @@ We can't use the fake location trick either, as everyone ends up in the top left
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"When": {
 			"HasMod: |contains=LemurKat.EastScarpe.CP": true,
-			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false,
+			"HasMod: |contains=LemurKat.JulietHouse.NPC": false
 		},
 		"Entries": {
 		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
 
 		"Custom_ESVineyard": {
 			"MapVectors": [
+				{
+					"TileX": 0,
+					"TileY": 0,
+					"MapX": 1017,
+					"MapY": 388
+				},
+				{
+					"TileX": 59,
+					"TileY": 39,
+					"MapX": 1055,
+					"MapY": 409
+				}
+				]
+	  	}
+		}
+	},
+
+	{
+		"LogName": "East Scarpe + Juliet and Jessie - Location Support", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false,
+			"HasMod: |contains=LemurKat.JulietHouse.NPC": true
+		},
+		"Entries": {
+		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
+
+		"Custom_ESClearingHouse": {
+			"MapVectors": [
 			{
 				"TileX": 0,
 				"TileY": 0,
-				"MapX": 1050,
-				"MapY": 363
+				"MapX": 1017,
+				"MapY": 388
 			},
 			{
-				"TileX": 80,
-				"TileY": 40,
-				"MapX": 1165,
-				"MapY": 414
+				"TileX": 59,
+				"TileY": 39,
+				"MapX": 1055,
+				"MapY": 409
 			}
 			]
 	  	}
@@ -1087,7 +1125,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 	},
 
 	{
-		"LogName": "East Scarpe Vineyard + SVE - Location Support", 
+		"LogName": "East Scarpe Vineyard + Juliet and Jessie + SVE - Location Support", 
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 		"When": {
@@ -1112,8 +1150,24 @@ We can't use the fake location trick either, as everyone ends up in the top left
 				"MapY": 0
 			}
 			]
-		}
-		}
+		},
+		"Custom_ESClearingHouse": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 0,
+				"MapY": 0
+			},
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 0,
+				"MapY": 0
+			}
+			]
+	  	},
+	}
 	},
 
 	{
