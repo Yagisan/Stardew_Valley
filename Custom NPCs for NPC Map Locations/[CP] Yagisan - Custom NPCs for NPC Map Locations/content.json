@@ -885,7 +885,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 				"PrimaryText": "East Scarpe"
 			}
 	  	}
-	}
+		}
 	},
 
 	{
@@ -915,7 +915,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			}
 			]
 	  	}
-	}
+		}
 	},
 
 	{
@@ -927,27 +927,134 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
 		},
 		"Entries": {
-			// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
-			// This map does not exist when SVE is installed. Fake an entry so NPC Map Locations doesn't complain.
-			"ESVineyard": {
-				"MapVectors": [
+		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
+		// This map does not exist when SVE is installed. Fake an entry so NPC Map Locations doesn't complain.
+		"ESVineyard": {
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 0,
+				"MapY": 0
+			},
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 0,
+				"MapY": 0
+			}
+			]
+		}
+		}
+	},
+
+	{
+		"LogName": "East Scarpe - Location Support", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+		"When": {
+			"HasMod: |contains=LemurKat.EastScarpe.CP": true
+		},
+		"Entries": {
+		// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
+		// NPC Map Locations complains if any maps don't have a location.  Put a fake entry in to hide these for now.
+		"Custom_ESShack": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+		"Custom_ESOrchardHouse": { "MapVectors": [ { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 }, { "TileX": 0, "TileY": 0, "MapX": 0, "MapY": 0 } ]},
+	
+		"Custom_EastScarpe": {
+			"MapVectors": [
 				{
 					"TileX": 0,
 					"TileY": 0,
-					"MapX": 0,
-					"MapY": 0
+					"MapX": 1105,
+					"MapY": 305
 				},
 				{
-					"TileX": 0,
-					"TileY": 0,
-					"MapX": 0,
-					"MapY": 0
+					"TileX": 79,
+					"TileY": 136,
+					"MapX": 1200,
+					"MapY": 475	
 				}
-				]
-			  }
-		}
+				],
+				"MapTooltip": {
+					"X": 1105,
+					"Y": 305,
+					"Width": 95,
+					"Height": 170,
+					"PrimaryText": "East Scarpe"
+				}
 		},
-
+		"Custom_ESOrchard":{
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 1190,
+				"MapY": 330
+			},
+			{
+				"TileX": 54,
+				"TileY": 79,
+				"MapX": 1200,
+				"MapY": 500	
+			}
+			],
+			"MapTooltip": {
+				"X": 1190,
+				"Y": 330,
+				"Width": 25,
+				"Height": 170,
+				"PrimaryText": "The Orchard"
+			}
+		},
+		"Custom_ESMeadowFarm":{
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 1165,
+				"MapY": 280
+			},
+			{
+				"TileX": 49,
+				"TileY": 40,
+				"MapX": 1200,
+				"MapY": 300	
+			}
+			],
+			"MapTooltip": {
+				"X": 1165,
+				"Y": 280,
+				"Width": 35,
+				"Height": 20,
+				"PrimaryText": "Meadow Farm"
+			}
+		},
+		"Custom_ESDeepMountains":{
+			"MapVectors": [
+			{
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 1080,
+				"MapY": 130
+			},
+			{
+				"TileX": 121,
+				"TileY": 61,
+				"MapX": 1200,
+				"MapY": 220	
+			}
+			],
+			"MapTooltip": {
+				"X": 1080,
+				"Y": 130,
+				"Width": 120,
+				"Height": 90,
+				"PrimaryText": "Deep Mountains"
+			}
+		}
+	}
+	},
 
 	{
 		"LogName": "Life Cycle - Athanaeri Corner - Location Support", 
