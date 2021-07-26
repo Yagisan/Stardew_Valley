@@ -2,6 +2,8 @@
 
 This is the GitHub respository for Yagisan's Stardew Valley mods. It is mostly a collection of micromods addressing things I felt needed changing in the base game or other mods.
 
+ [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
+
 ## Krobus Sells Scrolls
 
 This mod was created because finding the dwarf scrolls is purely by chance in the base game.
