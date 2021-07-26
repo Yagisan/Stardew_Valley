@@ -416,9 +416,17 @@ We can't use the fake location trick either, as everyone ends up in the top left
 		"ClearingHouse": {
 			"MapVectors": [
 			{
-				"MapX": 700,
-				"MapY": 160
-			}
+				"TileX": 0,
+				"TileY": 0,
+				"MapX": 680,
+				"MapY": 172
+			},
+			{
+				"TileX": 59,
+				"TileY": 29,
+				"MapX": 703,
+				"MapY": 194
+			},
 			]
 		  }
 	}
@@ -448,8 +456,8 @@ We can't use the fake location trick either, as everyone ends up in the top left
 				"MapY": 82
 			},
 			{
-				"TileX": 60,
-				"TileY": 27,
+				"TileX": 59,
+				"TileY": 26,
 				"MapX": 581,
 				"MapY": 144
 			}
