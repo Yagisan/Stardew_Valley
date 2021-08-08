@@ -311,6 +311,12 @@
 
 		"Cecilia": {
 			"MarkerCropOffset": 2
+		},
+
+		// Aspen - New Custom Dateable NPC - https://www.nexusmods.com/stardewvalley/mods/6754
+
+		"Aspen": {
+			"MarkerCropOffset": 3
 		}
 
 		}
@@ -1383,6 +1389,41 @@ We can't use the fake location trick either, as everyone ends up in the top left
 				]
 			  }
 		}
+		},
+
+		{
+			"LogName": "Aspen - New Custom Dateable NPC - Location Support", 
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+			"When": {
+				"HasMod: |contains=invatorzen.AspenCP": true
+			},
+			"Entries": {
+			//	Aspen - New Custom Dateable NPC - https://www.nexusmods.com/stardewvalley/mods/6754
+			"AspenFarm": {
+				"MapVectors": [
+				{
+					"MapX": 470,
+					"MapY": 1,
+					"TileX": 0,
+					"TileY": 0
+				},
+				{
+					"MapX": 560,
+					"MapY": 64,
+					"TileX": 60,
+					"TileY": 43
+				}
+				],
+				"MapTooltip": {
+					"X": 470,
+					"Y": 1,
+					"Width": 90,
+					"Height": 59,
+					"PrimaryText": "Aspen's Farm"
+				}
+			  },
+		   }
 		},
 
 	{
