@@ -4,13 +4,15 @@ This is the GitHub respository for Yagisan's Stardew Valley mods. It is mostly a
 
  [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
 
-## Krobus Sells Scrolls
+## [Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9134)
 
 This mod was created because finding the dwarf scrolls is purely by chance in the base game.
 In game it is established that Krobus and the Dwarf do understand each other, so it is logical to assume Krobus will "aquire" dwarf scrolls.
 Upon reaching 4 hearts with Krobus, he will have 1 dwarf scroll, selected randomly, each day.
 
 This mod requires [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005) to function.
+
+This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
 ## Better Hilltop
 
@@ -85,11 +87,11 @@ This mod supports NPCs and Locations from:
 * [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
 * [Shiko - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/3732)
 * [New NPC - Cecilia](https://www.nexusmods.com/stardewvalley/mods/6246)
+* [Aspen - New Custom Dateable NPC](https://www.nexusmods.com/stardewvalley/mods/6754)
 
 ### Known Issues
 
-[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) hardcodes several locations, such as the [Secret Woods](https://stardewvalleywiki.com/Secret_Woods).
-I provide alternate locations, however they appear to be ignored as of NPC Map Locations 2.6.2
+NPCs appear in the top left corner of the map. Not actually a bug with this mod's data. That location is where [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239) draws things it doesn't know where they go by default.
 
 ### See Also
 
