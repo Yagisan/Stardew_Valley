@@ -4,7 +4,7 @@ This is the GitHub respository for Yagisan's Stardew Valley mods. It is mostly a
 
  [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
 
-## [Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9134)
+## [Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9248)
 
 This mod was created because finding the dwarf scrolls is purely by chance in the base game.
 In game it is established that Krobus and the Dwarf do understand each other, so it is logical to assume Krobus will "acquire" dwarf scrolls.
