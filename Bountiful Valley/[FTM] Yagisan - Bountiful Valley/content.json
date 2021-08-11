@@ -388,7 +388,116 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null,
+    "DaysUntilSpawnsExpire": 3,
+    "WinterItemIndex": null
+   },
+   {
+    "SpringItemIndex": [
+     "Tulip",
+     "Blue Jazz"
+    ],
+    "SummerItemIndex": [
+     "Sunflower",
+     "Summer Spangle"
+    ],
+    "FallItemIndex": [
+     "Sunflower",
+     "Fairy Rose"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Railroad Spawn [Fair Weather Flowers]",
+    "MapName": "Railroad",
+    "MinimumSpawnsPerDay": 1,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherToday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": [
+     "Common Mushroom"
+    ],
+    "SummerItemIndex": [
+     "Common Mushroom"
+    ],
+    "FallItemIndex": [
+     "Common Mushroom",
+     "Red Mushroom"
+    ],
+    "UniqueAreaID": "Yagisan - Railroad Spawn [Post Rain Musrooms]",
+    "MapName": "Railroad",
+    "MinimumSpawnsPerDay": 2,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Rain",
+      "Storm"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 3,
     "WinterItemIndex": null
    },
    {
@@ -506,6 +615,178 @@
      "LimitedNumberOfSpawns": null
     },
     "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "SummerItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "FallItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "WinterItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "UniqueAreaID": "Yagisan - Beach Spawn [Post Rain Garbage]",
+    "MapName": "Beach",
+    "MinimumSpawnsPerDay": 2,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Dirt"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Grass",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Rain"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "SummerItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "FallItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "WinterItemIndex": [
+     "Trash",
+     "Soggy Newspaper",
+     "Broken CD"
+    ],
+    "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Garbage]",
+    "MapName": "Beach",
+    "MinimumSpawnsPerDay": 7,
+    "MaximumSpawnsPerDay": 15,
+    "IncludeTerrainTypes": [
+     "Dirt"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Grass",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Storm"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 5
+   },
+   {
+    "SpringItemIndex": [
+     "Driftwood"
+    ],
+    "SummerItemIndex": [
+     "Driftwood"
+    ],
+    "FallItemIndex": [
+     "Driftwood"
+    ],
+    "WinterItemIndex": [
+     "Driftwood"
+    ],
+    "UniqueAreaID": "Yagisan - Beach Spawn [Post Wind Driftwood]",
+    "MapName": "Beach",
+    "MinimumSpawnsPerDay": 3,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Dirt"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Grass",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Wind"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 4
    }
   ],
   "PercentExtraSpawnsPerForagingLevel": 0,
