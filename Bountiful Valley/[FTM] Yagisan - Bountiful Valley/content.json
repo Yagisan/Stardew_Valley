@@ -27,7 +27,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -82,7 +81,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -142,7 +140,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -199,7 +196,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -250,7 +246,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -304,7 +299,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -358,7 +352,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -413,7 +406,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -467,7 +459,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -528,7 +519,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -589,7 +579,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -705,7 +694,6 @@
      "Grass"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Dirt",
      "Quarry",
      "Stone",
@@ -766,7 +754,6 @@
      "Dirt"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Grass",
      "Quarry",
      "Stone",
@@ -826,7 +813,6 @@
      "Dirt"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Grass",
      "Quarry",
      "Stone",
@@ -878,7 +864,6 @@
      "Dirt"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Grass",
      "Quarry",
      "Stone",
@@ -911,24 +896,21 @@
    },
    {
     "SpringItemIndex": [
-     "Cactus Flower"
+     "Poppy"
     ],
-    "SummerItemIndex": [
-     "Cactus Flower"
-    ],
+    "SummerItemIndex": [],
     "FallItemIndex": [
-     "Cactus Flower"
+     "Bee Balm"
     ],
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Desert Spawn [Desert Seasonal Blooms]",
     "MapName": "Desert",
-    "MinimumSpawnsPerDay": 3,
-    "MaximumSpawnsPerDay": 5,
+    "MinimumSpawnsPerDay": 7,
+    "MaximumSpawnsPerDay": 15,
     "IncludeTerrainTypes": [
      "Dirt"
     ],
     "ExcludeTerrainTypes": [
-     "Diggable",
      "Grass",
      "Quarry",
      "Stone",
