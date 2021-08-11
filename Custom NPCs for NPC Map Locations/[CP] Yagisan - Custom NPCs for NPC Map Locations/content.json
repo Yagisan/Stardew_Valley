@@ -13,7 +13,7 @@
 		// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
 
 		"Alesia": {
-			"MarkerCropOffset": 6
+			"Exclude": true
 		},
 		"Andy": {
 			"MarkerCropOffset": -1
@@ -22,7 +22,7 @@
 			"MarkerCropOffset": 16
 		},
 		"Camilla": {
-			"MarkerCropOffset": 2
+			"Exclude": true
 		},
 		"Claire": {
 			"MarkerCropOffset": 3
@@ -34,7 +34,13 @@
 			"MarkerCropOffset": 3
 		},
 		"Isaac": {
-			"MarkerCropOffset": 0
+			"Exclude": true
+		},
+		"Jadu": {
+			"Exclude": true
+		},
+		"Lance": {
+			"Exclude": true
 		},
 		"MarlonFay": {
 			"MarkerCropOffset": 1
