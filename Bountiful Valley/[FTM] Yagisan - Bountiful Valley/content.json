@@ -233,49 +233,28 @@
    },
    {
     "SpringItemIndex": [
-     "Wild Horseradish",
-     "Leek",
-     "Dandelion",
-     "Tulip",
-     "Daffodil",
-     "Blue Jazz"
+     "Common Mushroom"
     ],
     "SummerItemIndex": [
-     "Spice Berry",
-     "Grape",
-     "Sunflower",
-     "Sweet Pea",
-     "Poppy",
-     "Summer Spangle"
+     "Common Mushroom"
     ],
     "FallItemIndex": [
-     "Chanterelle",
-     "Wild Plum",
-     "Red Mushroom",
-     "Sunflower",
-     "Hazelnut",
-     "Fairy Rose"
+     "Common Mushroom"
     ],
-    "WinterItemIndex": [
-     "Holly",
-     "Crystal Fruit",
-     "Mint",
-     "Juniper Berry",
-     "Snow Yam",
-     "Crocus"
-    ],
-    "UniqueAreaID": "Yagi - Town Spawn",
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Town Spawn [Post Rain Mushrooms]",
     "MapName": "Town",
-    "MinimumSpawnsPerDay": 1,
+    "MinimumSpawnsPerDay": 3,
     "MaximumSpawnsPerDay": 5,
     "IncludeTerrainTypes": [
      "Grass"
     ],
     "ExcludeTerrainTypes": [
+     "Diggable",
      "Dirt",
+     "Quarry",
      "Stone",
-     "Wood",
-     "Quarry"
+     "Wood"
     ],
     "IncludeCoordinates": [],
     "ExcludeCoordinates": [],
@@ -292,13 +271,16 @@
      "Years": [],
      "Seasons": [],
      "Days": [],
-     "WeatherYesterday": [],
+     "WeatherYesterday": [
+      "Rain",
+      "Storm"
+     ],
      "WeatherToday": [],
      "WeatherTomorrow": [],
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
