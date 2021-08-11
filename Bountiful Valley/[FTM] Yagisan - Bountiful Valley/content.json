@@ -520,6 +520,127 @@
      "Purple Coneflower"
     ],
     "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Secret Woods Spawn [Fair Weather Flowers]",
+    "MapName": "Woods",
+    "MinimumSpawnsPerDay": 3,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherToday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": [
+     "Common Mushroom",
+     "Morel",
+     "Shiitake Mushroom"
+    ],
+    "SummerItemIndex": [
+     "Common Mushroom",
+     "Red Mushroom",
+     "Sulfur Shelf Mushroom"
+    ],
+    "FallItemIndex": [
+     "Chanterelle",
+     "Purple Mushroom",
+     "Shiitake Mushroom",
+     "Sulfur Shelf Mushroom"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Secret Woods Spawn [Post Rain Mushrooms]",
+    "MapName": "Woods",
+    "MinimumSpawnsPerDay": 3,
+    "MaximumSpawnsPerDay": 7,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Rain",
+      "Storm"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Tulip",
+     "Blue Jazz",
+     "Pink Cat",
+     "Shaded Violet"
+    ],
+    "SummerItemIndex": [
+     "Sunflower",
+     "Summer Spangle",
+     "Fragrant Lilac",
+     "Blue Mist"
+    ],
+    "FallItemIndex": [
+     "Sunflower",
+     "Fairy Rose",
+     "Fairy Duster",
+     "Purple Coneflower"
+    ],
+    "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Forest Spawn [Fair Weather Flowers]",
     "MapName": "Forest",
     "MinimumSpawnsPerDay": 7,
@@ -787,6 +908,56 @@
      "LimitedNumberOfSpawns": null
     },
     "DaysUntilSpawnsExpire": 4
+   },
+   {
+    "SpringItemIndex": [
+     "Cactus Flower"
+    ],
+    "SummerItemIndex": [
+     "Cactus Flower"
+    ],
+    "FallItemIndex": [
+     "Cactus Flower"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Desert Spawn [Desert Seasonal Blooms]",
+    "MapName": "Desert",
+    "MinimumSpawnsPerDay": 3,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Dirt"
+    ],
+    "ExcludeTerrainTypes": [
+     "Diggable",
+     "Grass",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [
+      "1-3"
+     ],
+     "WeatherYesterday": [],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 7
    }
   ],
   "PercentExtraSpawnsPerForagingLevel": 0,
