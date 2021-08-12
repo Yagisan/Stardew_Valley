@@ -786,28 +786,79 @@
    },
    {
     "SpringItemIndex": [
-     "Trash",
+     "Driftwood",
      "Soggy Newspaper",
      "Broken CD"
     ],
     "SummerItemIndex": [
-     "Trash",
+     "Driftwood",
      "Soggy Newspaper",
      "Broken CD"
     ],
     "FallItemIndex": [
-     "Trash",
+     "Driftwood",
      "Soggy Newspaper",
      "Broken CD"
     ],
     "WinterItemIndex": [
-     "Trash",
+     "Driftwood",
      "Soggy Newspaper",
      "Broken CD"
     ],
-    "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Garbage]",
+    "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Debris]",
     "MapName": "Beach",
     "MinimumSpawnsPerDay": 7,
+    "MaximumSpawnsPerDay": 15,
+    "IncludeTerrainTypes": [
+     "Dirt"
+    ],
+    "ExcludeTerrainTypes": [
+     "Grass",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Storm"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 5
+   },
+   {
+    "SpringItemIndex": [
+     "Trash"
+    ],
+    "SummerItemIndex": [
+     "Trash"
+    ],
+    "FallItemIndex": [
+     "Trash"
+    ],
+    "WinterItemIndex": [
+     "Trash"
+    ],
+    "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Trash]",
+    "MapName": "Beach",
+    "MinimumSpawnsPerDay": 10,
     "MaximumSpawnsPerDay": 15,
     "IncludeTerrainTypes": [
      "Dirt"
@@ -905,7 +956,7 @@
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Desert Spawn [Desert Seasonal Blooms]",
     "MapName": "Desert",
-    "MinimumSpawnsPerDay": 7,
+    "MinimumSpawnsPerDay": 12,
     "MaximumSpawnsPerDay": 15,
     "IncludeTerrainTypes": [
      "Dirt"
