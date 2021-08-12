@@ -254,6 +254,26 @@
 				},
 			}
 		},
+		// Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
+		{
+			"LogName": "BH NPC Sprite Offsets",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"When": {
+				"HasMod: |contains=FTMBdHouse": true
+			},
+			"Entries": {
+				"Gregory": {
+					"MarkerCropOffset": -1
+				},
+				"Joel": {
+					"MarkerCropOffset": 0
+				},
+				"Sheila": {
+					"MarkerCropOffset": -1
+				},
+			}
+		},
 		{
 			"LogName": "NPC Sprite Offsets",
 			"Action": "EditData",
@@ -274,16 +294,6 @@
 				// Professor Jasper Thomas - https://www.nexusmods.com/stardewvalley/mods/5599
 				"Jasper": {
 					"MarkerCropOffset": 0
-				},
-				// Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
-				"Gregory": {
-					"MarkerCropOffset": -1
-				},
-				"Joel": {
-					"MarkerCropOffset": 0
-				},
-				"Sheila": {
-					"MarkerCropOffset": -1
 				},
 				// Delores - A New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/5510
 				"Delores": {
