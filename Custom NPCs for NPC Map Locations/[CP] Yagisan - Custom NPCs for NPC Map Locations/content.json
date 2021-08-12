@@ -4,17 +4,15 @@
 
 	"Changes": [
 
+	// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
 	{
-	  "LogName": "NPC Sprite Offsets", 
+	  "LogName": "SVE NPC Sprite Offsets", 
 	  "Action": "EditData",
 	  "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 	  "When": {
 		"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
 		},
 	  "Entries": {
-
-		// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
-
 		"Alesia": {
 			"Exclude": true
 		},
@@ -68,6 +66,20 @@
 		},
 		"Victor": {
 			"MarkerCropOffset": 0
+		},
+	}
+	},
+	{
+		"LogName": "SVE NPC Sprite Offsets - Morris Event", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+		"When": {
+		  "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+		  "HasSeenEvent": "191393"
+		  },
+		"Entries": {
+		  "MorrisTod": {
+			  "Exclude": true
 		},
 	}
 	},
