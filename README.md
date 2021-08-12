@@ -14,7 +14,7 @@ This mod requires [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
-## Bountiful Valley
+## [Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)
 
 This mod was created because I wanted a bigger, more dynamic variety of forage in Stardew Valley.
 
