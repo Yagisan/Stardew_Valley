@@ -124,12 +124,15 @@
 				},
 			}
 		},
+		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
 		{
-			"LogName": "NPC Sprite Offsets",
+			"LogName": "RSV NPC Sprite Offsets",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"When": {
+				"HasMod: |contains=Rafseazz.RSVCP": true
+			},
 			"Entries": {
-				// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
 				"Aguar": {
 					"MarkerCropOffset": 1
 				},
@@ -208,6 +211,13 @@
 				"Undreya": {
 					"Exclude": true
 				},
+			}
+		},
+		{
+			"LogName": "NPC Sprite Offsets",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"Entries": {
 				// Mister Ginger (cat NPC) - https://www.nexusmods.com/stardewvalley/mods/5295
 				"MisterGinger": {
 					"MarkerCropOffset": 16
