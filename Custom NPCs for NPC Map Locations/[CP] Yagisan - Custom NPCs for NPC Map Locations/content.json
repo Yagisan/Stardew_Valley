@@ -6,13 +6,13 @@
 
 	// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
 	{
-	  "LogName": "SVE NPC Sprite Offsets", 
-	  "Action": "EditData",
-	  "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-	  "When": {
-		"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
+	  	"LogName": "SVE NPC Sprite Offsets", 
+	  	"Action": "EditData",
+	  	"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+	  	"When": {
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
 		},
-	  "Entries": {
+	  	"Entries": {
 		"Alesia": {
 			"Exclude": true
 		},
@@ -74,24 +74,25 @@
 		"Action": "EditData",
 		"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 		"When": {
-		  "HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
-		  "HasSeenEvent": "191393"
-		  },
+			"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+			"HasSeenEvent": "191393"
+		},
 		"Entries": {
-		  "MorrisTod": {
-			  "Exclude": true
+		"MorrisTod": {
+			"Exclude": true
 		},
 	}
 	},
 
+	// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 	{
-	  "LogName": "NPC Sprite Offsets", 
-	  "Action": "EditData",
-	  "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-	  "Entries": {
-
-		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
-
+		"LogName": "LASV NPC Sprite Offsets", 
+		"Action": "EditData",
+		"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+		"When": {
+			"HasMod: |contains=Rafseazz.LunnaCP": true
+		},
+		"Entries": {
 		"Bianka": {
 			"MarkerCropOffset": 5
 		},
@@ -104,6 +105,14 @@
 		"Raphael": {
 			"MarkerCropOffset": -1
 		},
+	  }
+	  },
+
+	{
+	  "LogName": "NPC Sprite Offsets", 
+	  "Action": "EditData",
+	  "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+	  "Entries": {
 
 		// Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
 
