@@ -213,24 +213,15 @@
 				},
 			}
 		},
+		// East Scarp - https://www.nexusmods.com/stardewvalley/mods/5787
 		{
-			"LogName": "NPC Sprite Offsets",
+			"LogName": "ES NPC Sprite Offsets",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"When": {
+				"HasMod: |contains=LemurKat.EastScarpe.CP": true
+			},
 			"Entries": {
-				// Mister Ginger (cat NPC) - https://www.nexusmods.com/stardewvalley/mods/5295
-				"MisterGinger": {
-					"MarkerCropOffset": 16
-				},
-				// Jade NPC - https://www.nexusmods.com/stardewvalley/mods/5559
-				"Jade": {
-					"MarkerCropOffset": 3
-				},
-				// Beatrice NPC - https://www.nexusmods.com/stardewvalley/mods/7042
-				"Beatrice": {
-					"MarkerCropOffset": 4
-				},
-				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
 				"Jacob": {
 					"MarkerCropOffset": -1
 				},
@@ -260,6 +251,25 @@
 				},
 				"JosephineK": {
 					"Exclude": true
+				},
+			}
+		},
+		{
+			"LogName": "NPC Sprite Offsets",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"Entries": {
+				// Mister Ginger (cat NPC) - https://www.nexusmods.com/stardewvalley/mods/5295
+				"MisterGinger": {
+					"MarkerCropOffset": 16
+				},
+				// Jade NPC - https://www.nexusmods.com/stardewvalley/mods/5559
+				"Jade": {
+					"MarkerCropOffset": 3
+				},
+				// Beatrice NPC - https://www.nexusmods.com/stardewvalley/mods/7042
+				"Beatrice": {
+					"MarkerCropOffset": 4
 				},
 				// Professor Jasper Thomas - https://www.nexusmods.com/stardewvalley/mods/5599
 				"Jasper": {
@@ -1342,14 +1352,14 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			}
 		},
 		{
-			"LogName": "East Scarpe 1.7 - Location Support",
+			"LogName": "East Scarp 1.7 - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
 				"HasMod: |contains=LemurKat.EastScarpe.CP": true
 			},
 			"Entries": {
-				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
+				// East Scarp - https://www.nexusmods.com/stardewvalley/mods/5787
 				// NPC Map Locations complains if any maps don't have a location.  Put a fake entry in to hide these for now.
 				"DeepMountains": {
 					"MapVectors": [
