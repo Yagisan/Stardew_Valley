@@ -10,7 +10,7 @@ This mod was created because finding the dwarf scrolls is purely by chance in th
 In game it is established that Krobus and the Dwarf do understand each other, so it is logical to assume Krobus will "acquire" dwarf scrolls.
 Upon reaching 4 hearts with Krobus, he will have 1 dwarf scroll, selected randomly, each day.
 
-This mod requires [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005) to function.
+- This mod requires [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005) to function.
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
@@ -30,9 +30,8 @@ In both Spring and Fall, the desert briefly comes alive with a short-lived bloom
 
 The exact forage found will depend on the weather, the location, and the date.
 
-This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
-
-This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
+- This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
+- This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
@@ -48,13 +47,11 @@ All year round, you can find a variety of new forage in The Lost Valley.
 
 The exact forage found will depend on the weather, the location, and the date.
 
-This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
-
-This mod requires [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) to function.
-
-This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
-
-This mod optionally requires [PPJA - Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598) for additional functionality.
+- This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
+- This mod requires [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) to function.
+- This mod requires [Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259) to function.
+- This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
+- This mod optionally requires [PPJA - Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598) for additional functionality.
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
