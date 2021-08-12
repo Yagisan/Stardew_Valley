@@ -14,6 +14,27 @@ This mod requires [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
+## Bountiful Valley
+
+This mod was created because I wanted a bigger, more dynamic variety of forage in Stardew Valley.
+
+You can find the following additional forage. Some forage items require [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028), and will be skipped if that is not installed.
+
+If today's weather is good, and yesterday's weather was also good, you can find a variety of additional flowers.
+
+If yesterday's weather was rainy, you can find  a variety of mushrooms.
+
+If yesterday's weather was rainy, storm, or windy the beach will have a variety of debris
+
+In both Spring and Fall, the desert briefly comes alive with a short-lived bloom of flowers.
+
+The exact forage found will depend on the weather, the location, and the date.
+
+This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
+This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
+
+This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
+
 ## Better Hilltop
 
 This mod was created because the default Hilltop map quarry is useless in the base game.
