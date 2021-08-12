@@ -36,7 +36,7 @@ This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/s
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
-## [Bountiful Valley for Boarding House]()
+## [Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)
 
 Extends [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) with a variety of new forage.
 
