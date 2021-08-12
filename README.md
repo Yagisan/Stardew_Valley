@@ -83,7 +83,7 @@ This mod supports NPCs and Locations from:
 * [College Boy Mike - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6288)
 * [Custom NPC - Denver](https://www.nexusmods.com/stardewvalley/mods/4594) Default gender only supported.
 * [Custom NPC - Roronoa Zoro](https://www.nexusmods.com/stardewvalley/mods/6316)
-* [Blanche - The librarian Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6469)
+* [Blanche - The librarian Custom NPC](https://blog.naver.com/blythe0kim/222121642257)
 * [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
 * [Shiko - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/3732)
 * [New NPC - Cecilia](https://www.nexusmods.com/stardewvalley/mods/6246)
