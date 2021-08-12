@@ -104,12 +104,15 @@
 				},
 			}
 		},
+		// Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
 		{
-			"LogName": "NPC Sprite Offsets",
+			"LogName": "Juliet and Jessie NPC Sprite Offsets",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"When": {
+				"HasMod: |contains=LemurKat.JulietHouse.NPC": true
+			},
 			"Entries": {
-				// Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
 				"Juliet": {
 					"MarkerCropOffset": 2
 				},
@@ -119,6 +122,13 @@
 				"Gremlin": {
 					"MarkerCropOffset": 8
 				},
+			}
+		},
+		{
+			"LogName": "NPC Sprite Offsets",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"Entries": {
 				// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
 				"Aguar": {
 					"MarkerCropOffset": 1
