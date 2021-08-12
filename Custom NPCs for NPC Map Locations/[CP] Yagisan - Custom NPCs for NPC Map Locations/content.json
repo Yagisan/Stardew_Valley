@@ -8,6 +8,9 @@
 	  "LogName": "NPC Sprite Offsets", 
 	  "Action": "EditData",
 	  "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+	  "When": {
+		"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
+		},
 	  "Entries": {
 
 		// Stardew Valley Expanded - https://www.nexusmods.com/stardewvalley/mods/3753
@@ -66,6 +69,14 @@
 		"Victor": {
 			"MarkerCropOffset": 0
 		},
+	}
+	},
+
+	{
+	  "LogName": "NPC Sprite Offsets", 
+	  "Action": "EditData",
+	  "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+	  "Entries": {
 
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 
