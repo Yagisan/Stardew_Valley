@@ -416,6 +416,129 @@
      "LimitedNumberOfSpawns": null
     },
     "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Tulip",
+     "Blue Jazz"
+    ],
+    "SummerItemIndex": [
+     "Sunflower",
+     "Summer Spangle"
+    ],
+    "FallItemIndex": [
+     "Sunflower",
+     "Fairy Rose"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Ridgeside Ridge Spawn [Fair Weather Flowers]",
+    "MapName": "Custom_Ridgeside_Ridge",
+    "MinimumSpawnsPerDay": 4,
+    "MaximumSpawnsPerDay": 7,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [
+     "0,0/33,15",
+     "33,0/66,24",
+     "24,0/79,29",
+     "75,29/79,39",
+     "43,37/79,39",
+     "0,32/18,39",
+     "18,37/37,39"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherToday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": [
+     "Common Mushroom"
+    ],
+    "SummerItemIndex": [
+     "Common Mushroom"
+    ],
+    "FallItemIndex": [
+     "Common Mushroom",
+     "Red Mushroom"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Ridgeside Ridge Spawn [Post Rain Mushrooms]",
+    "MapName": "Custom_Ridgeside_Ridge",
+    "MinimumSpawnsPerDay": 5,
+    "MaximumSpawnsPerDay": 8,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [
+     "0,0/33,15",
+     "33,0/66,24",
+     "24,0/79,29",
+     "75,29/79,39",
+     "43,37/79,39",
+     "0,32/18,39",
+     "18,37/37,39"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Rain",
+      "Storm"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 3
    }
   ],
   "PercentExtraSpawnsPerForagingLevel": 0,
