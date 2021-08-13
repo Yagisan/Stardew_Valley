@@ -1853,7 +1853,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 				"HasMod: |contains=LemurKat.JulietHouse.NPC": true
 			},
 			"Entries": {
-				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
+				// East Scarp - https://www.nexusmods.com/stardewvalley/mods/5787
 				"Custom_ESClearingHouse": {
 					"MapVectors": [
 						{
