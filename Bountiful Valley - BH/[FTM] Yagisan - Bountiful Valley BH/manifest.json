@@ -17,6 +17,10 @@
       "IsRequired": true
     },
     {
+      "UniqueID": "FTMBdHouse",
+      "IsRequired": true
+    },
+    {
       "UniqueID": "ppja.fruitsandveggies",
       "IsRequired": false
     },
