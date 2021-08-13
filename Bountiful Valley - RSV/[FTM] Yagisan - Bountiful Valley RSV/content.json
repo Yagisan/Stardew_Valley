@@ -539,6 +539,61 @@
      "LimitedNumberOfSpawns": null
     },
     "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Ridge Cherry",
+     "Mountain Arugula"
+    ],
+    "SummerItemIndex": [
+     "Mountain Chico",
+     "Ridge Wild Apple"
+    ],
+    "FallItemIndex": [
+     "Autumn Drop Berry",
+     "Highland Chard"
+    ],
+    "WinterItemIndex": [
+     "Frost Clump Berry",
+     "Ridgeside Clementine"
+    ],
+    "UniqueAreaID": "Yagisan - Backwoods Pathway Spawn [Windblown Ridgeside Produce]",
+    "MapName": "Backwoods",
+    "MinimumSpawnsPerDay": 2,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Wind"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
    }
   ],
   "PercentExtraSpawnsPerForagingLevel": 0,
