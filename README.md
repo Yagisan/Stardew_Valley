@@ -55,6 +55,26 @@ The exact forage found will depend on the weather, the location, and the date.
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
 
+## [Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)
+
+Extends [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) with a variety of new forage.
+
+If today's weather is good, and yesterday's weather was also good, you can find a variety of additional flowers.
+
+If yesterday's weather was rainy, you can find a variety of mushrooms.
+
+If yesterday's weather was windy, perhaps some produce has blown down the ridge.
+
+The exact forage found will depend on the weather, the location, and the date.
+
+- This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
+- This mod requires [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) to function.
+- This mod requires [Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259) to function.
+- This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
+- This mod optionally requires [PPJA - Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598) for additional functionality.
+
+This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
+
 ## Better Hilltop
 
 This mod was created because the default Hilltop map quarry is useless in the base game.
