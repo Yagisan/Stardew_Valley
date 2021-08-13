@@ -92,9 +92,239 @@
     ],
     "IncludeCoordinates": [],
     "ExcludeCoordinates": [
-        "0,22/16,29",
-        "27,0/34,5",
-        "31,5/34,29"
+     "0,22/16,29",
+     "27,0/34,5",
+     "31,5/34,29"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Rain",
+      "Storm"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Tulip",
+     "Blue Jazz"
+    ],
+    "SummerItemIndex": [
+     "Sunflower",
+     "Summer Spangle"
+    ],
+    "FallItemIndex": [
+     "Sunflower",
+     "Fairy Rose"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Ridgeside RSVCliff Spawn [Fair Weather Flowers]",
+    "MapName": "Custom_Ridgeside_RSVCliff",
+    "MinimumSpawnsPerDay": 2,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [
+     "0,1/5,12",
+     "6,0/17,7",
+     "13,7/68,20",
+     "0,37/64,39"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherToday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": [
+     "Common Mushroom"
+    ],
+    "SummerItemIndex": [
+     "Common Mushroom"
+    ],
+    "FallItemIndex": [
+     "Common Mushroom",
+     "Red Mushroom"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Ridgeside RSVCliff Spawn [Post Rain Mushrooms]",
+    "MapName": "Custom_Ridgeside_RSVCliff",
+    "MinimumSpawnsPerDay": 3,
+    "MaximumSpawnsPerDay": 5,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [
+     "0,1/5,12",
+     "6,0/17,7",
+     "13,7/68,20",
+     "0,37/64,39"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Rain",
+      "Storm"
+     ],
+     "WeatherToday": [],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Tulip",
+     "Blue Jazz"
+    ],
+    "SummerItemIndex": [
+     "Sunflower",
+     "Summer Spangle"
+    ],
+    "FallItemIndex": [
+     "Sunflower",
+     "Fairy Rose"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Ridgeside RSVTheHike Spawn [Fair Weather Flowers]",
+    "MapName": "Custom_Ridgeside_RSVTheHike",
+    "MinimumSpawnsPerDay": 4,
+    "MaximumSpawnsPerDay": 7,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [
+     "0,0/79,17",
+     "0,37/79,39"
+    ],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherToday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": null
+   },
+   {
+    "SpringItemIndex": [
+     "Common Mushroom"
+    ],
+    "SummerItemIndex": [
+     "Common Mushroom"
+    ],
+    "FallItemIndex": [
+     "Common Mushroom",
+     "Red Mushroom"
+    ],
+    "WinterItemIndex": [],
+    "UniqueAreaID": "Yagisan - Ridgeside RSVTheHike Spawn [Post Rain Mushrooms]",
+    "MapName": "Custom_Ridgeside_RSVTheHike",
+    "MinimumSpawnsPerDay": 5,
+    "MaximumSpawnsPerDay": 8,
+    "IncludeTerrainTypes": [
+     "Grass"
+    ],
+    "ExcludeTerrainTypes": [
+     "Dirt",
+     "Quarry",
+     "Stone",
+     "Wood"
+    ],
+    "IncludeCoordinates": [],
+    "ExcludeCoordinates": [
+     "0,0/79,17",
+     "0,37/79,39"
     ],
     "StrictTileChecking": "Maximum",
     "SpawnTiming": {
