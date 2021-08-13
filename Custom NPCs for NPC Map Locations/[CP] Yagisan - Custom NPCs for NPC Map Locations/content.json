@@ -252,6 +252,12 @@
 				"JosephineK": {
 					"Exclude": true
 				},
+				"Kataryna": {
+					"Exclude": true
+				},
+				"RichieTheMacaw": {
+					"Exclude": true
+				},
 			}
 		},
 		// Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
@@ -1610,13 +1616,13 @@ We can't use the fake location trick either, as everyone ends up in the top left
 						"Y": 393,
 						"Width": 20,
 						"Height": 20,
-						"PrimaryText": "East Scarpe"
+						"PrimaryText": "East Scarp"
 					}
 				}
 			}
 		},
 		{
-			"LogName": "East Scarpe 1.7 Vineyard - Location Support",
+			"LogName": "East Scarp 1.7 Vineyard - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
@@ -1644,7 +1650,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			}
 		},
 		{
-			"LogName": "East Scarpe 1.7 Vineyard + SVE - Location Support",
+			"LogName": "East Scarp 1.7 Vineyard + SVE - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
@@ -1673,7 +1679,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			}
 		},
 		{
-			"LogName": "East Scarpe - Location Support",
+			"LogName": "East Scarp - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
@@ -1734,7 +1740,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 						"Y": 305,
 						"Width": 95,
 						"Height": 170,
-						"PrimaryText": "East Scarpe"
+						"PrimaryText": "East Scarp"
 					}
 				},
 				"Custom_ESOrchard": {
@@ -1809,7 +1815,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			}
 		},
 		{
-			"LogName": "East Scarpe Vineyard - Location Support",
+			"LogName": "East Scarp Vineyard - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
@@ -1838,7 +1844,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			}
 		},
 		{
-			"LogName": "East Scarpe + Juliet and Jessie - Location Support",
+			"LogName": "East Scarp + Juliet and Jessie - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
