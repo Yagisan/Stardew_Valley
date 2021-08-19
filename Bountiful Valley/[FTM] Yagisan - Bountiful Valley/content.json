@@ -67,7 +67,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -150,8 +150,8 @@
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Mountain Spawn [Fair Weather Flowers]",
     "MapName": "Mountain",
-    "MinimumSpawnsPerDay": 5,
-    "MaximumSpawnsPerDay": 15,
+    "MinimumSpawnsPerDay": 4,
+    "MaximumSpawnsPerDay": 8,
     "IncludeTerrainTypes": [
      "Grass"
     ],
@@ -188,7 +188,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -207,7 +207,7 @@
     "UniqueAreaID": "Yagisan - Mountain Spawn [Post Rain Mushrooms]",
     "MapName": "Mountain",
     "MinimumSpawnsPerDay": 5,
-    "MaximumSpawnsPerDay": 10,
+    "MaximumSpawnsPerDay": 8,
     "IncludeTerrainTypes": [
      "Grass"
     ],
@@ -415,7 +415,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null
+    "DaysUntilSpawnsExpire": 1
    },
    {
     "SpringItemIndex": [
@@ -522,7 +522,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -635,7 +635,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null
+    "DaysUntilSpawnsExpire": 7
    },
    {
     "SpringItemIndex": [
@@ -717,7 +717,7 @@
     "UniqueAreaID": "Yagisan - Forest Spawn [Fair Weather Flowers]",
     "MapName": "Forest",
     "MinimumSpawnsPerDay": 7,
-    "MaximumSpawnsPerDay": 25,
+    "MaximumSpawnsPerDay": 15,
     "IncludeTerrainTypes": [
      "Grass"
     ],
@@ -754,7 +754,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": null
+    "DaysUntilSpawnsExpire": 5
    },
    {
     "SpringItemIndex": [
@@ -892,7 +892,7 @@
     "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Debris]",
     "MapName": "Beach",
     "MinimumSpawnsPerDay": 7,
-    "MaximumSpawnsPerDay": 15,
+    "MaximumSpawnsPerDay": 10,
     "IncludeTerrainTypes": [
      "Dirt"
     ],
@@ -1027,7 +1027,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 4
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -1074,7 +1074,112 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 7
+    "DaysUntilSpawnsExpire": 3
+   },
+   {
+    "SpringItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "SummerItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "FallItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "WinterItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "UniqueAreaID": "Yagisan - Mine Spawn [Fruit Bats]",
+    "MapName": "Mine",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 3,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "12,5/16,9",
+     "19,4/25,7",
+     "19,4/22,11"
+    ],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 1
    }
   ],
   "PercentExtraSpawnsPerForagingLevel": 0,
