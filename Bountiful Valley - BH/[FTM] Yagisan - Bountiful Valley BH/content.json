@@ -21,8 +21,8 @@
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Backwoods Plateau Spawn [Fair Weather Flowers]",
     "MapName": "BackwoodsPlateau",
-    "MinimumSpawnsPerDay": 2,
-    "MaximumSpawnsPerDay": 5,
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 3,
     "IncludeTerrainTypes": [
      "Grass"
     ],
@@ -61,7 +61,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 7
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -136,7 +136,7 @@
     "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Crops and Flowers]",
     "MapName": "TheLostValley",
     "MinimumSpawnsPerDay": 2,
-    "MaximumSpawnsPerDay": 5,
+    "MaximumSpawnsPerDay": 3,
     "IncludeTerrainTypes": [
      "Grass"
     ],
@@ -169,7 +169,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 3
+    "DaysUntilSpawnsExpire": 1
    },
    {
     "SpringItemIndex": [
@@ -191,7 +191,7 @@
     "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Cave Mushrooms]",
     "MapName": "TheLostValley",
     "MinimumSpawnsPerDay": 2,
-    "MaximumSpawnsPerDay": 5,
+    "MaximumSpawnsPerDay": 3,
     "IncludeTerrainTypes": [
      "Stone"
     ],
@@ -224,7 +224,112 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 3
+    "DaysUntilSpawnsExpire": 1
+   },
+   {
+    "SpringItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "SummerItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "FallItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "WinterItemIndex": [
+     "Cherry",
+     "Apricot",
+     "Salmonberry",
+     "Ridge Cherry",
+     "Peach",
+     "Orange",
+     "Spice Berry",
+     "Ridge Wild Apple",
+     "Pomegranate",
+     "Apple",
+     "Wild Plum",
+     "Blackberry",
+     "Autumn Drop Berry",
+     "Crystal Fruit",
+     "Frost Clump Berry"
+    ],
+    "UniqueAreaID": "Yagisan - Mine Entrance Spawn [Fruit Bats]",
+    "MapName": "MineEntrance",
+    "MinimumSpawnsPerDay": 0,
+    "MaximumSpawnsPerDay": 3,
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [],
+    "IncludeCoordinates": [
+     "4,5/12,11",
+     "12,4/16,6",
+     "14,7/16,10"
+    ],
+    "ExcludeCoordinates": [],
+    "StrictTileChecking": "Maximum",
+    "SpawnTiming": {
+     "StartTime": 600,
+     "EndTime": 600,
+     "MinimumTimeBetweenSpawns": 10,
+     "MaximumSimultaneousSpawns": null,
+     "OnlySpawnIfAPlayerIsPresent": false,
+     "SpawnSound": ""
+    },
+    "ExtraConditions": {
+     "Years": [],
+     "Seasons": [],
+     "Days": [],
+     "WeatherYesterday": [],
+     "WeatherToday": [
+      "Sun",
+      "Wind"
+     ],
+     "WeatherTomorrow": [],
+     "EPUPreconditions": [],
+     "LimitedNumberOfSpawns": null
+    },
+    "DaysUntilSpawnsExpire": 1
    }
   ],
   "PercentExtraSpawnsPerForagingLevel": 0,
