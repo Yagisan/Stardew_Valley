@@ -63,7 +63,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 7
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -136,7 +136,7 @@
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Ridgeside RSVCliff Spawn [Fair Weather Flowers]",
     "MapName": "Custom_Ridgeside_RSVCliff",
-    "MinimumSpawnsPerDay": 0,
+    "MinimumSpawnsPerDay": 1,
     "MaximumSpawnsPerDay": 5,
     "IncludeTerrainTypes": [
      "Grass"
@@ -179,7 +179,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 7
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -254,7 +254,7 @@
     "UniqueAreaID": "Yagisan - Ridgeside RSVTheHike Spawn [Fair Weather Flowers]",
     "MapName": "Custom_Ridgeside_RSVTheHike",
     "MinimumSpawnsPerDay": 2,
-    "MaximumSpawnsPerDay": 7,
+    "MaximumSpawnsPerDay": 5,
     "IncludeTerrainTypes": [
      "Grass"
     ],
@@ -294,7 +294,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 7
+    "DaysUntilSpawnsExpire": 5
    },
    {
     "SpringItemIndex": [
@@ -434,7 +434,7 @@
     "UniqueAreaID": "Yagisan - Ridgeside Ridge Spawn [Fair Weather Flowers]",
     "MapName": "Custom_Ridgeside_Ridge",
     "MinimumSpawnsPerDay": 2,
-    "MaximumSpawnsPerDay": 7,
+    "MaximumSpawnsPerDay": 5,
     "IncludeTerrainTypes": [
      "Grass"
     ],
@@ -479,7 +479,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 7
+    "DaysUntilSpawnsExpire": 5
    },
    {
     "SpringItemIndex": [
@@ -495,7 +495,7 @@
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Ridgeside Ridge Spawn [Post Rain Mushrooms]",
     "MapName": "Custom_Ridgeside_Ridge",
-    "MinimumSpawnsPerDay": 5,
+    "MinimumSpawnsPerDay": 3,
     "MaximumSpawnsPerDay": 8,
     "IncludeTerrainTypes": [
      "Grass"
@@ -609,9 +609,9 @@
      "Crystal Fruit",
      "Frost Clump Berry"
     ],
-    "UniqueAreaID": "Yagisan - Ridgeside Minecart [Fruit Bats]",
+    "UniqueAreaID": "Yagisan - Ridgeside Minecart Spawn [Fruit Bats]",
     "MapName": "Custom_Ridgeside_RSVMinecart",
-    "MinimumSpawnsPerDay": -2,
+    "MinimumSpawnsPerDay": 0,
     "MaximumSpawnsPerDay": 3,
     "IncludeTerrainTypes": [],
     "ExcludeTerrainTypes": [],
@@ -641,7 +641,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 3
+    "DaysUntilSpawnsExpire": 1
    },
    {
     "SpringItemIndex": [
