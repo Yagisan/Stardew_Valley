@@ -31,6 +31,7 @@ In both Spring and Fall, the desert briefly comes alive with a short-lived bloom
 The exact forage found will depend on the weather, the location, and the date.
 
 - This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
+- This mod optionally requires [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) for additional functionality.
 - This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
 
 This mod is part of [The Bustling Valley](https://github.com/Yagisan/The-Bustling-Valley) mod list, but will work independently.
@@ -50,6 +51,7 @@ The exact forage found will depend on the weather, the location, and the date.
 - This mod requires [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231) to function.
 - This mod requires [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) to function.
 - This mod requires [Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259) to function.
+- This mod optionally requires [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) for additional functionality.
 - This mod optionally requires [PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028) for additional functionality.
 - This mod optionally requires [PPJA - Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598) for additional functionality.
 
