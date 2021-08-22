@@ -2,7 +2,7 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[FTM] Yagisan - Bountiful Valley",
   "Author": "Yagisan",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Description": "Overhauls Stardew Valley's Forage.",
   "UniqueID": "Yagisan.BountifulValley",
   "MinimumApiVersion": "3.0.0",
@@ -13,8 +13,12 @@
   },
   "Dependencies": [
     {
+      "UniqueID": "Rafseazz.RSVCP",
+      "IsRequired": false
+    },
+    {
       "UniqueID": "mizu.flowers",
       "IsRequired": false
-   }
-   ]
+    }
+  ]
  }
