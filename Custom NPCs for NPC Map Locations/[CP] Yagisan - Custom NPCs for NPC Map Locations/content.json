@@ -1683,43 +1683,131 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
-				"HasMod: |contains=LemurKat.EastScarpe.CP": true
+				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+				"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false
 			},
 			"Entries": {
 				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
-				// NPC Map Locations complains if any maps don't have a location.  Put a fake entry in to hide these for now.
-				"Custom_ESShack": {
+				"Custom_EastScarpe": {
 					"MapVectors": [
 						{
 							"TileX": 0,
 							"TileY": 0,
-							"MapX": 0,
-							"MapY": 0
+							"MapX": 984,
+							"MapY": 235
 						},
 						{
-							"TileX": 0,
-							"TileY": 0,
-							"MapX": 0,
-							"MapY": 0
+							"TileX": 79,
+							"TileY": 136,
+							"MapX": 1124,
+							"MapY": 560
 						}
-					]
+					],
+					"MapTooltip": {
+						"X": 984,
+						"Y": 235,
+						"Width": 95,
+						"Height": 170,
+						"PrimaryText": "East Scarp"
+					}
 				},
-				"Custom_ESOrchardHouse": {
+				"Custom_ESOrchard": {
 					"MapVectors": [
 						{
 							"TileX": 0,
 							"TileY": 0,
-							"MapX": 0,
-							"MapY": 0
+							"MapX": 1124,
+							"MapY": 350
 						},
+						{
+							"TileX": 54,
+							"TileY": 79,
+							"MapX": 1200,
+							"MapY": 420
+						}
+					],
+					"MapTooltip": {
+						"X": 1124,
+						"Y": 310,
+						"Width": 25,
+						"Height": 170,
+						"PrimaryText": "The Orchard"
+					}
+				},
+				"Custom_ESMeadowFarm": {
+					"MapVectors": [
 						{
 							"TileX": 0,
 							"TileY": 0,
-							"MapX": 0,
-							"MapY": 0
+							"MapX": 1124,
+							"MapY": 190
+						},
+						{
+							"TileX": 49,
+							"TileY": 40,
+							"MapX": 1200,
+							"MapY": 255
+						}
+					],
+					"MapTooltip": {
+						"X": 1124,
+						"Y": 190,
+						"Width": 35,
+						"Height": 20,
+						"PrimaryText": "Meadow Farm"
+					}
+				},
+				"Custom_ESDeepMountains": {
+					"MapVectors": [
+						{
+							"TileX": 0,
+							"TileY": 0,
+							"MapX": 1068,
+							"MapY": 124
+						},
+						{
+							"TileX": 121,
+							"TileY": 61,
+							"MapX": 1130,
+							"MapY": 188
+						}
+					],
+					"MapTooltip": {
+						"X": 1068,
+						"Y": 124,
+						"Width": 120,
+						"Height": 90,
+						"PrimaryText": "Deep Mountains"
+					}
+				},
+				"Custom_ESClearingHouse": {
+					"MapVectors": [
+						{
+							"TileX": 0,
+							"TileY": 0,
+							"MapX": 935,
+							"MapY": 366
+						},
+						{
+							"TileX": 59,
+							"TileY": 39,
+							"MapX": 998,
+							"MapY": 433
 						}
 					]
-				},
+				}
+			}
+		},
+		{
+			"LogName": "East Scarp + SVE - Location Support",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
+			"When": {
+				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+				"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
+			},
+			"Entries": {
+				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
 				"Custom_EastScarpe": {
 					"MapVectors": [
 						{
@@ -1763,7 +1851,7 @@ We can't use the fake location trick either, as everyone ends up in the top left
 						"Y": 330,
 						"Width": 25,
 						"Height": 170,
-						"PrimaryText": "The Orchard"
+						"PrimaryText": "Lost Orchard"
 					}
 				},
 				"Custom_ESMeadowFarm": {
@@ -1815,90 +1903,16 @@ We can't use the fake location trick either, as everyone ends up in the top left
 			}
 		},
 		{
-			"LogName": "East Scarp Vineyard - Location Support",
-			"Action": "EditData",
-			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
-			"When": {
-				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
-				"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false,
-				"HasMod: |contains=LemurKat.JulietHouse.NPC": false
-			},
-			"Entries": {
-				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
-				"Custom_ESVineyard": {
-					"MapVectors": [
-						{
-							"TileX": 0,
-							"TileY": 0,
-							"MapX": 1017,
-							"MapY": 388
-						},
-						{
-							"TileX": 59,
-							"TileY": 39,
-							"MapX": 1055,
-							"MapY": 409
-						}
-					]
-				}
-			}
-		},
-		{
-			"LogName": "East Scarp + Juliet and Jessie - Location Support",
-			"Action": "EditData",
-			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
-			"When": {
-				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
-				"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": false,
-				"HasMod: |contains=LemurKat.JulietHouse.NPC": true
-			},
-			"Entries": {
-				// East Scarp - https://www.nexusmods.com/stardewvalley/mods/5787
-				"Custom_ESClearingHouse": {
-					"MapVectors": [
-						{
-							"TileX": 0,
-							"TileY": 0,
-							"MapX": 1017,
-							"MapY": 388
-						},
-						{
-							"TileX": 59,
-							"TileY": 39,
-							"MapX": 1055,
-							"MapY": 409
-						}
-					]
-				}
-			}
-		},
-		{
 			"LogName": "East Scarpe Vineyard + Juliet and Jessie + SVE - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
 				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
-				"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true
+				"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+				"HasMod: |contains=LemurKat.JulietHouse.NPC": true
 			},
 			"Entries": {
 				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
-				// This map does not exist when SVE is installed. Fake an entry so NPC Map Locations doesn't complain.
-				"Custom_ESVineyard": {
-					"MapVectors": [
-						{
-							"TileX": 0,
-							"TileY": 0,
-							"MapX": 0,
-							"MapY": 0
-						},
-						{
-							"TileX": 0,
-							"TileY": 0,
-							"MapX": 0,
-							"MapY": 0
-						}
-					]
-				},
 				// If SVE is installed, this remains in Pelican Town.
 				"Custom_ESClearingHouse": {
 					"MapVectors": [
