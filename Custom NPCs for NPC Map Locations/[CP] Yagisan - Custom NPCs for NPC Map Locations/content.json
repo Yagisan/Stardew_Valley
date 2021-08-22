@@ -1706,8 +1706,8 @@ We can't use the fake location trick either, as everyone ends up in the top left
 					"MapTooltip": {
 						"X": 984,
 						"Y": 235,
-						"Width": 95,
-						"Height": 170,
+						"Width": 140,
+						"Height": 325,
 						"PrimaryText": "East Scarp"
 					}
 				},
@@ -1729,8 +1729,8 @@ We can't use the fake location trick either, as everyone ends up in the top left
 					"MapTooltip": {
 						"X": 1124,
 						"Y": 310,
-						"Width": 25,
-						"Height": 170,
+						"Width": 76,
+						"Height": 70,
 						"PrimaryText": "The Orchard"
 					}
 				},
@@ -1752,8 +1752,8 @@ We can't use the fake location trick either, as everyone ends up in the top left
 					"MapTooltip": {
 						"X": 1124,
 						"Y": 190,
-						"Width": 35,
-						"Height": 20,
+						"Width": 76,
+						"Height": 65,
 						"PrimaryText": "Meadow Farm"
 					}
 				},
@@ -1775,8 +1775,8 @@ We can't use the fake location trick either, as everyone ends up in the top left
 					"MapTooltip": {
 						"X": 1068,
 						"Y": 124,
-						"Width": 120,
-						"Height": 90,
+						"Width": 62,
+						"Height": 64,
 						"PrimaryText": "Deep Mountains"
 					}
 				},
