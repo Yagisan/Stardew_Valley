@@ -24,7 +24,7 @@
             },
             "Entries": {
                 //	Aspen - New Custom Dateable NPC - https://www.nexusmods.com/stardewvalley/mods/6754
-                "AspenFarm": {
+                "Custom_AspenFarm": {
                     "MapVectors": [
                         {
                             "MapX": 470,
