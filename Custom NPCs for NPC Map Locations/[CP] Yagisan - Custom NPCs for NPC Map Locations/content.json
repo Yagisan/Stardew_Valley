@@ -103,6 +103,13 @@
 		},
 		{
 			"Action": "Include",
+			"FromFile": "data/rsv_mobile.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},		
+		{
+			"Action": "Include",
 			"FromFile": "data/wttd.json",
 			"When": {
 				"HasMod": "Bouhm.NPCMapLocations"
