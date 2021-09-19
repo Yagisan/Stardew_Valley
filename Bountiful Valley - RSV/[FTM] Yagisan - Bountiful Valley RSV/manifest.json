@@ -2,11 +2,11 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[FTM] Yagisan - Bountiful Valley - RSV",
   "Author": "Yagisan",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Description": "Overhauls Stardew Valley's Forage. Ridgeside Valley Extension.",
   "UniqueID": "Yagisan.BountifulValley.RSV",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:9272" ],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
     "MinimumVersion": "1.9.0"

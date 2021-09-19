@@ -2,11 +2,11 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[FTM] Yagisan - Bountiful Valley",
   "Author": "Yagisan",
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "Description": "Overhauls Stardew Valley's Forage.",
   "UniqueID": "Yagisan.BountifulValley",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:9259" ],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
     "MinimumVersion": "1.9.0"

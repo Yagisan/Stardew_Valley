@@ -1,11 +1,11 @@
 {
   "Name": "[STF] Yagisan - Krobus Sells Scrolls",
   "Author": "Yagisan",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Allows Krobus to sell dwarf scrolls",
   "UniqueID": "Yagisan.KrobusSellsScrolls",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [],
+  "UpdateKeys": [ "Nexus:9248" ],
   "ContentPackFor": {
     "UniqueID": "Cherry.ShopTileFramework",
   }
