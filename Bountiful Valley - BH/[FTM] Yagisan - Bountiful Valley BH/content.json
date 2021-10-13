@@ -20,7 +20,7 @@
     ],
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Backwoods Plateau Spawn [Fair Weather Flowers]",
-    "MapName": "BackwoodsPlateau",
+    "MapName": "Custom_BoardingHouse_BackwoodsPlateau",
     "MinimumSpawnsPerDay": 0,
     "MaximumSpawnsPerDay": 3,
     "IncludeTerrainTypes": [
@@ -76,7 +76,7 @@
     ],
     "WinterItemIndex": [],
     "UniqueAreaID": "Yagisan - Backwoods Plateau Spawn [Post Rain Mushrooms]",
-    "MapName": "BackwoodsPlateau",
+    "MapName": "Custom_BoardingHouse_BackwoodsPlateau",
     "MinimumSpawnsPerDay": 3,
     "MaximumSpawnsPerDay": 5,
     "IncludeTerrainTypes": [
