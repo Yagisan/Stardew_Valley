@@ -79,7 +79,7 @@
 						}
 					]
 				},
-				"Custom_BoardingHouse_BackwoodsPlateau": {
+				"BackwoodsPlateau": {
 					"MapVectors": [
 						{
 							"TileX": 0,

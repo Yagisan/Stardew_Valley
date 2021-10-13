@@ -16,6 +16,15 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Boarding House 4.0.3 and older
+		{
+			"Action": "Include",
+			"FromFile": "data/bh403.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
+		// Boarding House 4.0.4 and newer
 		{
 			"Action": "Include",
 			"FromFile": "data/bh.json",
@@ -23,13 +32,7 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
-		{
-			"Action": "Include",
-			"FromFile": "data/es.json",
-			"When": {
-				"HasMod": "Bouhm.NPCMapLocations"
-			}
-		},
+		// East Scarp 1.7 and older
 		{
 			"Action": "Include",
 			"FromFile": "data/es17.json",
@@ -37,6 +40,15 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// East Scarp 2.0 and newer
+		{
+			"Action": "Include",
+			"FromFile": "data/es.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
+
 		{
 			"Action": "Include",
 			"FromFile": "data/juliet_jessie.json",
