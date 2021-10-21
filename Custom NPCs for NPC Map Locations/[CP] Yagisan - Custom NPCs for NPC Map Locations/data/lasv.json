@@ -48,63 +48,40 @@
 							"MapY": 380
 						}
 					]
+				},
+				"Custom_LASV_Umuwi": {
+					"Exclude": true
+				},
+				"Custom_LASV_DiannaGreenhouse": {
+					"Exclude": true
+				},
+				"Custom_LASV_BiankaDate": {
+					"Exclude": true
+				},
+				"Custom_LASV_OddiHouse": {
+					"Exclude": true
+				},
+				"Custom_LASV_RaphaelShop": {
+					"Exclude": true
+				},
+				"Custom_LASV_BiankaHouse": {
+					"Exclude": true
+				},
+				"Custom_LASV_LaarniHouse": {
+					"Exclude": true
+				},
+				"Custom_LASV_ReenusHouse": {
+					"Exclude": true
+				},
+				"Custom_LASV_GabbiHouse": {
+					"Exclude": true
+				},
+				"Custom_LASV_DiannaHouse": {
+					"Exclude": true
+				},
+				"Custom_LASV_FallsCave": {
+					"Exclude": true
 				}
-				/* 		This should be enough to disable this map location according to the documenation. Unfortunately it just breaks NPC Map Locations with:
-
-This mod failed in the GameLoop.DayStarted event. Technical details: 
-System.NullReferenceException: Object reference not set to an instance of an object.
-   at NPCMapLocations.ModMain.LocationToMap(String locationName, Int32 tileX, Int32 tileY, Dictionary`2 CustomMapVectors, HashSet`1 LocationExclusions, Boolean isPlayer) in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 1044
-   at NPCMapLocations.ModMain.UpdateNpcs() in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 903
-   at NPCMapLocations.ModMain.UpdateMarkers(Boolean forceUpdate) in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 778
-   at NPCMapLocations.ModMain.GameLoop_DayStarted(Object sender, DayStartedEventArgs e) in C:\Users\bouhm\projects\stardew-valley-mods\NPCMapLocations\ModMain.cs:line 444
-   at StardewModdingAPI.Framework.Events.ManagedEvent`1.Raise(TEventArgs args, Func`2 match) in C:\source\_Stardew\SMAPI\src\SMAPI\Framework\Events\ManagedEvent.cs:line 125
-
-We can't use the fake location trick either, as everyone ends up in the top left corner of the map.
-
-		"Custom_LASV_Umuwi": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_DiannaGreenhouse": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_BiankaDate": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_OddiHouse": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_RaphaelShop": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_BiankaHouse": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_LaarniHouse": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_ReenusHouse": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_GabbiHouse": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_DiannaHouse": {
-			"Exclude": true
-		},
-
-		"Custom_LASV_FallsCave": {
-			"Exclude": true
-		}
-*/
 			}
 		},
 	]
