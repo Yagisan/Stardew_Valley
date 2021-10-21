@@ -16,14 +16,6 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
-		// Boarding House 4.0.3 and older
-		{
-			"Action": "Include",
-			"FromFile": "data/bh403.json",
-			"When": {
-				"HasMod": "Bouhm.NPCMapLocations"
-			}
-		},
 		// Boarding House 4.0.4 and newer
 		{
 			"Action": "Include",
