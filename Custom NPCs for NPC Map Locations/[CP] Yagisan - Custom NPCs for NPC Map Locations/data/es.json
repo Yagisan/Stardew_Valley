@@ -166,9 +166,31 @@
 							"TileY": 39,
 							"MapX": 998,
 							"MapY": 433
-						}
+						},
 					]
-				}
+				},
+				"Custom_HenryWarp": {
+					"Exclude": true
+				},
+				"Custom_ES_TNPCWaitingRoomWarp": {
+					"Exclude": true
+				},
+				"Custom_ESDeepDark": {
+					"MapVectors": [
+						{
+							"MapX": 1060,
+							"MapY": 443
+						}
+					],
+				},
+				"Custom_ESSeaCave": {
+					"MapVectors": [
+						{
+							"MapX": 1120,
+							"MapY": 520
+						}
+					],
+				},
 			}
 		},
 		{
@@ -272,7 +294,13 @@
 						"Height": 90,
 						"PrimaryText": "Deep Mountains"
 					}
-				}
+				},
+				"Custom_HenryWarp": {
+					"Exclude": true
+				},
+				"Custom_ES_TNPCWaitingRoomWarp": {
+					"Exclude": true
+				},
 			}
 		},
 		{
