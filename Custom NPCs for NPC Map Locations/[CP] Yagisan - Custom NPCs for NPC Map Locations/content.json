@@ -126,5 +126,12 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		{
+			"Action": "Include",
+			"FromFile": "data/cotton.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
 	]
 }

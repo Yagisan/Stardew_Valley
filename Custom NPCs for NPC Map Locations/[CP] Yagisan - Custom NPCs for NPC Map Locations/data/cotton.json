@@ -1,0 +1,41 @@
+{
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Changes": [
+        // Cotton the sweetest shopkeeper - https://www.nexusmods.com/stardewvalley/mods/8097
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=CPTreeStump": true
+            },
+            "Entries": {
+                "Cotton": {
+                    "MarkerCropOffset": 3
+                },
+                "Finn": {
+                    "MarkerCropOffset": 0
+                },
+            }
+        },
+        {
+            "LogName": "Cotton the sweetest shopkeeper - Location Support",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/Locations",
+            "When": {
+                "HasMod: |contains=CPTreeStump": true
+            },
+            "Entries": {
+                // Cotton the sweetest shopkeeper - https://www.nexusmods.com/stardewvalley/mods/8097
+                "StreetLeft": {
+                    "MapVectors": [
+                        {
+                            "MapX": 590,
+                            "MapY": 196
+                        }
+                    ]
+                }
+            }
+        },
+    ]
+}
