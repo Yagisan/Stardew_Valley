@@ -2,6 +2,7 @@
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
 	"Format": "1.23.0",
 	"Changes": [
+		// Core Stardew Valley
 		{
 			"Action": "Include",
 			"FromFile": "data/sdv.json",
@@ -9,6 +10,7 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Aspen
 		{
 			"Action": "Include",
 			"FromFile": "data/aspen.json",
@@ -40,7 +42,7 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
-
+		// Juliet and Jessie - the Joja Clerks
 		{
 			"Action": "Include",
 			"FromFile": "data/juliet_jessie.json",
@@ -48,6 +50,7 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Lunna - Astray in Stardew Valley
 		{
 			"Action": "Include",
 			"FromFile": "data/lasv.json",
@@ -55,13 +58,23 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Tier 1 Supported Misc NPCs
 		{
 			"Action": "Include",
-			"FromFile": "data/misc_npcs.json",
+			"FromFile": "data/tier_1_misc_npcs.json",
 			"When": {
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Tier 2 Unsupported Misc NPCs
+		{
+			"Action": "Include",
+			"FromFile": "data/tier_2_misc_npcs.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
+		// Ridgeside Village
 		{
 			"Action": "Include",
 			"FromFile": "data/rsv.json",
@@ -69,6 +82,7 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Stardew Valley Expanded (Unsupported)
 		{
 			"Action": "Include",
 			"FromFile": "data/sve.json",

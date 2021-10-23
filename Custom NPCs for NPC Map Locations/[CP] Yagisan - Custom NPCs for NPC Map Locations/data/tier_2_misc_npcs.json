@@ -1,0 +1,89 @@
+{
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Changes": [
+        // Beatrice NPC - https://www.nexusmods.com/stardewvalley/mods/7042
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=attonbomb.Beatrice": true
+            },
+            "Entries": {
+                "Beatrice": {
+                    "MarkerCropOffset": 4
+                },
+            }
+        },
+        // Custom NPC - Riley - https://www.nexusmods.com/stardewvalley/mods/5811
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=SG.Riley": true
+            },
+            "Entries": {
+                "Riley": {
+                    "MarkerCropOffset": 0
+                },
+            }
+        },
+        // College Boy Mike - Custom NPC - https://www.nexusmods.com/stardewvalley/mods/6288
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=SYS.mike": true
+            },
+            "Entries": {
+                "Mike": {
+                    "MarkerCropOffset": -1
+                },
+            }
+        },
+        // Blanche - The librarian Custom NPC - https://blog.naver.com/blythe0kim/222121642257
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=MIDI.Blanche": true
+            },
+            "Entries": {
+                "Blanche": {
+                    "MarkerCropOffset": 2
+                },
+            }
+        },
+        // Shiko - New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/3732
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=Papaya.ShikoTakahashi": true
+            },
+            "Entries": {
+                "Shiko": {
+                    "MarkerCropOffset": 1
+                },
+            }
+        },
+        // Ayeisha - The Postal Worker (Custom NPC) - https://www.nexusmods.com/stardewvalley/mods/6427
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=TheLimeyDragon.Ayeisha": true
+            },
+            "Entries": {
+                "Ayeisha": {
+                    "MarkerCropOffset": 1
+                },
+            }
+        },
+    ]
+}

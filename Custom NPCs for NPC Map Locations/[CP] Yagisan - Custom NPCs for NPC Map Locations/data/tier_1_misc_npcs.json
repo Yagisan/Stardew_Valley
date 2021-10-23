@@ -29,20 +29,6 @@
                 },
             }
         },
-        // Beatrice NPC - https://www.nexusmods.com/stardewvalley/mods/7042
-        {
-            "LogName": "NPC Sprite Offsets",
-            "Action": "EditData",
-            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-            "When": {
-                "HasMod: |contains=attonbomb.Beatrice": true
-            },
-            "Entries": {
-                "Beatrice": {
-                    "MarkerCropOffset": 4
-                },
-            }
-        },
         // Professor Jasper Thomas - https://www.nexusmods.com/stardewvalley/mods/5599
         {
             "LogName": "NPC Sprite Offsets",
@@ -71,20 +57,6 @@
                 },
             }
         },
-        // Custom NPC - Riley - https://www.nexusmods.com/stardewvalley/mods/5811
-        {
-            "LogName": "NPC Sprite Offsets",
-            "Action": "EditData",
-            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-            "When": {
-                "HasMod: |contains=SG.Riley": true
-            },
-            "Entries": {
-                "Riley": {
-                    "MarkerCropOffset": 0
-                },
-            }
-        },
         // Sorren - Original NPC - https://www.nexusmods.com/stardewvalley/mods/4040
         {
             "LogName": "NPC Sprite Offsets",
@@ -96,20 +68,6 @@
             "Entries": {
                 "Sorren": {
                     "MarkerCropOffset": -3
-                },
-            }
-        },
-        // College Boy Mike - Custom NPC - https://www.nexusmods.com/stardewvalley/mods/6288
-        {
-            "LogName": "NPC Sprite Offsets",
-            "Action": "EditData",
-            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-            "When": {
-                "HasMod: |contains=SYS.mike": true
-            },
-            "Entries": {
-                "Mike": {
-                    "MarkerCropOffset": -1
                 },
             }
         },
@@ -127,34 +85,6 @@
                 },
             }
         },
-        // Blanche - The librarian Custom NPC - https://blog.naver.com/blythe0kim/222121642257
-        {
-            "LogName": "NPC Sprite Offsets",
-            "Action": "EditData",
-            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-            "When": {
-                "HasMod: |contains=MIDI.Blanche": true
-            },
-            "Entries": {
-                "Blanche": {
-                    "MarkerCropOffset": 2
-                },
-            }
-        },
-        // Shiko - New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/3732
-        {
-            "LogName": "NPC Sprite Offsets",
-            "Action": "EditData",
-            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-            "When": {
-                "HasMod: |contains=Papaya.ShikoTakahashi": true
-            },
-            "Entries": {
-                "Shiko": {
-                    "MarkerCropOffset": 1
-                },
-            }
-        },
         // New NPC - Cecilia - https://www.nexusmods.com/stardewvalley/mods/6246
         {
             "LogName": "NPC Sprite Offsets",
@@ -169,17 +99,17 @@
                 },
             }
         },
-        // Ayeisha - The Postal Worker (Custom NPC) - https://www.nexusmods.com/stardewvalley/mods/6427
+        // Leilani (NPC for Ridgeside Village) - https://www.nexusmods.com/stardewvalley/mods/9375
         {
             "LogName": "NPC Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
-                "HasMod: |contains=TheLimeyDragon.Ayeisha": true
+                "HasMod: |contains=ZoeDoll.NPCLeilani": true
             },
             "Entries": {
-                "Ayeisha": {
-                    "MarkerCropOffset": 1
+                "Leilani": {
+                    "MarkerCropOffset": 4
                 },
             }
         },

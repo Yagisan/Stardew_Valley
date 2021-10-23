@@ -137,5 +137,9 @@
       "UniqueID": "CPTreeStump",
       "IsRequired": false
     },
+    {
+      "UniqueID": "ZoeDoll.NPCLeilani",
+      "IsRequired": false
+    }
   ]
 }
