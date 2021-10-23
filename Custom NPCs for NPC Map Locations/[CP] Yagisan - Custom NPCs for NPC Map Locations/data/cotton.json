@@ -34,7 +34,16 @@
                             "MapY": 196
                         }
                     ]
-                }
+                },
+                "GrandHouseOutside": {
+					"Exclude": true
+				},
+                "Finn_WarpRoom": {
+					"Exclude": true
+				},
+                "RailroadEvent": {
+					"Exclude": true
+				}
             }
         },
     ]
