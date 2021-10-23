@@ -133,5 +133,12 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		{
+			"Action": "Include",
+			"FromFile": "data/dsv.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
 	]
 }
