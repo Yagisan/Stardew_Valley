@@ -144,6 +144,10 @@
     {
       "UniqueID": "Arknir.Lucikiel",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "name.modname",
+      "IsRequired": false
     }
   ]
 }

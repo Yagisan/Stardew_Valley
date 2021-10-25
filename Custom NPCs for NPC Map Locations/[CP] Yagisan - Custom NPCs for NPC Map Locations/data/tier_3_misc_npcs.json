@@ -14,6 +14,35 @@
                     "MarkerCropOffset": 4
                 },
             }
-        }
+        },
+        // Soli - New Skeleton NPC - https://www.nexusmods.com/stardewvalley/mods/8254
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=name.modname": true,
+                "HasFlag |contains=willyBoatFixed": false
+            },
+            "Entries": {
+                "Soli": {
+                    "Exclude": true
+                },
+            }
+        },
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=name.modname": true,
+                "HasFlag |contains=willyBoatFixed": true
+            },
+            "Entries": {
+                "Soli": {
+                    "MarkerCropOffset": 0
+                },
+            }
+        },
     ]
 }
