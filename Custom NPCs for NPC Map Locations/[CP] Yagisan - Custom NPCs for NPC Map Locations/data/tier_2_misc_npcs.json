@@ -85,5 +85,19 @@
                 },
             }
         },
+        // Lucikiel - New Custom NPC (King's Raid) - https://www.nexusmods.com/stardewvalley/mods/6307
+        {
+            "LogName": "NPC Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=Arknir.Lucikiel": true
+            },
+            "Entries": {
+                "Lucikiel": {
+                    "MarkerCropOffset": 1
+                },
+            }
+        },
     ]
 }
