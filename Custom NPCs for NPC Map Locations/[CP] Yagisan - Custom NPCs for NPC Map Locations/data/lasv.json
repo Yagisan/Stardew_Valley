@@ -10,8 +10,23 @@
 				"HasMod: |contains=Rafseazz.LunnaCP": true
 			},
 			"Entries": {
+				"Antiunn": {
+					"MarkerCropOffset": 10
+				},
+				"Bellia": {
+					"MarkerCropOffset": 13
+				},
 				"Bianka": {
 					"MarkerCropOffset": 5
+				},
+				"Esmeralda": {
+					"MarkerCropOffset": 5
+				},
+				"Gabbi": {
+					"MarkerCropOffset": 3
+				},
+				"Gellos": {
+					"MarkerCropOffset": 14
 				},
 				"Dianna": {
 					"MarkerCropOffset": 14
@@ -19,8 +34,26 @@
 				"Lunna": {
 					"MarkerCropOffset": 3
 				},
+				"Laarni": {
+					"MarkerCropOffset": 6
+				},
+				"Micco": {
+					"MarkerCropOffset": 8
+				},
+				"Oddi": {
+					"MarkerCropOffset": 8
+				},
 				"Raphael": {
 					"MarkerCropOffset": -1
+				},
+				"Reenus": {
+					"MarkerCropOffset": 4
+				},
+				"Salvador": {
+					"MarkerCropOffset": 0
+				},
+				"Yvenn": {
+					"MarkerCropOffset": 10
 				},
 			}
 		},
