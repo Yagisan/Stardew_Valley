@@ -129,6 +129,13 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		{
+			"Action": "Include",
+			"FromFile": "data/wilford.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
 		// Tier 3 Community Supported.
 		////////////////////////////////////////////////////////////////////////////////
 		// Unsupported. I don't use these mods and rely on community patches for timely updates.

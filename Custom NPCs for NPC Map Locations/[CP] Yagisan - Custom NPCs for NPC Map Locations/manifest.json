@@ -148,6 +148,10 @@
     {
       "UniqueID": "name.modname",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "Fernandtea.NewNPCWilford",
+      "IsRequired": false
     }
   ]
 }
