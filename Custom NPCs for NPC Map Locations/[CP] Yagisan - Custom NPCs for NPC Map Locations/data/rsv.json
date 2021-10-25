@@ -11,10 +11,10 @@
 			},
 			"Entries": {
 				"Aguar": {
-					"MarkerCropOffset": 1
+					"MarkerCropOffset": 2
 				},
 				"Alissa": {
-					"MarkerCropOffset": 6
+					"MarkerCropOffset": 4
 				},
 				"Bert": {
 					"MarkerCropOffset": -1
@@ -29,13 +29,13 @@
 					"MarkerCropOffset": 3
 				},
 				"Freddie": {
-					"MarkerCropOffset": 2
+					"MarkerCropOffset": 4
 				},
 				"Ian": {
-					"MarkerCropOffset": -1
+					"MarkerCropOffset": 0
 				},
 				"Jeric": {
-					"MarkerCropOffset": -1
+					"MarkerCropOffset": 0
 				},
 				"Jio": {
 					"MarkerCropOffset": 0
@@ -44,7 +44,7 @@
 					"MarkerCropOffset": 7
 				},
 				"Kenneth": {
-					"MarkerCropOffset": -1
+					"MarkerCropOffset": 0
 				},
 				"Kiwi": {
 					"MarkerCropOffset": 16
@@ -80,7 +80,7 @@
 					"MarkerCropOffset": 3
 				},
 				"Yuuma": {
-					"MarkerCropOffset": 6
+					"MarkerCropOffset": 7
 				},
 				"Helen": {
 					"Exclude": true
@@ -254,13 +254,9 @@
 				},
 				// FIXME. This map name is correct - but the NPCs do not show up here.  They appear in the top left area of Custom_Ridgeside_RidgesideVillage.
 				// NPCs in Custom_Ridgeside_LogCabinHotelLobby and Custom_Ridgeside_LogCabinHotel2ndFloor appear correctly.
+				// I'm going to disable this location, as that is less unexpected that then strange location for users.
 				"Custom_Ridgeside_LogCabinHotel3rdFloor": {
-					"MapVectors": [
-						{
-							"MapX": 150,
-							"MapY": 250
-						}
-					]
+					"Exclude": true
 				},
 				"Custom_Ridgeside_RSVHiddenWarp": {
 					"Exclude": true
