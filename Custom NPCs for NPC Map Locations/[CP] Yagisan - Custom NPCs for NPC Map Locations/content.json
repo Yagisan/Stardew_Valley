@@ -2,6 +2,8 @@
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
 	"Format": "1.23.0",
 	"Changes": [
+		// Tier 1 Supported.
+		////////////////////////////////////////////////////////////////////////////////
 		// Core Stardew Valley
 		{
 			"Action": "Include",
@@ -66,14 +68,6 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
-		// Tier 2 Unsupported Misc NPCs
-		{
-			"Action": "Include",
-			"FromFile": "data/tier_2_misc_npcs.json",
-			"When": {
-				"HasMod": "Bouhm.NPCMapLocations"
-			}
-		},
 		// Ridgeside Village
 		{
 			"Action": "Include",
@@ -82,6 +76,8 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Tier 2 Community Supported.
+		////////////////////////////////////////////////////////////////////////////////
 		// Stardew Valley Expanded (Unsupported)
 		{
 			"Action": "Include",
@@ -90,17 +86,10 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
-		// Unsupported. I don't use these mods and rely on community patches for timely updates.
+		// Tier 2 Unsupported Misc NPCs
 		{
 			"Action": "Include",
-			"FromFile": "data/athanaeri.json",
-			"When": {
-				"HasMod": "Bouhm.NPCMapLocations"
-			}
-		},
-		{
-			"Action": "Include",
-			"FromFile": "data/garden_village.json",
+			"FromFile": "data/tier_2_misc_npcs.json",
 			"When": {
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
@@ -121,6 +110,45 @@
 		},
 		{
 			"Action": "Include",
+			"FromFile": "data/zoro.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "data/dsv.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
+		{
+			"Action": "Include",
+			"FromFile": "data/athanaeri.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
+		// Tier 3 Community Supported.
+		////////////////////////////////////////////////////////////////////////////////
+		// Unsupported. I don't use these mods and rely on community patches for timely updates.
+		// Tier 3 Unsupported Misc NPCs
+		{
+			"Action": "Include",
+			"FromFile": "data/tier_3_misc_npcs.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},		
+		{
+			"Action": "Include",
+			"FromFile": "data/garden_village.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
+		{
+			"Action": "Include",
 			"FromFile": "data/rsv_mobile.json",
 			"When": {
 				"HasMod": "Bouhm.NPCMapLocations"
@@ -135,21 +163,7 @@
 		},
 		{
 			"Action": "Include",
-			"FromFile": "data/zoro.json",
-			"When": {
-				"HasMod": "Bouhm.NPCMapLocations"
-			}
-		},
-		{
-			"Action": "Include",
 			"FromFile": "data/cotton.json",
-			"When": {
-				"HasMod": "Bouhm.NPCMapLocations"
-			}
-		},
-		{
-			"Action": "Include",
-			"FromFile": "data/dsv.json",
 			"When": {
 				"HasMod": "Bouhm.NPCMapLocations"
 			}

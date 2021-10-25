@@ -1,20 +1,6 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
     "Changes": [
-        // Beatrice NPC - https://www.nexusmods.com/stardewvalley/mods/7042
-        {
-            "LogName": "NPC Sprite Offsets",
-            "Action": "EditData",
-            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-            "When": {
-                "HasMod: |contains=attonbomb.Beatrice": true
-            },
-            "Entries": {
-                "Beatrice": {
-                    "MarkerCropOffset": 4
-                },
-            }
-        },
         // Custom NPC - Riley - https://www.nexusmods.com/stardewvalley/mods/5811
         {
             "LogName": "NPC Sprite Offsets",
