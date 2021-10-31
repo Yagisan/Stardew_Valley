@@ -3,7 +3,7 @@
 	"Changes": [
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 		{
-			"LogName": "LASV NPC Sprite Offsets",
+			"LogName": "[Yagi] Lunna Astray in Stardew Valley - Sprite Offsets",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 			"When": {
@@ -58,7 +58,7 @@
 			}
 		},
 		{
-			"LogName": "Lunna - Astray in Stardew Valley - Location Support",
+			"LogName": "[Yagi] Lunna Astray in Stardew Valley - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {

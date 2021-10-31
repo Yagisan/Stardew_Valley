@@ -3,7 +3,7 @@
     "Changes": [
         // Cotton the sweetest shopkeeper - https://www.nexusmods.com/stardewvalley/mods/8097
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Cotton - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -19,7 +19,7 @@
             }
         },
         {
-            "LogName": "Cotton the sweetest shopkeeper - Location Support",
+            "LogName": "[Yagi] Cotton - Location Support",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/Locations",
             "When": {

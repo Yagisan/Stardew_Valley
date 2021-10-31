@@ -3,7 +3,7 @@
 	"Changes": [
 		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
 		{
-			"LogName": "RSV NPC Sprite Offsets",
+			"LogName": "[Yagi] Ridgeside Village - Sprite Offsets",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 			"When": {
@@ -91,7 +91,7 @@
 			}
 		},
 		{
-			"LogName": "Ridgeside Village - Location Support",
+			"LogName": "[Yagi] Ridgeside Village - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {

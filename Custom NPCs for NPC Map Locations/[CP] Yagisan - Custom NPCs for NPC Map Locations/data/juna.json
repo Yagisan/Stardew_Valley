@@ -4,7 +4,7 @@
         // NPC Juna - https://www.nexusmods.com/stardewvalley/mods/8606
         // Juna should not be visible before her into event 86060001 and the flag PlayerChoseParents has not been set
         {
-            "LogName": "Juna - Before event 86060001",
+            "LogName": "[Yagi] Juna - Sprite Offsets - Before event 86060001",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -22,7 +22,7 @@
         },
         // Juna should be visible after her into event 86060001 and the flag PlayerChoseParents has not been set
         {
-            "LogName": "Juna - After event 86060001",
+            "LogName": "[Yagi] Juna - Sprite Offsets - After event 86060001",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -40,7 +40,7 @@
         },
         // Juna should not be visible after the flag PlayerChoseParents has been set, and before event 86060043
         {
-            "LogName": "Juna - Before event 86060043",
+            "LogName": "[Yagi] Juna - Sprite Offsets - Before event 86060043",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -58,7 +58,7 @@
         },
         // Juna should now be visible after the flag PlayerChoseParents has been set, and after event 86060043
         {
-            "LogName": "Juna - After event 86060043",
+            "LogName": "[Yagi] Juna - Sprite Offsets - After event 86060043",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -75,7 +75,7 @@
             }
         },
         {
-            "LogName": "Custom NPC - NPC Juna - Location Support",
+            "LogName": "[Yagi] Juna - Location Support",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/Locations",
             "When": {

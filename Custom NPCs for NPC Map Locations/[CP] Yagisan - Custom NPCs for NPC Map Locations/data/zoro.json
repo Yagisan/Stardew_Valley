@@ -3,7 +3,7 @@
     "Changes": [
         // Custom NPC - Roronoa Zoro - https://www.nexusmods.com/stardewvalley/mods/6316
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Roronoa Zoro - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -16,7 +16,7 @@
             }
         },
         {
-            "LogName": "Custom NPC - Roronoa Zoro - Location Support",
+            "LogName": "[Yagi] Roronoa Zoro - Location Support",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/Locations",
             "When": {

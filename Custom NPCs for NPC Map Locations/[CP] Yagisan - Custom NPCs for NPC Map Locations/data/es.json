@@ -3,7 +3,7 @@
 	"Changes": [
 		// East Scarp - https://www.nexusmods.com/stardewvalley/mods/5787
 		{
-			"LogName": "ES NPC Sprite Offsets",
+			"LogName": "[Yagi] East Scarp - Sprite Offsets",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 			"When": {
@@ -52,7 +52,7 @@
 			}
 		},
 		{
-			"LogName": "East Scarp - Location Support",
+			"LogName": "[Yagi] East Scarp - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
@@ -194,7 +194,7 @@
 			}
 		},
 		{
-			"LogName": "East Scarp + SVE - Location Support",
+			"LogName": "[Yagi] East Scarp + Stardew Valley Expanded - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {
@@ -304,7 +304,7 @@
 			}
 		},
 		{
-			"LogName": "East Scarpe Vineyard + Juliet and Jessie + SVE - Location Support",
+			"LogName": "[Yagi] East Scarp Vineyard + Juliet and Jessie + Stardew Valley Expanded - Location Support",
 			"Action": "EditData",
 			"Target": "Mods/Bouhm.NPCMapLocations/Locations",
 			"When": {

@@ -3,7 +3,7 @@
     "Changes": [
         // Custom NPC - Riley - https://www.nexusmods.com/stardewvalley/mods/5811
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Riley - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -17,7 +17,7 @@
         },
         // College Boy Mike - Custom NPC - https://www.nexusmods.com/stardewvalley/mods/6288
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Mike - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -31,7 +31,7 @@
         },
         // Blanche - The librarian Custom NPC - https://blog.naver.com/blythe0kim/222121642257
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Blanche - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -45,7 +45,7 @@
         },
         // Shiko - New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/3732
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Shiko - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -59,7 +59,7 @@
         },
         // Ayeisha - The Postal Worker (Custom NPC) - https://www.nexusmods.com/stardewvalley/mods/6427
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Ayeisha - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -73,7 +73,7 @@
         },
         // Lucikiel - New Custom NPC (King's Raid) - https://www.nexusmods.com/stardewvalley/mods/6307
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Lucikiel - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {

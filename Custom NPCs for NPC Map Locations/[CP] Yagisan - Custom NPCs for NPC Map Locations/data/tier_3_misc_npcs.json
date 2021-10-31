@@ -3,7 +3,7 @@
     "Changes": [
         // Beatrice NPC - https://www.nexusmods.com/stardewvalley/mods/7042
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Beatrice - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -17,7 +17,7 @@
         },
         // Soli - New Skeleton NPC - https://www.nexusmods.com/stardewvalley/mods/8254
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Soli - Sprite Offsets - Before flag willyBoatFixed",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -31,7 +31,7 @@
             }
         },
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Soli - Sprite Offsets - After flag willyBoatFixed",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {

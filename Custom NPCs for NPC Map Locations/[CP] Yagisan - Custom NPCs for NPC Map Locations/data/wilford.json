@@ -3,7 +3,7 @@
     "Changes": [
         // Wilford - New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/7313
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Wilford - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
@@ -16,7 +16,7 @@
             }
         },
         {
-            "LogName": "Wilford - New Custom NPC - Location Support",
+            "LogName": "[Yagi] Wilford - Location Support",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/Locations",
             "When": {

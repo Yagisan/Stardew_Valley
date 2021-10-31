@@ -3,7 +3,7 @@
     "Changes": [
         // Diverse Stardew Valley - https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal
         {
-            "LogName": "NPC Sprite Offsets",
+            "LogName": "[Yagi] Diverse Stardew Valley - Sprite Offsets",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
             "When": {
