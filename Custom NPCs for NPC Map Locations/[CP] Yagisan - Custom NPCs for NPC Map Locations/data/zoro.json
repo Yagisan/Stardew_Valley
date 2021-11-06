@@ -27,10 +27,17 @@
                 "ZoroDock": {
                     "MapVectors": [
                         {
-                            "MapX": 715,
-                            "MapY": 650
+                            "MapX": 735,
+                            "MapY": 600
                         }
-                    ]
+                    ],
+                    "MapTooltip": {
+                        "X": 716,
+                        "Y": 596,
+                        "Width": 36,
+                        "Height": 24,
+                        "PrimaryText": "Zoro's BoatHouse"
+                    }
                 }
             }
         },
