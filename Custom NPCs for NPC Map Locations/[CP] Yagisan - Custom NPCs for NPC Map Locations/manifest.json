@@ -37,7 +37,8 @@
     },
     {
       "UniqueID": "Rafseazz.RSVCP",
-      "IsRequired": false
+      "IsRequired": false,
+      "MinimumVersion": "2.0"
     },
     {
       "UniqueID": "Rafseazz.RidgesideMobileCP",

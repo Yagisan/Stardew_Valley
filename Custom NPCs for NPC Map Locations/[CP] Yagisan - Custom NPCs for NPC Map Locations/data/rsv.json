@@ -226,27 +226,7 @@
 					"Exclude": true
 				},
 				"Custom_Ridgeside_RidgesideVillage": {
-					"MapVectors": [
-						{
-							"TileX": 0,
-							"TileY": 0,
-							"MapX": 1,
-							"MapY": 221
-						},
-						{
-							"TileX": 149,
-							"TileY": 129,
-							"MapX": 200,
-							"MapY": 480
-						}
-					],
-					"MapTooltip": {
-						"X": 1,
-						"Y": 221,
-						"Width": 148,
-						"Height": 259,
-						"PrimaryText": "Ridgeside Village"
-					}
+					"Exclude": true
 				},
 				"Custom_Ridgeside_RSVCableCar": {
 					"MapVectors": [
@@ -268,74 +248,24 @@
 						"Y": 184,
 						"Width": 20,
 						"Height": 20,
-						"PrimaryText": "Cable Car - Pelican Town"
+						"PrimaryText": "Ridgeside Village Cable Car"
 					}
 				},
 				"Custom_Ridgeside_RSVCliff": {
-					"MapVectors": [
-						{
-							"TileX": 0,
-							"TileY": 0,
-							"MapX": 230,
-							"MapY": 270
-						},
-						{
-							"TileX": 34,
-							"TileY": 29,
-							"MapX": 250,
-							"MapY": 290
-						}
-					],
-					"MapTooltip": {
-						"X": 230,
-						"Y": 270,
-						"Width": 20,
-						"Height": 20,
-						"PrimaryText": "Cable Car - Ridgeside"
-					}
+					"Exclude": true
 				},
 				"Custom_Ridgeside_RSVTheHike": {
-					"MapVectors": [
-						{
-							"MapX": 230,
-							"MapY": 320
-						}
-					],
-					"MapTooltip": {
-						"X": 230,
-						"Y": 320,
-						"Width": 20,
-						"Height": 20,
-						"PrimaryText": "The Hike"
-					}
+					"Exclude": true
 				},
 				"Custom_Ridgeside_Ridge": {
-					"MapVectors": [
-						{
-							"MapX": 121,
-							"MapY": 220
-						}
-					]
+					"Exclude": true
 				},
 				"Custom_Ridgeside_LogCabinHotelLobby": {
-					"MapVectors": [
-						{
-							"MapX": 150,
-							"MapY": 250
-						}
-					]
+					"Exclude": true
 				},
 				"Custom_Ridgeside_LogCabinHotel2ndFloor": {
-					"MapVectors": [
-						{
-							"MapX": 150,
-							"MapY": 250
-						}
-					]
+					"Exclude": true
 				},
-				// FIXME. This map name is correct - but the NPCs do not show up here.  They appear in the top left area of Custom_Ridgeside_RidgesideVillage.
-				// NPCs in Custom_Ridgeside_LogCabinHotelLobby and Custom_Ridgeside_LogCabinHotel2ndFloor appear correctly.
-				// I'm going to disable this location, as that is less unexpected that then strange location for users.
 				"Custom_Ridgeside_LogCabinHotel3rdFloor": {
 					"Exclude": true
 				},
@@ -345,24 +275,6 @@
 				"Custom_Ridgeside_RSVHiddenWarp2": {
 					"Exclude": true
 				},
-				"BloomingHillsFarm": {
-					"MapTooltip": {
-						"X": 0,
-						"Y": 229,
-						"Width": 68,
-						"Height": 152,
-						"PrimaryText": "Blooming Hill Farm"
-					}
-				},
-				"NightingaleOrchard": {
-					"MapTooltip": {
-						"X": 0,
-						"Y": 381,
-						"Width": 124,
-						"Height": 98,
-						"PrimaryText": "Nightingale Orchard"
-					}
-				}
 			}
 		},
 	]
