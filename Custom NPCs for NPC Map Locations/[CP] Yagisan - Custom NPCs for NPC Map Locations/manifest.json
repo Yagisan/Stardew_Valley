@@ -154,6 +154,10 @@
     {
       "UniqueID": "Fernandtea.NewNPCWilford",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "Himetarts.ARV.CP",
+      "IsRequired": false
     }
   ]
 }

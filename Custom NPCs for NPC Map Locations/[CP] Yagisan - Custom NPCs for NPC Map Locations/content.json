@@ -76,6 +76,15 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+
+		// Always Raining in the Valley
+		{
+			"Action": "Include",
+			"FromFile": "data/arv.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
 		// Tier 2 Community Supported.
 		////////////////////////////////////////////////////////////////////////////////
 		// Stardew Valley Expanded (Unsupported)
