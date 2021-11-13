@@ -113,5 +113,34 @@
                 },
             }
         },
+        // Ginger Island NPC Overhaul - https://www.nexusmods.com/stardewvalley/mods/9242
+        {
+            "LogName": "[Yagi] Ginger Island NPC Overhaul - Sprite Offsets - Before flag willyBoatFixed",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=ZoeDoll.GingerIslandNPCTweaks": true,
+                "HasFlag |contains=willyBoatFixed": false
+            },
+            "Entries": {
+                "ProfSnail": {
+                    "Exclude": true
+                },
+            }
+        },
+        {
+            "LogName": "[Yagi] Ginger Island NPC Overhaul - Sprite Offsets - After flag willyBoatFixed",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=ZoeDoll.GingerIslandNPCTweaks": true,
+                "HasFlag |contains=willyBoatFixed": true
+            },
+            "Entries": {
+                "ProfSnail": {
+                    "MarkerCropOffset": 6
+                },
+            }
+        },
     ]
 }

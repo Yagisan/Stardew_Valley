@@ -159,6 +159,10 @@
     {
       "UniqueID": "Himetarts.ARV.CP",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "ZoeDoll.GingerIslandNPCTweaks",
+      "IsRequired": false
     }
   ]
 }
