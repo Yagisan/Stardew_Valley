@@ -428,6 +428,7 @@
      "Common Mushroom",
      "Red Mushroom"
     ],
+    "WinterItemIndex": null,
     "UniqueAreaID": "Yagisan - BusStop Spawn [Post Rain Musrooms]",
     "MapName": "BusStop",
     "MinimumSpawnsPerDay": 2,
@@ -465,8 +466,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 3,
-    "WinterItemIndex": null
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -535,6 +535,7 @@
      "Common Mushroom",
      "Red Mushroom"
     ],
+    "WinterItemIndex": null,
     "UniqueAreaID": "Yagisan - Railroad Spawn [Post Rain Musrooms]",
     "MapName": "Railroad",
     "MinimumSpawnsPerDay": 2,
@@ -572,8 +573,7 @@
      "EPUPreconditions": [],
      "LimitedNumberOfSpawns": null
     },
-    "DaysUntilSpawnsExpire": 3,
-    "WinterItemIndex": null
+    "DaysUntilSpawnsExpire": 3
    },
    {
     "SpringItemIndex": [
@@ -1434,12 +1434,25 @@
     "MapName": "Mountain",
     "MinimumSpawnsPerDay": 10,
     "MaximumSpawnsPerDay": 25,
-    "IncludeTerrainTypes": [
-     "Quarry"
+    "IncludeTerrainTypes": [],
+    "ExcludeTerrainTypes": [
+     "Grass"
     ],
-    "ExcludeTerrainTypes": [],
-    "IncludeCoordinates": [],
-    "ExcludeCoordinates": [],
+    "IncludeCoordinates": [
+     "109,11/128,35",
+     "106,20/110,37"
+    ],
+    "ExcludeCoordinates": [
+     "124,12/124,18",
+     "121,18/124,18",
+     "121,18/121,20",
+     "119,20/121,20",
+     "119,20/119,26",
+     "106,26/119,26",
+     "89,26/106,27",
+     "123,10/130,12",
+     "130,34/130,34"
+    ],
     "StrictTileChecking": "Maximum",
     "SpawnTiming": {
      "StartTime": 600,
