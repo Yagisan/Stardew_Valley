@@ -1,0 +1,12 @@
+{
+  "Name": "[STF] Yagisan - Sprinklers for Sale",
+  "Author": "Yagisan",
+  "Version": "1.0.0",
+  "Description": "Enables purchasing of sprinklers",
+  "UniqueID": "Yagisan.SprinklersForSale",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:XXXX" ],
+  "ContentPackFor": {
+    "UniqueID": "Cherry.ShopTileFramework",
+  }
+}

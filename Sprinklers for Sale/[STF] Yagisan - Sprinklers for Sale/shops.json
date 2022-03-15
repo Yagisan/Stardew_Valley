@@ -1,0 +1,28 @@
+{
+	"VanillaShops": [
+		{
+			"ShopName": "ClintShop",
+			"ItemStocks": [
+				{
+					"ItemType": "Object",
+					"StockPrice": "4000",
+					"ItemNames": [
+						"Quality Sprinkler"
+					],
+					"Stock": 1,
+					"When": [
+						"f Clint 500" // Need 2 hearts with Clint before he starts selling them.
+					]
+				},
+				{
+					"ItemType": "Object",
+					"StockPrice": "1500",
+					"ItemNames": [
+						"Sprinkler"
+					],
+					"Stock": 2,
+				},
+			],
+		},
+	],
+}
