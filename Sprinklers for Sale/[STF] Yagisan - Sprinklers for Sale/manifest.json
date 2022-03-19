@@ -5,7 +5,7 @@
   "Description": "Enables purchasing of sprinklers",
   "UniqueID": "Yagisan.SprinklersForSale",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:XXXX" ],
+  "UpdateKeys": [ "Nexus:11362" ],
   "ContentPackFor": {
     "UniqueID": "Cherry.ShopTileFramework",
   }
