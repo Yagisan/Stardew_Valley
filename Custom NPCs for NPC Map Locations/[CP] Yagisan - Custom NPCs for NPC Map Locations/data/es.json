@@ -315,7 +315,7 @@
 			"Entries": {
 				// East Scarpe - https://www.nexusmods.com/stardewvalley/mods/5787
 				// If SVE is installed, this remains in Pelican Town.
-				"Custom_ESClearingHouse": {
+				"Custom_LK_ClearingHouse": {
 					"MapVectors": [
 						{
 							"TileX": 0,
