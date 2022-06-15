@@ -34,12 +34,6 @@
 				"Duck2NPC": {
 					"Exclude": true
 				},
-				"OliverK": {
-					"Exclude": true
-				},
-				"JosephineK": {
-					"Exclude": true
-				},
 				"Kataryna": {
 					"Exclude": true
 				},
@@ -49,6 +43,40 @@
 				"LadySheba": {
 					"Exclude": true
 				},
+			}
+		},
+		{
+			"LogName": "[Yagi] East Scarp - Sprite Offsets [JosephineK, OliverK] - Before Intro Event",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"When": {
+				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+				"HasSeenEvent |contains=57873001": false
+			},
+			"Entries": {
+				"OliverK": {
+					"Exclude": true
+				},
+				"JosephineK": {
+					"Exclude": true
+				}
+			}
+		},
+		{
+			"LogName": "[Yagi] East Scarp - Sprite Offsets [JosephineK, OliverK] - After Intro Event",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"When": {
+				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+				"HasSeenEvent": "57873001"
+			},
+			"Entries": {
+				"OliverK": {
+					"MarkerCropOffset": 3
+				},
+				"JosephineK": {
+					"MarkerCropOffset": 5
+				}
 			}
 		},
 		{
