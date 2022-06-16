@@ -51,7 +51,8 @@
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 			"When": {
 				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
-				"HasSeenEvent |contains=57873001": false
+				"HasSeenEvent |contains=57873001": false,
+				"HasSeenEvent |contains=57873005": false
 			},
 			"Entries": {
 				"OliverK": {
@@ -68,7 +69,8 @@
 			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
 			"When": {
 				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
-				"HasSeenEvent": "57873001"
+				"HasSeenEvent": "57873001",
+				"HasSeenEvent |contains=57873005": false
 			},
 			"Entries": {
 				"OliverK": {
@@ -76,6 +78,24 @@
 				},
 				"JosephineK": {
 					"MarkerCropOffset": 5
+				}
+			}
+		},
+		{
+			"LogName": "[Yagi] East Scarp - Sprite Offsets [JosephineK, OliverK] - After Leaving Event",
+			"Action": "EditData",
+			"Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+			"When": {
+				"HasMod: |contains=LemurKat.EastScarpe.CP": true,
+				"HasSeenEvent": "57873001",
+				"HasSeenEvent": "57873005"
+			},
+			"Entries": {
+				"OliverK": {
+					"MarkerCropOffset": 3
+				},
+				"JosephineK": {
+					"Exclude": true
 				}
 			}
 		},
