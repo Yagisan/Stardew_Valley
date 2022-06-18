@@ -167,6 +167,22 @@
     {
       "UniqueID": "Xiaoxingruo.Socialbliss",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "Rinny.Aro.CP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "skellady.DNDCP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "TiaraPhoenixCupcake.cp.PlumForrest",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "CreatorKami.TYRSA.CP",
+      "IsRequired": false
     }
   ]
 }
