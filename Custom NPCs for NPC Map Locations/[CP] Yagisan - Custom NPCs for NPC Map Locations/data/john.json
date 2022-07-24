@@ -1,0 +1,20 @@
+{
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Changes": [
+        // Custom npc John - https://www.nexusmods.com/stardewvalley/mods/4500
+        {
+            "LogName": "[Yagi] John - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=Fellowclown.JohnNpc": true
+            },
+            "Entries": {
+                "John": {
+                    "MarkerCropOffset": -2
+                },
+            }
+        },
+        // John doesn't have a location yet, but will in future.
+    ]
+}
