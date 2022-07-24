@@ -23,15 +23,29 @@
                 "HasMod: |contains=Fellowclown.Lyell": true
             },
             "Entries": {
-                // Custom npc Lyell - https://www.nexusmods.com/stardewvalley/mods/4499
-                "Custom_Fellowclown.Lyell_LyellsWoods": {
+                "Custom_Fellowclown_Lyell_LyellsWoods": {
                     "MapVectors": [
                         {
-                            "MapX": 264,
-                            "MapY": 380
+                            "MapX": 260,
+                            "MapY": 290,
+                            "TileX": 0,
+                            "TileY": 0
+                        },
+                        {
+                            "MapX": 320,
+                            "MapY": 386,
+                            "TileX": 38,
+                            "TileY": 36
                         }
-                    ]
-                }
+                    ],
+                    "MapTooltip": {
+                        "X": 264,
+                        "Y": 290,
+                        "Width": 90,
+                        "Height": 60,
+                        "PrimaryText": "Private Property"
+                    }
+                },
             }
         },
     ]
