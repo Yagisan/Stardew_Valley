@@ -16,11 +16,12 @@
             }
         },
         {
-            "LogName": "[Yagi] Lyell - Location Support",
+            "LogName": "[Yagi] Lyell - Location Support 278,382",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/Locations",
             "When": {
-                "HasMod: |contains=Fellowclown.Lyell": true
+                "HasMod: |contains=Fellowclown.Lyell": true,
+                "FarmType:|contains=Beach": false
             },
             "Entries": {
                 "Custom_Fellowclown_Lyell_LyellsWoods": {
@@ -45,6 +46,25 @@
                         "Height": 60,
                         "PrimaryText": "Private Property"
                     }
+                },
+            }
+        },
+        {
+            "LogName": "[Yagi] Lyell - Location Support (Beach Farm)",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/Locations",
+            "When": {
+                "HasMod: |contains=Fellowclown.Lyell": true,
+                "FarmType:|contains=Beach": true
+            },
+            "Entries": {
+                "Custom_Fellowclown_Lyell_LyellsWoods": {
+                    "MapVectors": [
+                        {
+                            "MapX": 278,
+                            "MapY": 382,
+                        }
+                    ],
                 },
             }
         },
