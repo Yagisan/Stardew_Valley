@@ -136,7 +136,7 @@
           "Elderberry"
         ],
         "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Crops and Flowers]",
-        "MapName": "TheLostValley",
+        "MapName": "Custom_BoardingHouse_TheLostValley",
         "MinimumSpawnsPerDay": 2,
         "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
@@ -192,7 +192,7 @@
           "Morel"
         ],
         "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Cave Mushrooms]",
-        "MapName": "TheLostValley",
+        "MapName": "Custom_BoardingHouse_TheLostValley",
         "MinimumSpawnsPerDay": 2,
         "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
@@ -300,7 +300,7 @@
           "Frost Clump Berry"
         ],
         "UniqueAreaID": "Yagisan - Mine Entrance Spawn [Fruit Bats]",
-        "MapName": "MineEntrance",
+        "MapName": "Custom_BoardingHouse_MineEntrance",
         "MinimumSpawnsPerDay": 0,
         "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [],
