@@ -8,21 +8,24 @@
                {
                     "SpringItemIndex": [
                          "Tulip",
-                         "Blue Jazz"
+                         "Daffodil"
                     ],
                     "SummerItemIndex": [
                          "Sunflower",
-                         "Summer Spangle"
+                         "Sweet Pea"
                     ],
                     "FallItemIndex": [
-                         "Sunflower",
+                         "Highland Chard",
                          "Fairy Rose"
                     ],
-                    "WinterItemIndex": [],
+                    "WinterItemIndex": [
+                         "Crocus",
+                         "Aurorean Iris"
+                    ],
                     "UniqueAreaID": "Yagisan - Backwoods Pathway Spawn [Fair Weather Flowers]",
                     "MapName": "Backwoods",
                     "MinimumSpawnsPerDay": 2,
-                    "MaximumSpawnsPerDay": 5,
+                    "MaximumSpawnsPerDay": 7,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -134,20 +137,20 @@
                     "SpringItemIndex": [
                          "Tulip",
                          "Blue Jazz",
-                         "Pink Cat",
-                         "Shaded Violet"
+                         "Mountain Arugula",
+                         "Ridgeside Monkshood"
                     ],
                     "SummerItemIndex": [
                          "Sunflower",
                          "Summer Spangle",
-                         "Fragrant Lilac",
-                         "Blue Mist"
+                         "Sweet Pea",
+                         "Forest Amancay" //
                     ],
                     "FallItemIndex": [
                          "Sunflower",
                          "Fairy Rose",
-                         "Fairy Duster",
-                         "Purple Coneflower"
+                         "Highland Butterwort",
+                         "Summit Snowbell"
                     ],
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Mountain Spawn [Fair Weather Flowers]",
@@ -589,20 +592,20 @@
                     "SpringItemIndex": [
                          "Tulip",
                          "Blue Jazz",
-                         "Pink Cat",
-                         "Shaded Violet"
+                         "Mountain Arugula",
+                         "Ridgeside Monkshood"
                     ],
                     "SummerItemIndex": [
                          "Sunflower",
                          "Summer Spangle",
-                         "Fragrant Lilac",
-                         "Blue Mist"
+                         "Sweet Pea",
+                         "Forest Amancay"
                     ],
                     "FallItemIndex": [
                          "Sunflower",
                          "Fairy Rose",
-                         "Fairy Duster",
-                         "Purple Coneflower"
+                         "Highland Butterwort",
+                         "Summit Snowbell"
                     ],
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Secret Woods Spawn [Fair Weather Flowers]",
@@ -710,20 +713,20 @@
                     "SpringItemIndex": [
                          "Tulip",
                          "Blue Jazz",
-                         "Pink Cat",
-                         "Shaded Violet"
+                         "Mountain Arugula",
+                         "Ridgeside Monkshood"
                     ],
                     "SummerItemIndex": [
                          "Sunflower",
                          "Summer Spangle",
-                         "Fragrant Lilac",
-                         "Blue Mist"
+                         "Sweet Pea",
+                         "Forest Amancay"
                     ],
                     "FallItemIndex": [
                          "Sunflower",
                          "Fairy Rose",
-                         "Fairy Duster",
-                         "Purple Coneflower"
+                         "Highland Butterwort",
+                         "Summit Snowbell"
                     ],
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Forest Spawn [Fair Weather Flowers]",
