@@ -7,18 +7,21 @@
     "Areas": [
       {
         "SpringItemIndex": [
-          "Tulip",
+          "Daffodil",
           "Blue Jazz"
         ],
         "SummerItemIndex": [
-          "Sunflower",
+          "Sweet Pea",
           "Summer Spangle"
         ],
         "FallItemIndex": [
           "Sunflower",
           "Fairy Rose"
         ],
-        "WinterItemIndex": [],
+        "WinterItemIndex": [
+          "Crocus",
+          "Aurorean Iris"
+        ],
         "UniqueAreaID": "Yagisan - Backwoods Plateau Spawn [Fair Weather Flowers]",
         "MapName": "Custom_BoardingHouse_BackwoodsPlateau",
         "MinimumSpawnsPerDay": 0,
@@ -121,19 +124,23 @@
       {
         "SpringItemIndex": [
           "Tulip",
-          "Cabbage"
+          "Wild Horseradish",
+          "Cave Carrot"
         ],
         "SummerItemIndex": [
           "Sunflower",
-          "Butternut Squash"
+          "Fiddlehead Fern",
+          "Cave Carrot"
         ],
         "FallItemIndex": [
-          "Sunflower",
-          "Fairy Rose"
+          "Hazelnut",
+          "Fairy Rose",
+          "Cave Carrot"
         ],
         "WinterItemIndex": [
-          "Pitcher Plant",
-          "Elderberry"
+          "Winter Root",
+          "Snow Yam",
+          "Cave Carrot"
         ],
         "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Crops and Flowers]",
         "MapName": "Custom_BoardingHouse_TheLostValley",
@@ -177,11 +184,11 @@
       {
         "SpringItemIndex": [
           "Common Mushroom",
-          "Shiitake Mushroom"
+          "Morel"
         ],
         "SummerItemIndex": [
           "Common Mushroom",
-          "Sulfur Shelf Mushroom"
+          "Red Mushroom"
         ],
         "FallItemIndex": [
           "Chanterelle",
@@ -189,7 +196,7 @@
         ],
         "WinterItemIndex": [
           "Common Mushroom",
-          "Morel"
+          "Purple Mushroom"
         ],
         "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Cave Mushrooms]",
         "MapName": "Custom_BoardingHouse_TheLostValley",
