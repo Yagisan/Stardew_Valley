@@ -6,7 +6,9 @@
   "Description": "Overhauls Stardew Valley's Forage.",
   "UniqueID": "Yagisan.BountifulValley",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:9259" ],
+  "UpdateKeys": [
+    "Nexus:9259"
+  ],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
     "MinimumVersion": "1.9.0"
