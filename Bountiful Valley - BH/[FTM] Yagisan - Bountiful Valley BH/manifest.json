@@ -2,11 +2,13 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[FTM] Yagisan - Bountiful Valley - BH",
   "Author": "Yagisan",
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "Description": "Overhauls Stardew Valley's Forage. Boarding House Extension.",
   "UniqueID": "Yagisan.BountifulValley.BH",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:9263" ],
+  "UpdateKeys": [
+    "Nexus:9263"
+  ],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
     "MinimumVersion": "1.9.0"
@@ -21,7 +23,7 @@
       "IsRequired": true
     },
     {
-      "UniqueID": "FTMBdHouse",
+      "UniqueID": "CPBoardingHouse",
       "IsRequired": true
     },
     {
@@ -30,14 +32,6 @@
     },
     {
       "UniqueID": "Rafseazz.RSVCP",
-      "IsRequired": false
-    },
-    {
-      "UniqueID": "ppja.fruitsandveggies",
-      "IsRequired": false
-    },
-    {
-      "UniqueID": "mizu.flowers",
       "IsRequired": false
     }
   ]
