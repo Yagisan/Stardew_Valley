@@ -1,8 +1,8 @@
 {
-  "Name": "[STF] Yagisan - Sprinklers for Sale",
+  "Name": "[STF] Yagisan - Clint Shop Expanded",
   "Author": "Yagisan",
-  "Version": "1.0.0",
-  "Description": "Enables purchasing of sprinklers",
+  "Version": "1.0.1",
+  "Description": "Enables purchasing of a selection of useful item from Clint's shop",
   "UniqueID": "Yagisan.SprinklersForSale",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": [ "Nexus:11362" ],
