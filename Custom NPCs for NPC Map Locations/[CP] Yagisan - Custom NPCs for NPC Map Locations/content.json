@@ -93,6 +93,14 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// John
+		{
+			"Action": "Include",
+			"FromFile": "data/john.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
 		// Magical Family
 		{
 			"Action": "Include",
