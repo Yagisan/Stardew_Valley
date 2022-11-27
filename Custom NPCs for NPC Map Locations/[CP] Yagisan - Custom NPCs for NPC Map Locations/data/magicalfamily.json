@@ -11,10 +11,10 @@
             },
             "Entries": {
                 "Valerie": {
-                    "MarkerCropOffset": 10
+                    "MarkerCropOffset": 4
                 },
                 "Dezerie": {
-                    "MarkerCropOffset": 4
+                    "MarkerCropOffset": 2
                 },
             }
         },
@@ -29,8 +29,8 @@
                 "Custom_Fellowclown_OldGraveYard": {
                     "MapVectors": [
                         {
-                            "MapX": 960,
-                            "MapY": 250
+                            "MapX": 180,
+                            "MapY": 450
                         }
                     ]
                 },
