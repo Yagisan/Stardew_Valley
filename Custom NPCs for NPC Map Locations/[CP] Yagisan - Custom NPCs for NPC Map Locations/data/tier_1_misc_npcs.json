@@ -105,6 +105,23 @@
                 },
             }
         },
+        // Yri the Architect - New Custom NPC's for East Scarp - https://www.nexusmods.com/stardewvalley/mods/10627
+        {
+            "LogName": "[Yagi] Yri the Architect - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=yri.yri": true
+            },
+            "Entries": {
+                "Yri": {
+                    "MarkerCropOffset": 2
+                },
+                "Charles": {
+                    "MarkerCropOffset": 0
+                },
+            }
+        },
         // Ginger Island NPC Overhaul - https://www.nexusmods.com/stardewvalley/mods/9242
         {
             "LogName": "[Yagi] Ginger Island NPC Overhaul - Sprite Offsets - Before flag willyBoatFixed",
