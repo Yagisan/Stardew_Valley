@@ -57,20 +57,6 @@
                 },
             }
         },
-        // Ayeisha - The Postal Worker (Custom NPC) - https://www.nexusmods.com/stardewvalley/mods/6427
-        {
-            "LogName": "[Yagi] Ayeisha - Sprite Offsets",
-            "Action": "EditData",
-            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
-            "When": {
-                "HasMod: |contains=TheLimeyDragon.Ayeisha": true
-            },
-            "Entries": {
-                "Ayeisha": {
-                    "MarkerCropOffset": 1
-                },
-            }
-        },
         // Lucikiel - New Custom NPC (King's Raid) - https://www.nexusmods.com/stardewvalley/mods/6307
         {
             "LogName": "[Yagi] Lucikiel - Sprite Offsets",

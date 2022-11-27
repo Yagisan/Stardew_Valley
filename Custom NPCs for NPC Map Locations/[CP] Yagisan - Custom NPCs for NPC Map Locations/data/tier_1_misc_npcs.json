@@ -147,6 +147,20 @@
                 },
             }
         },
+        // Ayeisha - The Postal Worker (Custom NPC) - https://www.nexusmods.com/stardewvalley/mods/6427
+        {
+            "LogName": "[Yagi] Ayeisha - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=TheLimeyDragon.Ayeisha": true
+            },
+            "Entries": {
+                "Ayeisha": {
+                    "MarkerCropOffset": 1
+                },
+            }
+        },
         // Ginger Island NPC Overhaul - https://www.nexusmods.com/stardewvalley/mods/9242
         {
             "LogName": "[Yagi] Ginger Island NPC Overhaul - Sprite Offsets - Before flag willyBoatFixed",
