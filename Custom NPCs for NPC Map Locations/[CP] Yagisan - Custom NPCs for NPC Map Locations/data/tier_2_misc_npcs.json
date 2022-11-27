@@ -57,6 +57,34 @@
                 },
             }
         },
+        // Delores - A New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/5510
+        {
+            "LogName": "[Yagi] Delores - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=blaaze6.Delores": true
+            },
+            "Entries": {
+                "Delores": {
+                    "MarkerCropOffset": 3
+                },
+            }
+        },
+        // Sorren - Original NPC - https://www.nexusmods.com/stardewvalley/mods/4040
+        {
+            "LogName": "[Yagi] Sorren - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=annachibi.SorrenNPC": true
+            },
+            "Entries": {
+                "Sorren": {
+                    "MarkerCropOffset": -3
+                },
+            }
+        },
         // Lucikiel - New Custom NPC (King's Raid) - https://www.nexusmods.com/stardewvalley/mods/6307
         {
             "LogName": "[Yagi] Lucikiel - Sprite Offsets",
