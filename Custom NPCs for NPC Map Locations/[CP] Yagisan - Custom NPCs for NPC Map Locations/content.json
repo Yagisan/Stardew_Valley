@@ -28,14 +28,6 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
-		// East Scarp 1.7 and older
-		{
-			"Action": "Include",
-			"FromFile": "data/es17.json",
-			"When": {
-				"HasMod": "Bouhm.NPCMapLocations"
-			}
-		},
 		// East Scarp 2.0 and newer
 		{
 			"Action": "Include",
