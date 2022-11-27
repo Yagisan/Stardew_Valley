@@ -19,7 +19,7 @@
             }
         },
         {
-            "LogName": "[Yagi] Magical Family - Location Support 278,382",
+            "LogName": "[Yagi] Magical Family - Location Support",
             "Action": "EditData",
             "Target": "Mods/Bouhm.NPCMapLocations/Locations",
             "When": {
