@@ -116,5 +116,33 @@
                 },
             }
         },
+        // Primm from Secret of Mana NPC - https://www.nexusmods.com/stardewvalley/mods/15869
+        {
+            "LogName": "[Yagi] Primm - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=Primm.Primm": true
+            },
+            "Entries": {
+                "Primm": {
+                    "MarkerCropOffset": 4
+                },
+            }
+        },
+        // Sydney - A Custom NPC - https://www.nexusmods.com/stardewvalley/mods/14158
+        {
+            "LogName": "[Yagi] Sydney - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=Lex.Sydney": true
+            },
+            "Entries": {
+                "Sydney_Lex": {
+                    "MarkerCropOffset": 2
+                },
+            }
+        },
     ]
 }
