@@ -654,19 +654,15 @@
                {
                     "SpringItemIndex": [
                          "Common Mushroom",
-                         "Morel",
-                         "Shiitake Mushroom"
+                         "Morel"
                     ],
                     "SummerItemIndex": [
                          "Common Mushroom",
-                         "Red Mushroom",
-                         "Sulfur Shelf Mushroom"
+                         "Red Mushroom"
                     ],
                     "FallItemIndex": [
                          "Chanterelle",
-                         "Purple Mushroom",
-                         "Shiitake Mushroom",
-                         "Sulfur Shelf Mushroom"
+                         "Purple Mushroom"
                     ],
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Secret Woods Spawn [Post Rain Mushrooms]",
