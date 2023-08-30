@@ -24,8 +24,8 @@
                     ],
                     "UniqueAreaID": "Yagisan - Backwoods Pathway Spawn [Fair Weather Flowers]",
                     "MapName": "Backwoods",
-                    "MinimumSpawnsPerDay": 2,
-                    "MaximumSpawnsPerDay": 7,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -71,7 +71,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 3
+                    "DaysUntilSpawnsExpire": 1
                },
                {
                     "SpringItemIndex": [
@@ -87,8 +87,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Backwoods Pathway Spawn [Post Rain Mushrooms]",
                     "MapName": "Backwoods",
-                    "MinimumSpawnsPerDay": 3,
-                    "MaximumSpawnsPerDay": 5,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -131,7 +131,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 3
+                    "DaysUntilSpawnsExpire": 1
                },
                {
                     "SpringItemIndex": [
@@ -155,8 +155,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Mountain Spawn [Fair Weather Flowers]",
                     "MapName": "Mountain",
-                    "MinimumSpawnsPerDay": 4,
-                    "MaximumSpawnsPerDay": 8,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -212,8 +212,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Mountain Spawn [Post Rain Mushrooms]",
                     "MapName": "Mountain",
-                    "MinimumSpawnsPerDay": 5,
-                    "MaximumSpawnsPerDay": 8,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -248,7 +248,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 3
+                    "DaysUntilSpawnsExpire": 2
                },
                {
                     "SpringItemIndex": [
@@ -263,8 +263,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Town Spawn [Post Rain Mushrooms]",
                     "MapName": "Town",
-                    "MinimumSpawnsPerDay": 3,
-                    "MaximumSpawnsPerDay": 5,
+                    "MinimumSpawnsPerDay": -2,
+                    "MaximumSpawnsPerDay": 2,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -299,7 +299,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 3
+                    "DaysUntilSpawnsExpire": 1
                },
                {
                     "SpringItemIndex": [
@@ -386,8 +386,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - BusStop Spawn [Fair Weather Flowers]",
                     "MapName": "BusStop",
-                    "MinimumSpawnsPerDay": 1,
-                    "MaximumSpawnsPerDay": 5,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -441,8 +441,8 @@
                     "WinterItemIndex": null,
                     "UniqueAreaID": "Yagisan - BusStop Spawn [Post Rain Musrooms]",
                     "MapName": "BusStop",
-                    "MinimumSpawnsPerDay": 2,
-                    "MaximumSpawnsPerDay": 5,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 2,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -495,8 +495,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Railroad Spawn [Fair Weather Flowers]",
                     "MapName": "Railroad",
-                    "MinimumSpawnsPerDay": 1,
-                    "MaximumSpawnsPerDay": 5,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -534,7 +534,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 3
+                    "DaysUntilSpawnsExpire": 2
                },
                {
                     "SpringItemIndex": [
@@ -610,8 +610,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Secret Woods Spawn [Fair Weather Flowers]",
                     "MapName": "Woods",
-                    "MinimumSpawnsPerDay": 3,
-                    "MaximumSpawnsPerDay": 5,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -671,8 +671,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Secret Woods Spawn [Post Rain Mushrooms]",
                     "MapName": "Woods",
-                    "MinimumSpawnsPerDay": 3,
-                    "MaximumSpawnsPerDay": 7,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -731,8 +731,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Forest Spawn [Fair Weather Flowers]",
                     "MapName": "Forest",
-                    "MinimumSpawnsPerDay": 7,
-                    "MaximumSpawnsPerDay": 15,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -788,8 +788,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Forest Spawn [Post Rain Mushrooms]",
                     "MapName": "Forest",
-                    "MinimumSpawnsPerDay": 5,
-                    "MaximumSpawnsPerDay": 10,
+                    "MinimumSpawnsPerDay": -1,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Grass"
                     ],
@@ -849,8 +849,8 @@
                     ],
                     "UniqueAreaID": "Yagisan - Beach Spawn [Post Rain Garbage]",
                     "MapName": "Beach",
-                    "MinimumSpawnsPerDay": 2,
-                    "MaximumSpawnsPerDay": 5,
+                    "MinimumSpawnsPerDay": -2,
+                    "MaximumSpawnsPerDay": 2,
                     "IncludeTerrainTypes": [
                          "Dirt"
                     ],
@@ -884,7 +884,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 3
+                    "DaysUntilSpawnsExpire": 2
                },
                {
                     "SpringItemIndex": [
@@ -909,8 +909,8 @@
                     ],
                     "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Debris]",
                     "MapName": "Beach",
-                    "MinimumSpawnsPerDay": 7,
-                    "MaximumSpawnsPerDay": 10,
+                    "MinimumSpawnsPerDay": -2,
+                    "MaximumSpawnsPerDay": 2,
                     "IncludeTerrainTypes": [
                          "Dirt"
                     ],
@@ -944,7 +944,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 5
+                    "DaysUntilSpawnsExpire": 4
                },
                {
                     "SpringItemIndex": [
@@ -961,8 +961,8 @@
                     ],
                     "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Trash]",
                     "MapName": "Beach",
-                    "MinimumSpawnsPerDay": 10,
-                    "MaximumSpawnsPerDay": 15,
+                    "MinimumSpawnsPerDay": -2,
+                    "MaximumSpawnsPerDay": 5,
                     "IncludeTerrainTypes": [
                          "Dirt"
                     ],
@@ -996,7 +996,7 @@
                          "EPUPreconditions": [],
                          "LimitedNumberOfSpawns": null
                     },
-                    "DaysUntilSpawnsExpire": 5
+                    "DaysUntilSpawnsExpire": 4
                },
                {
                     "SpringItemIndex": [
@@ -1061,8 +1061,8 @@
                     "WinterItemIndex": [],
                     "UniqueAreaID": "Yagisan - Desert Spawn [Desert Seasonal Blooms]",
                     "MapName": "Desert",
-                    "MinimumSpawnsPerDay": 12,
-                    "MaximumSpawnsPerDay": 15,
+                    "MinimumSpawnsPerDay": 3,
+                    "MaximumSpawnsPerDay": 5,
                     "IncludeTerrainTypes": [
                          "Dirt"
                     ],
