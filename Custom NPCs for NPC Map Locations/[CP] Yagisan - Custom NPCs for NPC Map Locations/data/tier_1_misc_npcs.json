@@ -48,7 +48,6 @@
                 },
             }
         },
-
         // Jade NPC - https://www.nexusmods.com/stardewvalley/mods/5559
         {
             "LogName": "[Yagi] Jade - Sprite Offsets",
@@ -148,6 +147,20 @@
             "Entries": {
                 "ProfSnail": {
                     "MarkerCropOffset": 6
+                },
+            }
+        },
+        // Traveling Dreamer - https://www.nexusmods.com/stardewvalley/mods/15881
+        {
+            "LogName": "[Yagi] Traveling Dreamer - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=Fellowclown.TravelingDreamer": true
+            },
+            "Entries": {
+                "Barron": {
+                    "MarkerCropOffset": -1
                 },
             }
         },

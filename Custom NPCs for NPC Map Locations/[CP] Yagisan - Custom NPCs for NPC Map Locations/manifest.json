@@ -211,6 +211,10 @@
     {
       "UniqueID": "Lex.Sydney",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "Fellowclown.TravelingDreamer",
+      "IsRequired": false
     }
   ]
 }
