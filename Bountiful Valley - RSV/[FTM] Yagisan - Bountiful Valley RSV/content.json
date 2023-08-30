@@ -564,7 +564,7 @@
         ],
         "UniqueAreaID": "Yagisan - Backwoods Pathway Spawn [Windblown Ridgeside Produce]",
         "MapName": "Backwoods",
-        "MinimumSpawnsPerDay": 0,
+        "MinimumSpawnsPerDay": 2,
         "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
@@ -607,7 +607,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 2
+        "DaysUntilSpawnsExpire": 1
       }
     ],
     "PercentExtraSpawnsPerForagingLevel": 0,
