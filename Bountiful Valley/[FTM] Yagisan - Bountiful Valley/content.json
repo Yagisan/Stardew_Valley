@@ -962,7 +962,7 @@
                     "UniqueAreaID": "Yagisan - Beach Spawn [Post Storm Trash]",
                     "MapName": "Beach",
                     "MinimumSpawnsPerDay": -2,
-                    "MaximumSpawnsPerDay": 5,
+                    "MaximumSpawnsPerDay": 3,
                     "IncludeTerrainTypes": [
                          "Dirt"
                     ],
