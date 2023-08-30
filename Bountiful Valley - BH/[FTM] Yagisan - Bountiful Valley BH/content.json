@@ -24,8 +24,8 @@
         ],
         "UniqueAreaID": "Yagisan - Backwoods Plateau Spawn [Fair Weather Flowers]",
         "MapName": "Custom_BoardingHouse_BackwoodsPlateau",
-        "MinimumSpawnsPerDay": 0,
-        "MaximumSpawnsPerDay": 3,
+        "MinimumSpawnsPerDay": -2,
+        "MaximumSpawnsPerDay": 2,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -65,7 +65,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 1
       },
       {
         "SpringItemIndex": [
@@ -81,8 +81,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Backwoods Plateau Spawn [Post Rain Mushrooms]",
         "MapName": "Custom_BoardingHouse_BackwoodsPlateau",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": -2,
+        "MaximumSpawnsPerDay": 2,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -119,7 +119,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 1
       },
       {
         "SpringItemIndex": [
@@ -144,8 +144,8 @@
         ],
         "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Crops and Flowers]",
         "MapName": "Custom_BoardingHouse_TheLostValley",
-        "MinimumSpawnsPerDay": 2,
-        "MaximumSpawnsPerDay": 3,
+        "MinimumSpawnsPerDay": -2,
+        "MaximumSpawnsPerDay": 2,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -200,8 +200,8 @@
         ],
         "UniqueAreaID": "Yagisan - The Lost Valley Spawn [Cave Mushrooms]",
         "MapName": "Custom_BoardingHouse_TheLostValley",
-        "MinimumSpawnsPerDay": 2,
-        "MaximumSpawnsPerDay": 3,
+        "MinimumSpawnsPerDay": -2,
+        "MaximumSpawnsPerDay": 2,
         "IncludeTerrainTypes": [
           "Stone"
         ],
