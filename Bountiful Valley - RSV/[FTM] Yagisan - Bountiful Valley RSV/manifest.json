@@ -2,11 +2,13 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[FTM] Yagisan - Bountiful Valley - RSV",
   "Author": "Yagisan",
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "Description": "Overhauls Stardew Valley's Forage. Ridgeside Valley Extension.",
   "UniqueID": "Yagisan.BountifulValley.RSV",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:9272" ],
+  "UpdateKeys": [
+    "Nexus:9272"
+  ],
   "ContentPackFor": {
     "UniqueID": "Esca.FarmTypeManager",
     "MinimumVersion": "1.9.0"
@@ -22,11 +24,11 @@
       "MinimumVersion": "2.0"
     },
     {
-      "UniqueID": "ppja.fruitsandveggies",
+      "UniqueID": "CPBoardingHouse",
       "IsRequired": false
     },
     {
-      "UniqueID": "mizu.flowers",
+      "UniqueID": "LemurKat.EastScarpe.CP",
       "IsRequired": false
     }
   ]

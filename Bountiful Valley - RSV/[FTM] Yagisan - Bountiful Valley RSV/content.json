@@ -21,8 +21,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside RSVCableCar Spawn [Fair Weather Flowers]",
         "MapName": "Custom_Ridgeside_RSVCableCar",
-        "MinimumSpawnsPerDay": 1,
-        "MaximumSpawnsPerDay": 4,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -64,7 +64,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 1
       },
       {
         "SpringItemIndex": [
@@ -80,8 +80,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside RSVCableCar Spawn [Post Rain Mushrooms]",
         "MapName": "Custom_Ridgeside_RSVCableCar",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -120,7 +120,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 1
       },
       {
         "SpringItemIndex": [
@@ -138,8 +138,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside RSVCliff Spawn [Fair Weather Flowers]",
         "MapName": "Custom_Ridgeside_RSVCliff",
-        "MinimumSpawnsPerDay": 1,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -182,7 +182,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 1
       },
       {
         "SpringItemIndex": [
@@ -198,8 +198,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside RSVCliff Spawn [Post Rain Mushrooms]",
         "MapName": "Custom_Ridgeside_RSVCliff",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -239,7 +239,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 1
       },
       {
         "SpringItemIndex": [
@@ -257,8 +257,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside RSVTheHike Spawn [Fair Weather Flowers]",
         "MapName": "Custom_Ridgeside_RSVTheHike",
-        "MinimumSpawnsPerDay": 2,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -302,7 +302,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 5
+        "DaysUntilSpawnsExpire": 3
       },
       {
         "SpringItemIndex": [
@@ -318,8 +318,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside RSVTheHike Spawn [Post Rain Mushrooms]",
         "MapName": "Custom_Ridgeside_RSVTheHike",
-        "MinimumSpawnsPerDay": 4,
-        "MaximumSpawnsPerDay": 7,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -376,8 +376,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside RidgesideVillage Spawn [Post Rain Mushrooms]",
         "MapName": "Custom_Ridgeside_RidgesideVillage",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": -2,
+        "MaximumSpawnsPerDay": 2,
         "IncludeTerrainTypes": [],
         "ExcludeTerrainTypes": [
           "Dirt",
@@ -418,7 +418,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 1
       },
       {
         "SpringItemIndex": [
@@ -436,8 +436,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside Ridge Spawn [Fair Weather Flowers]",
         "MapName": "Custom_Ridgeside_Ridge",
-        "MinimumSpawnsPerDay": 2,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -483,7 +483,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 5
+        "DaysUntilSpawnsExpire": 2
       },
       {
         "SpringItemIndex": [
@@ -499,8 +499,8 @@
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Ridgeside Ridge Spawn [Post Rain Mushrooms]",
         "MapName": "Custom_Ridgeside_Ridge",
-        "MinimumSpawnsPerDay": 3,
-        "MaximumSpawnsPerDay": 8,
+        "MinimumSpawnsPerDay": -1,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -543,7 +543,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 2
       },
       {
         "SpringItemIndex": [
@@ -564,8 +564,8 @@
         ],
         "UniqueAreaID": "Yagisan - Backwoods Pathway Spawn [Windblown Ridgeside Produce]",
         "MapName": "Backwoods",
-        "MinimumSpawnsPerDay": 2,
-        "MaximumSpawnsPerDay": 5,
+        "MinimumSpawnsPerDay": 0,
+        "MaximumSpawnsPerDay": 3,
         "IncludeTerrainTypes": [
           "Grass"
         ],
@@ -607,7 +607,7 @@
           "EPUPreconditions": [],
           "LimitedNumberOfSpawns": null
         },
-        "DaysUntilSpawnsExpire": 3
+        "DaysUntilSpawnsExpire": 2
       }
     ],
     "PercentExtraSpawnsPerForagingLevel": 0,
