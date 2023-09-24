@@ -164,5 +164,19 @@
                 },
             }
         },
+        // Fievel Goes East Scarp - Hat Mouse NPC - https://www.nexusmods.com/stardewvalley/mods/17315
+        {
+            "LogName": "[Yagi] Fievel Goes East Scarp - Sprite Offsets",
+            "Action": "EditData",
+            "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+            "When": {
+                "HasMod: |contains=EastScarp.FGES": true
+            },
+            "Entries": {
+                "Fievel": {
+                    "MarkerCropOffset": 8
+                },
+            }
+        },
     ]
 }
