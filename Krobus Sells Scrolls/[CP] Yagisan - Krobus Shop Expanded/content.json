@@ -30,6 +30,17 @@
                     "AvailableStockLimit": "Player",
                     "Condition": "PLAYER_HEARTS Current Krobus 4"
                 },
+                "Jellies": {
+                    "RandomItemId": [
+                        "(O)CaveJelly",
+                        "(O)RiverJelly",
+                        "(O)SeaJelly",
+                    ],
+                    "Price": "400",
+                    "AvailableStock": 1,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Krobus 6"
+                },
                 "Soda Machine": {
                     "Id": "(BC)117",
                     "ItemId": "(BC)117",
