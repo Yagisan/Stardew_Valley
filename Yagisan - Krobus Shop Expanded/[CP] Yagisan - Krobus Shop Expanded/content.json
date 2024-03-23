@@ -47,7 +47,7 @@
                     "Price": "140000",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Krobus 10, IS_COMMUNITY_CENTER_COMPLETE"
+                    "Condition": "PLAYER_HEARTS Current Krobus 8, IS_COMMUNITY_CENTER_COMPLETE"
                 },
             }
         }
