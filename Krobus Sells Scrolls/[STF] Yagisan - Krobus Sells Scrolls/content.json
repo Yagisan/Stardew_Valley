@@ -1,0 +1,44 @@
+{
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [
+                "ShadowShop",
+                "Items"
+            ],
+            "Entries": {
+                "Clay": {
+                    "Id": "(O)330",
+                    "ItemId": "(O)330",
+                    "Price": "40",
+                    "AvailableStock": 30,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Krobus 1"
+                },
+                "Dwarf Scrolls": {
+                    "RandomItemId": [
+                        "(O)96",
+                        "(O)97",
+                        "(O)98",
+                        "(O)99",
+                    ],
+                    "Price": "1000",
+                    "AvailableStock": 1,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Krobus 4"
+                },
+                "Soda Machine": {
+                    "Id": "(BC)117",
+                    "ItemId": "(BC)117",
+                    "Price": "140000",
+                    "AvailableStock": 1,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Krobus 10, IS_COMMUNITY_CENTER_COMPLETE"
+                },
+            }
+        }
+    ]
+}

@@ -1,12 +1,14 @@
 {
-  "Name": "[STF] Yagisan - Krobus Sells Scrolls",
+  "Name": "[CP] Yagisan - Krobus Shop Expanded",
   "Author": "Yagisan",
-  "Version": "1.0.1",
-  "Description": "Allows Krobus to sell dwarf scrolls",
-  "UniqueID": "Yagisan.KrobusSellsScrolls",
+  "Version": "2.0.0",
+  "Description": "Enables purchasing of a selection of useful items from Krobus' shop",
+  "UniqueID": "Yagisan.KrobusShopExpanded",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:9248" ],
+  "UpdateKeys": [
+    "Nexus:9248"
+  ],
   "ContentPackFor": {
-    "UniqueID": "Cherry.ShopTileFramework",
+    "UniqueID": "Pathoschild.ContentPatcher",
   }
 }
