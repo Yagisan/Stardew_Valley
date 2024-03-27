@@ -88,7 +88,7 @@
                     "MinStack": 0,
                     "MaxStack": 5,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Clint 8, LOCATION_ACCESSIBLE QiNutRoom"
+                    "Condition": "PLAYER_HEARTS Current Clint 8, PLAYER_VISITED_LOCATION Current QiNutRoom"
                 }
             }
         }
