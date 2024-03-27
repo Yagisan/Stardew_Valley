@@ -13,7 +13,7 @@
                 "Iron Fence": {
                     "Id": "(O)324",
                     "ItemId": "(O)324",
-                    "Price": "100",
+                    "Price": "50",
                     "AvailableStock": 30,
                     "AvailableStockLimit": "Player"
                 },
@@ -71,6 +71,24 @@
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
                     "Condition": "PLAYER_HEARTS Current Clint 6"
+                },
+                "Iridium Ore": {
+                    "Id": "(O)386",
+                    "ItemId": "(O)386",
+                    "Price": "1250",
+                    "MinStack": 0,
+                    "MaxStack": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Clint 8"
+                },
+                "Radioactive Ore": {
+                    "Id": "(O)909",
+                    "ItemId": "(O)909",
+                    "Price": "2500",
+                    "MinStack": 0,
+                    "MaxStack": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Clint 8, LOCATION_ACCESSIBLE QiNutRoom"
                 }
             }
         }
