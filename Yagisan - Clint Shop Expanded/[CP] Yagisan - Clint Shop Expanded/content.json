@@ -76,19 +76,17 @@
                     "Id": "(O)386",
                     "ItemId": "(O)386",
                     "Price": "1250",
-                    "MinStack": 0,
-                    "MaxStack": 5,
+                    "AvailableStock": 5,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Clint 8"
+                    "Condition": "PLAYER_HEARTS Current Clint 8, RANDOM 0.3 @addDailyLuck"
                 },
                 "Radioactive Ore": {
                     "Id": "(O)909",
                     "ItemId": "(O)909",
                     "Price": "2500",
-                    "MinStack": 0,
-                    "MaxStack": 5,
+                    "AvailableStock": 5,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Clint 8, PLAYER_VISITED_LOCATION Current QiNutRoom"
+                    "Condition": "PLAYER_HEARTS Current Clint 8, PLAYER_VISITED_LOCATION Current QiNutRoom, RANDOM 0.3 @addDailyLuck"
                 }
             }
         }
