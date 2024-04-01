@@ -16,81 +16,81 @@
                         "(O)180",
                     ],
                     "Price": "60",
-                    "MinStack": 0,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Shane 1"
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Shane 1, RANDOM 0.3 @addDailyLuck"
                 },
                 "Milk": {
                     "Id": "(O)184",
                     "ItemId": "(O)184",
                     "Price": "150",
-                    "MinStack": 0,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Marnie 1"
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Marnie 1, RANDOM 0.3 @addDailyLuck"
                 },
                 "Duck Eggs": {
                     "Id": "(O)442",
                     "ItemId": "(O)442",
                     "Price": "114",
-                    "MinStack": 0,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Shane 3"
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Shane 3, RANDOM 0.3 @addDailyLuck"
                 },
                 "Goat Milk": {
                     "Id": "(O)436",
                     "ItemId": "(O)436",
                     "Price": "287",
-                    "MinStack": 0,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Marnie 3"
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Marnie 3, RANDOM 0.3 @addDailyLuck"
                 },
                 "Duck Feathers": {
                     "Id": "(O)444",
                     "ItemId": "(O)444",
                     "Price": "300",
-                    "MinStack": 0,
-                    "MaxStack": 3,
-                    "Condition": "PLAYER_HEARTS Current Shane 3, PLAYER_HEARTS Current Marnie 3"
+                    "AvailableStock": 3,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Shane 3, PLAYER_HEARTS Current Marnie 3, RANDOM 0.3 @addDailyLuck"
                 },
                 "Large Milk": {
                     "Id": "(O)186",
                     "ItemId": "(O)186",
                     "Price": "228",
-                    "MinStack": 0,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Marnie 4"
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Marnie 4, RANDOM 0.3 @addDailyLuck"
                 },
                 "Wool": {
                     "Id": "(O)440",
                     "ItemId": "(O)440",
                     "Price": "408",
-                    "MinStack": 0,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Shane 4"
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Shane 4, RANDOM 0.3 @addDailyLuck"
                 },
                 "Large Goat Milk": {
                     "Id": "(O)438",
                     "ItemId": "(O)438",
                     "Price": "414",
-                    "MinStack": 0,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Marnie 5"
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Marnie 5, RANDOM 0.3 @addDailyLuck"
                 },
                 "Ostrich Egg": {
                     "Id": "(O)289",
                     "ItemId": "(O)289",
                     "Price": "720",
-                    "MinStack": 0,
-                    "MaxStack": 1,
-                    "Condition": "PLAYER_HEARTS Current Shane 5, PLAYER_VISITED_LOCATION Current IslandSouth"
+                    "AvailableStock": 1,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Shane 5, PLAYER_VISITED_LOCATION Current IslandSouth, RANDOM 0.3 @addDailyLuck"
                 },
                 "Truffles": {
                     "Id": "(O)430",
                     "ItemId": "(O)430",
                     "Price": "625",
-                    "MinStack": 0,
-                    "MaxStack": 1,
-                    "Condition": "PLAYER_HEARTS Current Marnie 7"
+                    "AvailableStock": 1,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Marnie 7, RANDOM 0.3 @addDailyLuck"
                 },
                 "Large Eggs": {
                     "RandomItemId": [
@@ -98,9 +98,8 @@
                         "(O)182",
                     ],
                     "Price": "114",
-                    "MinStack": 1,
-                    "MaxStack": 5,
-                    "Condition": "PLAYER_HEARTS Current Shane 8"
+                    "AvailableStock": 5,
+                    "Condition": "PLAYER_HEARTS Current Shane 8, RANDOM 0.3 @addDailyLuck"
                 },
                 "Auto Petter": {
                     "Id": "(BC)272",
@@ -114,9 +113,9 @@
                     "Id": "(O)446",
                     "ItemId": "(O)446",
                     "Price": "678",
-                    "MinStack": 0,
-                    "MaxStack": 1,
-                    "Condition": "PLAYER_HEARTS Current Shane 8, PLAYER_HEARTS Current Marnie 8"
+                    "AvailableStock": 1,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Shane 8, PLAYER_HEARTS Current Marnie 8, RANDOM 0.3 @addDailyLuck"
                 },
             }
         }
