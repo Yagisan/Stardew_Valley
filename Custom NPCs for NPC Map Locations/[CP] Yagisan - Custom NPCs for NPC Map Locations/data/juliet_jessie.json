@@ -1,5 +1,6 @@
 {
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
+	"Format": "2.0.0",
 	"Changes": [
 		// Juliet and Jessie the Joja Clerks - https://www.nexusmods.com/stardewvalley/mods/6398
 		{
@@ -22,6 +23,7 @@
 			}
 		},
 		// This is an SVE location. Used only for SVE installs.
+		/*
 		{
 			"LogName": "[Yagi] Juliet and Jessie - SVE Location Support",
 			"Action": "EditData",
@@ -51,5 +53,6 @@
 				}
 			}
 		},
+		*/
 	]
 }
