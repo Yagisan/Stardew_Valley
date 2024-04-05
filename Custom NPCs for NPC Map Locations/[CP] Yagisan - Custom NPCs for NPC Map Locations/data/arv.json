@@ -1,6 +1,5 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
-    "Format": "2.0.0",
     "Changes": [
         // Always Raining in the Valley - Custom NPCs for ES - https://www.nexusmods.com/stardewvalley/mods/9999
         {
