@@ -1,5 +1,6 @@
 {
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
+	"Format": "2.0.0",
 	"Changes": [
 		// East Scarp - https://www.nexusmods.com/stardewvalley/mods/5787
 		{
@@ -99,6 +100,7 @@
 				}
 			}
 		},
+		/*
 		{
 			"LogName": "[Yagi] East Scarp - Location Support",
 			"Action": "EditData",
@@ -381,5 +383,6 @@
 				},
 			}
 		},
+		*/
 	]
 }
