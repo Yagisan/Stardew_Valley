@@ -1,5 +1,6 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
     "Changes": [
         // The Stray Catfe - UPDATE - https://www.nexusmods.com/stardewvalley/mods/16422
         {
@@ -18,6 +19,7 @@
                 }
             }
         },
+        /*
         {
             "LogName": "[Yagi] The Stray Catfe - Location Support",
             "Action": "EditData",
@@ -45,5 +47,6 @@
                 },
             }
         },
+        */
     ]
 }
