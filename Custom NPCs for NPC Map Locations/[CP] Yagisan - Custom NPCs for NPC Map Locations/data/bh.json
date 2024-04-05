@@ -1,5 +1,6 @@
 {
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
+	"Format": "2.0.0",
 	"Changes": [
 		// Boarding House and Bus Stop Extension - https://www.nexusmods.com/stardewvalley/mods/4120
 		{
@@ -21,6 +22,7 @@
 				},
 			}
 		},
+		/*
 		{
 			"LogName": "[Yagi] Boarding House and Bus Stop Extension - Location Support",
 			"Action": "EditData",
@@ -150,5 +152,6 @@
 				}
 			}
 		},
+		*/
 	]
 }
