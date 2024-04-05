@@ -1,5 +1,6 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
     "Changes": [
         // Wilford - New Custom NPC - https://www.nexusmods.com/stardewvalley/mods/7313
         {
@@ -29,6 +30,7 @@
                 },
             }
         },
+        /*
         {
             "LogName": "[Yagi] Wilford - Location Support",
             "Action": "EditData",
@@ -65,5 +67,6 @@
                 }
             }
         },
+        */
     ]
 }
