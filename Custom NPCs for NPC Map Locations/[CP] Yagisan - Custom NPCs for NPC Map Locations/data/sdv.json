@@ -1,5 +1,7 @@
+/*
 {
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
+	"Format": "2.0.0",
 	"Changes": [
 		{
 			"LogName": "[Yagi] Stardew Valley - Vanilla Location Support",
@@ -50,3 +52,4 @@
 		}
 	]
 }
+*/
