@@ -1,5 +1,6 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
     "Changes": [
         // Aspen - New Custom Dateable NPC - https://www.nexusmods.com/stardewvalley/mods/6754
         {
@@ -15,6 +16,7 @@
                 }
             }
         },
+        /*
         {
             "LogName": "[Yagi] Aspen - Location Support",
             "Action": "EditData",
@@ -49,5 +51,6 @@
                 },
             }
         },
+        */
     ]
 }
