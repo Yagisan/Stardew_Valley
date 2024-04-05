@@ -1,5 +1,6 @@
 {
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
+	"Format": "2.0.0",
 	"Changes": [
 		// Ridgeside Village - https://www.nexusmods.com/stardewvalley/mods/7286
 		{
@@ -171,6 +172,7 @@
 				}
 			}
 		},
+		/*
 		{
 			"LogName": "[Yagi] Ridgeside Village - Location Support",
 			"Action": "EditData",
@@ -277,5 +279,6 @@
 				},
 			}
 		},
+		*/
 	]
 }
