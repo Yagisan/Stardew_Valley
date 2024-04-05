@@ -1,5 +1,6 @@
 {
 	"$schema": "https://smapi.io/schemas/content-patcher.json",
+	"Format": "2.0.0",
 	"Changes": [
 		// Lunna - Astray in Stardew Valley - https://www.nexusmods.com/stardewvalley/mods/6626
 		{
@@ -57,6 +58,7 @@
 				},
 			}
 		},
+		/*
 		{
 			"LogName": "[Yagi] Lunna Astray in Stardew Valley - Location Support",
 			"Action": "EditData",
@@ -117,5 +119,6 @@
 				}
 			}
 		},
+		*/
 	]
 }
