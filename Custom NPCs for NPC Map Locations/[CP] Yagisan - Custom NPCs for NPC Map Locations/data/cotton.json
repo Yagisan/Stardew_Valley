@@ -1,5 +1,6 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
     "Changes": [
         // Cotton the sweetest shopkeeper - https://www.nexusmods.com/stardewvalley/mods/8097
         {
@@ -18,6 +19,7 @@
                 },
             }
         },
+        /*
         {
             "LogName": "[Yagi] Cotton - Location Support",
             "Action": "EditData",
@@ -46,5 +48,6 @@
 				}
             }
         },
+        */
     ]
 }
