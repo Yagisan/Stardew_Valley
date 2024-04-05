@@ -1,5 +1,6 @@
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
     "Changes": [
         // NPC Juna - https://www.nexusmods.com/stardewvalley/mods/8606
         // Juna should not be visible before her into event 86060001 and the flag PlayerChoseParents has not been set
@@ -70,6 +71,7 @@
                 },
             }
         },
+        /*
         {
             "LogName": "[Yagi] Juna - Location Support",
             "Action": "EditData",
@@ -92,5 +94,6 @@
                 }
             }
         },
+        */
     ]
 }
