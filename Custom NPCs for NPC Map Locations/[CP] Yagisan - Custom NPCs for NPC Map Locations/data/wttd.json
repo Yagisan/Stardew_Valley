@@ -1,5 +1,7 @@
+/*
 {
     "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
     "Changes": [
         {
             "LogName": "[Yagi] Walk to the Desert - Location Support",
@@ -78,3 +80,4 @@
         },
     ]
 }
+*/
