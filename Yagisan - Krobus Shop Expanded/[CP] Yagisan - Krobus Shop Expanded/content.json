@@ -10,14 +10,6 @@
                 "Items"
             ],
             "Entries": {
-                "Clay": {
-                    "Id": "(O)330",
-                    "ItemId": "(O)330",
-                    "Price": "40",
-                    "AvailableStock": 30,
-                    "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Krobus 1"
-                },
                 "Dwarf Scrolls": {
                     "RandomItemId": [
                         "(O)96",
@@ -29,25 +21,6 @@
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
                     "Condition": "PLAYER_HEARTS Current Krobus 4"
-                },
-                "Jellies": {
-                    "RandomItemId": [
-                        "(O)CaveJelly",
-                        "(O)RiverJelly",
-                        "(O)SeaJelly",
-                    ],
-                    "Price": "400",
-                    "AvailableStock": 1,
-                    "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Krobus 6"
-                },
-                "Soda Machine": {
-                    "Id": "(BC)117",
-                    "ItemId": "(BC)117",
-                    "Price": "140000",
-                    "AvailableStock": 1,
-                    "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Krobus 8, IS_COMMUNITY_CENTER_COMPLETE"
                 },
             }
         }
