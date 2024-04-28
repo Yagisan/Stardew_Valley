@@ -1,0 +1,14 @@
+{
+  "Name": "[CP] Yagisan - Willy Shop Expanded",
+  "Author": "Yagisan",
+  "Version": "1.0.0",
+  "Description": "Enables purchasing of a selection of useful items from Willy's shop",
+  "UniqueID": "Yagisan.WillyShopExpanded",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [
+    "Nexus:XXYYZZ"
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+  }
+}

@@ -1,0 +1,338 @@
+{
+    "$schema": "https://smapi.io/schemas/content-patcher.json",
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "TargetField": [
+                "FishShop",
+                "Items"
+            ],
+            // Sells fish that are in bundles. Harder fish require more hearts.
+            // Mondays - Mountain Lake
+            // Tuesdays - Ocean
+            // Wednesdays - River
+            // Thursdays - Desert
+            // Fridays - The Mines
+            // Sundays - Crab Pots
+            "Entries": {
+                // Lake Fish Bundle - Largemouth Bass
+                "Largemouth Bass": {
+                    "Id": "(O)136",
+                    "ItemId": "(O)136",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Monday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Lake Fish Bundle - Carp
+                "Carp": {
+                    "Id": "(O)142",
+                    "ItemId": "(O)142",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Monday, SEASON spring summer fall, RANDOM 0.3 @addDailyLuck"
+                },
+                // Lake Fish Bundle - Bullhead
+                "Bullhead": {
+                    "Id": "(O)700",
+                    "ItemId": "(O)700",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Monday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Lake Fish Bundle - Sturgeon
+                "Sturgeon": {
+                    "Id": "(O)698",
+                    "ItemId": "(O)698",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Monday, SEASON summer winter, RANDOM 0.3 @addDailyLuck"
+                },
+                // Ocean Fish Bundle - Sardine
+                "Sardine": {
+                    "Id": "(O)131",
+                    "ItemId": "(O)131",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Tuesday, SEASON spring fall winter, RANDOM 0.3 @addDailyLuck"
+                },
+                // Ocean Fish Bundle - Tuna
+                "Tuna": {
+                    "Id": "(O)130",
+                    "ItemId": "(O)130",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Tuesday, SEASON summer winter, RANDOM 0.3 @addDailyLuck"
+                },
+                // Ocean Fish Bundle - Red Snapper
+                "Red Snapper": {
+                    "Id": "(O)150",
+                    "ItemId": "(O)150",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Tuesday, SEASON summer fall, WEATHER Beach Rain, RANDOM 0.3 @addDailyLuck"
+                },
+                // Ocean Fish Bundle - Tilapia
+                "Tilapia": {
+                    "Id": "(O)701",
+                    "ItemId": "(O)701",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Tuesday, SEASON summer fall, RANDOM 0.3 @addDailyLuck"
+                },
+                // River Fish Bundle - Sunfish
+                "Sunfish": {
+                    "Id": "(O)145",
+                    "ItemId": "(O)145",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday, SEASON spring summer, WEATHER Beach Sunny, RANDOM 0.3 @addDailyLuck"
+                },
+                // River Fish Bundle - Catfish
+                "Catfish": {
+                    "Id": "(O)",
+                    "ItemId": "(O)",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday, SEASON spring fall, WEATHER Beach Rain, RANDOM 0.3 @addDailyLuck"
+                },
+                // River Fish Bundle - Shad
+                "Shad": {
+                    "Id": "(O)143",
+                    "ItemId": "(O)143",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday, SEASON spring summer fall, WEATHER Beach Rain, RANDOM 0.3 @addDailyLuck"
+                },
+                // River Fish Bundle - Tiger Trout
+                "Tiger Trout": {
+                    "Id": "(O)699",
+                    "ItemId": "(O)699",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday, SEASON fall winter, RANDOM 0.3 @addDailyLuck"
+                },
+                // Night Fishing Bundle - Walleye
+                "Walleye": {
+                    "Id": "(O)140",
+                    "ItemId": "(O)140",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 5, DAY_OF_WEEK Monday Tuesday, SEASON fall, WEATHER Beach Rain, RANDOM 0.3 @addDailyLuck"
+                },
+                // Night Fishing Bundle - Bream
+                "Bream": {
+                    "Id": "(O)132",
+                    "ItemId": "(O)132",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 5, DAY_OF_WEEK Wednesday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Night Fishing Bundle - Eel
+                "Eel": {
+                    "Id": "(O)148",
+                    "ItemId": "(O)148",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 5, DAY_OF_WEEK Tuesday, SEASON spring fall, WEATHER Beach Rain, RANDOM 0.3 @addDailyLuck"
+                },
+                // Specialty Fish Bundle - Pufferfish
+                "Pufferfish": {
+                    "Id": "(O)128",
+                    "ItemId": "(O)128",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 7, DAY_OF_WEEK Tuesday, SEASON summer, WEATHER Beach Sunny, RANDOM 0.3 @addDailyLuck"
+                },
+                // Specialty Fish Bundle - Woodskip
+                "Woodskip": {
+                    "Id": "(O)734",
+                    "ItemId": "(O)734",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 7, DAY_OF_WEEK Wednesday, PLAYER_VISITED_LOCATION Current Woods, RANDOM 0.3 @addDailyLuck"
+                },
+                // Specialty Fish Bundle - Sandfish
+                "Sandfish": {
+                    "Id": "(O)",
+                    "ItemId": "(O)",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 7, DAY_OF_WEEK Thursday, PLAYER_VISITED_LOCATION Current Desert, RANDOM 0.3 @addDailyLuck"
+                },
+                // Specialty Fish Bundle - Ghostfish
+                "Ghostfish": {
+                    "Id": "(O)164",
+                    "ItemId": "(O)164",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 7, DAY_OF_WEEK Friday, MINE_LOWEST_LEVEL_REACHED 20, RANDOM 0.3 @addDailyLuck"
+                },
+                // Master Fisher's Bundle - Lava Eel
+                "Lava Eel": {
+                    "Id": "(O)162",
+                    "ItemId": "(O)162",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 9, DAY_OF_WEEK Friday, MINE_LOWEST_LEVEL_REACHED 100, RANDOM 0.3 @addDailyLuck"
+                },
+                // Master Fisher's Bundle - Scorpion Carp
+                "Scorpion Carp": {
+                    "Id": "(O)165",
+                    "ItemId": "(O)165",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 9, DAY_OF_WEEK Thursday, PLAYER_VISITED_LOCATION Current Desert, RANDOM 0.3 @addDailyLuck"
+                },
+                // Master Fisher's Bundle - Octopus
+                "Octopus": {
+                    "Id": "(O)149",
+                    "ItemId": "(O)149",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 9, DAY_OF_WEEK Tuesday, SEASON summer, RANDOM 0.3 @addDailyLuck"
+                },
+                // Master Fisher's Bundle - Blobfish
+                "Blobfish": {
+                    "Id": "(O)800",
+                    "ItemId": "(O)800",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 9, SEASON_DAY winter 18 winter 19 winter 20, PLAYER_VISITED_LOCATION Current Submarine, RANDOM 0.3 @addDailyLuck"
+                },
+                // Crab Pot Bundle - Freshwater - Crayfish
+                "Crayfish": {
+                    "Id": "(O)716",
+                    "ItemId": "(O)716",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Crab Pot Bundle - Freshwater - Snail
+                "Snail": {
+                    "Id": "(O)721",
+                    "ItemId": "(O)721",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Crab Pot Bundle - Freshwater - Periwinkle
+                "Periwinkle": {
+                    "Id": "(O)722",
+                    "ItemId": "(O)722",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Crab Pot Bundle - Ocean - Lobster
+                "Lobster": {
+                    "Id": "(O)715",
+                    "ItemId": "(O)715",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Crab Pot Bundle - Ocean - Crab
+                "Crab": {
+                    "Id": "(O)717",
+                    "ItemId": "(O)717",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Crab Pot Bundle - Ocean - Shrimp
+                "Shrimp": {
+                    "Id": "(O)720",
+                    "ItemId": "(O)720",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Other Catchables - Ocean - Seaweed
+                "Seaweed": {
+                    "Id": "(O)152",
+                    "ItemId": "(O)152",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Tuesday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Other Catchables - Ocean - Sea Jelly
+                "Sea Jelly": {
+                    "Id": "(O)SeaJelly",
+                    "ItemId": "(O)SeaJelly",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 4, DAY_OF_MONTH Tuesday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Other Catchables - River - Green Algae
+                "Green Algae": {
+                    "Id": "(O)153",
+                    "ItemId": "(O)153",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Wednesday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Other Catchables - River - River Jelly
+                "River Jelly": {
+                    "Id": "(O)RiverJelly",
+                    "ItemId": "(O)RiverJelly",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 4, DAY_OF_MONTH Wednesday, RANDOM 0.3 @addDailyLuck"
+                },
+                // Other Catchables - Mines - White Algae
+                "White Algae": {
+                    "Id": "(O)157",
+                    "ItemId": "(O)157",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Thursday, MINE_LOWEST_LEVEL_REACHED 20, RANDOM 0.3 @addDailyLuck"
+                },
+                // Other Catchables - Mines - Cave Jelly
+                "Cave Jelly": {
+                    "Id": "(O)CaveJelly",
+                    "ItemId": "(O)CaveJelly",
+                    "Price": "150",
+                    "AvailableStock": 5,
+                    "AvailableStockLimit": "Player",
+                    "Condition": "PLAYER_HEARTS Current Willy 4, DAY_OF_WEEK Thursday, MINE_LOWEST_LEVEL_REACHED 20, RANDOM 0.3 @addDailyLuck"
+                },
+            }
+        }
+    ]
+}
