@@ -231,7 +231,7 @@
                     "Price": "150",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Sunday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Crab Pot Bundle - Freshwater - Snail
                 "Snail": {
@@ -240,7 +240,7 @@
                     "Price": "112",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Sunday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Crab Pot Bundle - Freshwater - Periwinkle
                 "Periwinkle": {
@@ -249,7 +249,7 @@
                     "Price": "30",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Sunday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Crab Pot Bundle - Ocean - Lobster
                 "Lobster": {
@@ -258,7 +258,7 @@
                     "Price": "180",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Sunday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Crab Pot Bundle - Ocean - Crab
                 "Crab": {
@@ -267,7 +267,7 @@
                     "Price": "150",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Sunday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Crab Pot Bundle - Ocean - Shrimp
                 "Shrimp": {
@@ -276,7 +276,7 @@
                     "Price": "90",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Sunday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Sunday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Other Catchables - Ocean - Seaweed
                 "Seaweed": {
@@ -285,7 +285,7 @@
                     "Price": "25",
                     "AvailableStock": 5,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Tuesday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Tuesday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Other Catchables - Ocean - Sea Jelly
                 "Sea Jelly": {
@@ -294,7 +294,7 @@
                     "Price": "200",
                     "AvailableStock": 2,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 4, DAY_OF_MONTH Tuesday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 4, DAY_OF_WEEK Tuesday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Other Catchables - River - Green Algae
                 "Green Algae": {
@@ -303,7 +303,7 @@
                     "Price": "15",
                     "AvailableStock": 5,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_MONTH Wednesday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Wednesday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Other Catchables - River - River Jelly
                 "River Jelly": {
@@ -312,7 +312,7 @@
                     "Price": "125",
                     "AvailableStock": 2,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 4, DAY_OF_MONTH Wednesday, RANDOM 0.3 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 4, DAY_OF_WEEK Wednesday, RANDOM 0.3 @addDailyLuck"
                 },
                 // Other Catchables - Mines - White Algae
                 "White Algae": {
