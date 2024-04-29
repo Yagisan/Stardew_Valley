@@ -1069,9 +1069,7 @@
           "Poppy"
         ],
         "SummerItemIndex": [],
-        "FallItemIndex": [
-          "Bee Balm"
-        ],
+        "FallItemIndex": [],
         "WinterItemIndex": [],
         "UniqueAreaID": "Yagisan - Desert Spawn [Desert Seasonal Blooms]",
         "MapName": "Desert",
