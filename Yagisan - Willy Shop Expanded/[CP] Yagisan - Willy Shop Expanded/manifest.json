@@ -4,9 +4,9 @@
   "Version": "1.0.0",
   "Description": "Enables purchasing of a selection of useful items from Willy's shop",
   "UniqueID": "Yagisan.WillyShopExpanded",
-  "MinimumApiVersion": "3.0.0",
+  "MinimumApiVersion": "4.0.0",
   "UpdateKeys": [
-    "Nexus:XXYYZZ"
+    "Nexus:23395"
   ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
