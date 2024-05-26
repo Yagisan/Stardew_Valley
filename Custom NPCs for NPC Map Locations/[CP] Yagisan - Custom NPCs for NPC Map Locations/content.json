@@ -85,6 +85,14 @@
 				"HasMod": "Bouhm.NPCMapLocations"
 			}
 		},
+		// Passerby Cemetery
+		{
+			"Action": "Include",
+			"FromFile": "data/passerby.json",
+			"When": {
+				"HasMod": "Bouhm.NPCMapLocations"
+			}
+		},
 		// Tier 2 Community Supported.
 		////////////////////////////////////////////////////////////////////////////////
 		// Stardew Valley Expanded (Unsupported)
