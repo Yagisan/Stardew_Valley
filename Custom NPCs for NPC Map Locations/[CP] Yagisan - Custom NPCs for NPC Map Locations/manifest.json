@@ -2,7 +2,7 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[CP] Yagisan - Custom NPCs for NPC Map Locations",
   "Author": "Yagisan",
-  "Version": "1.2.0",
+  "Version": "1.2.1",
   "Description": "Setup Custom NPCs for the NPC Map Location mod",
   "UniqueID": "Yagisan.NPCMapLocationsForNPCs",
   "MinimumApiVersion": "4.0.0",
