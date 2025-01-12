@@ -22,6 +22,38 @@
 			}
 		},
 		// This is an SVE location. Used only for SVE installs.
+		// This data really should be provided by the mod that edits the maps.
+		{
+			"LogName": "[Yagi] Juliet and Jessie - SVE Location Support",
+			"Action": "EditData",
+			"Target": "Data/WorldMap",
+			"TargetField": [
+				"Valley",
+				"MapAreas"
+			],
+			"When": {
+				"HasMod: |contains=LemurKat.EastScarpe.CP": false,
+				"HasMod: |contains=FlashShifter.StardewValleyExpandedCP": true,
+				"HasMod: |contains=LemurKat.JulietHouse.NPC": true
+			},
+			"Entries": {
+				"Lemurkat.Custom_LK_ClearingHouse": {
+					"Id": "Custom_LK_ClearingHouse",
+					"WorldPositions": [
+						{
+							"Id": "Custom_LK_ClearingHouse",
+							"LocationName": "Custom_LK_ClearingHouse",
+							"MapPixelArea": {
+								"X": 157,
+								"Y": 41,
+								"Width": 19,
+								"Height": 9
+							}
+						}
+					]
+				}
+			}
+		},
 		/*
 		{
 			"LogName": "[Yagi] Juliet and Jessie - SVE Location Support",
