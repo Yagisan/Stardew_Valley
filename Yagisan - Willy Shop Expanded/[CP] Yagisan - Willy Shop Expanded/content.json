@@ -78,7 +78,7 @@
                     "Price": "150",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Tuesday Wednesday, SEASON summer fall, WEATHER Beach Rain, RANDOM 0.7 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Tuesday Wednesday, SEASON summer fall, RANDOM 0.7 @addDailyLuck"
                 },
                 // Ocean Fish Bundle - Tilapia
                 "Tilapia": {
@@ -96,7 +96,7 @@
                     "Price": "90",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday Thursday, SEASON spring summer, WEATHER Beach Sunny, RANDOM 0.7 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday Thursday, SEASON spring summer, RANDOM 0.7 @addDailyLuck"
                 },
                 // River Fish Bundle - Catfish
                 "Catfish": {
@@ -105,7 +105,7 @@
                     "Price": "600",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday Thursday, SEASON spring fall, WEATHER Beach Rain, RANDOM 0.7 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday Thursday, SEASON spring fall, RANDOM 0.7 @addDailyLuck"
                 },
                 // River Fish Bundle - Shad
                 "Shad": {
@@ -114,7 +114,7 @@
                     "Price": "180",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday Thursday, SEASON spring summer fall, WEATHER Beach Rain, RANDOM 0.7 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 3, DAY_OF_WEEK Wednesday Thursday, SEASON spring summer fall, RANDOM 0.7 @addDailyLuck"
                 },
                 // River Fish Bundle - Tiger Trout
                 "Tiger Trout": {
@@ -132,7 +132,7 @@
                     "Price": "315",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 5, DAY_OF_WEEK Monday Tuesday Tuesday, SEASON fall, WEATHER Beach Rain, RANDOM 0.7 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 5, DAY_OF_WEEK Monday Tuesday Tuesday, SEASON fall, RANDOM 0.7 @addDailyLuck"
                 },
                 // Night Fishing Bundle - Bream
                 "Bream": {
@@ -150,7 +150,7 @@
                     "Price": "255",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 5, DAY_OF_WEEK Tuesday Wednesday, SEASON spring fall, WEATHER Beach Rain, RANDOM 0.7 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 5, DAY_OF_WEEK Tuesday Wednesday, SEASON spring fall, RANDOM 0.7 @addDailyLuck"
                 },
                 // Specialty Fish Bundle - Pufferfish
                 "Pufferfish": {
@@ -159,7 +159,7 @@
                     "Price": "600",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
-                    "Condition": "PLAYER_HEARTS Current Willy 7, DAY_OF_WEEK Tuesday Wednesday, SEASON summer, WEATHER Beach Sunny, RANDOM 0.7 @addDailyLuck"
+                    "Condition": "PLAYER_HEARTS Current Willy 7, DAY_OF_WEEK Tuesday Wednesday, SEASON summer, RANDOM 0.7 @addDailyLuck"
                 },
                 // Specialty Fish Bundle - Woodskip
                 "Woodskip": {
