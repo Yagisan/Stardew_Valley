@@ -283,7 +283,7 @@
                     "Id": "(O)152",
                     "ItemId": "(O)152",
                     "Price": "25",
-                    "AvailableStock": 5,
+                    "AvailableStock": 20,
                     "AvailableStockLimit": "Player",
                     "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Tuesday Wednesday, RANDOM 0.7 @addDailyLuck"
                 },
@@ -301,7 +301,7 @@
                     "Id": "(O)153",
                     "ItemId": "(O)153",
                     "Price": "15",
-                    "AvailableStock": 5,
+                    "AvailableStock": 20,
                     "AvailableStockLimit": "Player",
                     "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Wednesday Thursday, RANDOM 0.7 @addDailyLuck"
                 },
@@ -319,7 +319,7 @@
                     "Id": "(O)157",
                     "ItemId": "(O)157",
                     "Price": "25",
-                    "AvailableStock": 5,
+                    "AvailableStock": 20,
                     "AvailableStockLimit": "Player",
                     "Condition": "PLAYER_HEARTS Current Willy 1, DAY_OF_WEEK Thursday Friday, MINE_LOWEST_LEVEL_REACHED 20, RANDOM 0.7 @addDailyLuck"
                 },
