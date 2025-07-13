@@ -100,8 +100,8 @@
                 },
                 // River Fish Bundle - Catfish
                 "Catfish": {
-                    "Id": "(O)",
-                    "ItemId": "(O)",
+                    "Id": "(O)143",
+                    "ItemId": "(O)143",
                     "Price": "600",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
@@ -109,8 +109,8 @@
                 },
                 // River Fish Bundle - Shad
                 "Shad": {
-                    "Id": "(O)143",
-                    "ItemId": "(O)143",
+                    "Id": "(O)706",
+                    "ItemId": "(O)706",
                     "Price": "180",
                     "AvailableStock": 1,
                     "AvailableStockLimit": "Player",
